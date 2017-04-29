@@ -1,0 +1,126 @@
+@import 'reset';
+@import 'responsive';
+@import 'variables';
+@import 'typography';
+
+@import 'layouts';
+@import 'mixins';
+@import 'posts';
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:700|Roboto:500);
+
+body, html {
+  @include body-copy;
+  color: $bodytext;
+  height:100%;
+  position: relative;
+}
+
+a {
+  color:$link;
+  text-decoration:none;
+  &:visited {
+    color: darken($link, 15%);
+  }
+  &:hover, &:focus {
+    @include magic-underline($link, $link-underline, $background);
+    color: darken($link, 15%);
+  }
+}
+
+::-moz-selection { background-color: $yellow; }
+::selection { background-color: $yellow; }
+
+.back-link {
+  font-family: "Roboto Slab";
+  &:before {
+    content: '< ';
+  }
+}
+
+img {
+  width: 100%;
+  margin: 0;
+}
+
+.header-title {
+  @include media(mobile) {
+    font-size: 12px;
+    line-height: 1em;
+  }
+}
+
+.section:last-child {
+  padding-bottom: $gutter*3;
+}
+
+.date-list {
+  list-style: none;
+  li {
+    display: block;
+    overflow: hidden;
+  }
+  .post-metadata, .post-date{
+    display:inline-block;
+    width:80%;
+    float:left;
+    @include media(mobile) {
+      width: 100%;
+    }
+  }
+  .post-date {
+    width: 20%;
+    @include media(mobile) {
+      width: 100%;
+    }
+  }
+
+  time {
+    @include magic-underline($bodytext, $yellow, $background);
+  }
+
+  .post-metadata-words, .slides-video {
+    span:after {
+      content: ', ';
+    }
+    span:last-child:after {
+      content: '';
+    }
+  }
+}
+
+.link-list {
+  li {
+    margin-bottom: 0;
+    display: inline-block;
+    &:after {
+      content: ' / ';
+    }
+    &:last-child:after {
+      content: '.';
+      color: $yellow;
+    }
+  }
+}
+.push {
+  clear: both;
+  height: 1px;
+  margin-top:-1px;
+}
+footer {
+  background-image: url('/assets/me.jpg');
+  background-size: 100%;
+  background-position: bottom;
+  font-family: 'Roboto Slab', serif;
+  font-size: 80px;
+  a {
+    color: white;
+    &:visited {
+      color: darken(white, 10%);
+    };
+    &:hover, &:focus {
+      @include less-magic-underline($footer-link, $footer-link-underline);
+      text-shadow: none;
+    }
+  }
+}

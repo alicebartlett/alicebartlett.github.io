@@ -1,0 +1,190 @@
+[
+  {
+    "event_title":"Interesting 2016",
+    "event_url":"https://conwayhall.org.uk/event/interesting-2016/",
+    "event_date":"15-Sep-2016",
+    "talk_title":"Tampon Club",
+    "video_url":"https://www.youtube.com/watch?v=lGJCBa8C5gg"
+  },
+  {
+    "event_title":"Design Exchange Nottingham",
+    "event_url":"http://dxnevent.com/",
+    "event_date":"09-Nov-2016",
+    "talk_title":"Can't you make it more like Bootstrap?"
+  },
+  {
+    "event_title":"UX Brighton",
+    "event_url":"http://uxbrighton.org.uk/",
+    "event_date":"04-Nov-2016",
+    "talk_title":"Git for Humans",
+    "slides_url": "https://speakerdeck.com/alicebartlett/git-for-humans"
+  },
+  {
+    "event_title":"Cascadia 2016",
+    "event_url":"http://2016.cascadiafest.org/",
+    "event_date":"03-Aug-2016",
+    "talk_title":"Can't you make it more like Bootstrap?",
+    "slides_url":"https://speakerdeck.com/alicebartlett/cant-you-make-it-more-like-bootstrap-cascadia-conf",
+    "video_url":"https://www.youtube.com/watch?v=LAVNOQroZYA"
+
+  },
+  {
+    "event_title":"MK Geek Night",
+    "event_url":"https://mkgeeknight.co.uk/",
+    "event_date":"09-Jun-2016",
+    "talk_title":"Can't you make it more like Bootstrap?"
+  },
+  {
+    "event_title":"UpFront",
+    "event_url":"http://upfrontconf.com/",
+    "event_date":"27-May-2016",
+    "talk_title":"Can't you make it more like Bootstrap?"
+  },
+  {
+      "event_title":"Front Trends",
+      "event_url":"https://2016.front-trends.com/",
+      "event_date":"19-May-2016",
+      "talk_title":"Can't you make it more like Bootstrap?",
+      "video_url":"https://www.youtube.com/watch?list=PLBevk0eXLOGdZ4yHChA-JW69DCBe7uGkJ&v=y4ggoN2xtAY"
+  },
+  {
+    "event_title":"Beyond Conf",
+    "event_url":"http://beyondconf.co/",
+    "event_date":"23-Nov-2015",
+    "talk_title":"Asking for more"
+  },
+  {
+    "event_title":"LRUG",
+    "event_url":"http://lrug.org",
+    "event_date":"12-Oct-2015",
+    "talk_title":"Fixing a performance issue with the mustache gem",
+    "slides_url":"https://speakerdeck.com/evilstreak/fixing-a-performance-issue-with-the-mustache-gem",
+    "video_url":"https://skillsmatter.com/skillscasts/6598-debugging-and-fixing-performance-issues-with-the-mustache-gem-and-partials"
+  },
+  {
+    "event_title":"Fronteers 2015",
+    "event_url":"https://fronteers.nl/congres/2015",
+    "event_date":"08-Oct-2015",
+    "talk_title":"What is the business case for accessibility?",
+    "video_url":"https://fronteers.nl/congres/2015/sessions/what-is-the-business-case-for-accessibility-alice-bartlett"
+  },
+  {
+    "event_title":"Dareconf afterparty",
+    "event_url":"https://www.eventbrite.co.uk/e/the-dareconf-party-tickets-18457395567",
+    "event_date":"28-Sep-2015",
+    "talk_title":"Starting Tampon Club"
+  },
+  {
+    "event_title":"Nordic.js 2015",
+    "event_url":"https://nordicjs2015.confetti.events/",
+    "event_date":"10-Sep-2015",
+    "talk_title":"Dump your select tags [SCANDO REMIX]",
+    "video_url":"https://www.youtube.com/watch?v=-dH6a6eMdXE"
+},
+  {
+    "event_title":"TXJS 2015",
+    "event_url":"https://2015.texasjavascript.com/",
+    "event_date":"24-Jul-2015",
+    "talk_title":"Dump your select tags [US REMIX]",
+    "video_url":"https://www.youtube.com/watch?v=Q8Mj7_0Lok0"
+  },
+  {
+    "event_title":"Responsive Day Out 3: The Final Breakpoint",
+    "event_url":"http://responsiveconf.com/",
+    "event_date":"19-Jun-2015",
+    "talk_title":"What is the business case for accessibility?"
+  },
+  {
+    "event_title":"Civic Shop @ V&A",
+    "event_url":"http://www.civicworkshop.city/civic-shop/",
+    "event_date":"24-Apr-2015",
+    "talk_title":"Grab your tampons, it's club starting time"
+  },
+  {
+    "event_title":"jQuery UK 2015",
+    "event_url":"http://jqueryuk.com/2015/",
+    "event_date":"06-Mar-2015",
+    "talk_title":"Dump your select tags",
+    "slides_url":"https://speakerdeck.com/alicebartlett/burn-your-selects",
+    "video_url":"http://jqueryuk.com/2015/videos.php?s=bin-your-"
+  },
+  {
+    "event_title":"LJC Open Conference",
+    "event_url":"https://sites.google.com/site/ljcopenconference/",
+    "event_date":"29-Nov-2014",
+    "talk_title":"Dump your select tags"
+  },
+  {
+    "event_title":"Epic FEL",
+    "event_url":"http://epic.frontendlondon.co.uk/",
+    "event_date":"04-Oct-2014",
+    "talk_title":"Dump your select tags",
+    "video_url":"https://www.youtube.com/watch?v=CUkMCQR4TpY"
+  },
+  {
+    "event_title":"Nightly Build",
+    "event_url":"http://www.nightlybuild.io/",
+    "event_date":"26-Sep-2014",
+    "talk_title":"Dump your select tags"
+  },
+  {
+    "event_title":"Edge 3",
+    "event_url":"http://edgeconf.com/2014-london/",
+    "event_date":"21-Mar-2014",
+    "talk_title":"Panel: Future Web",
+    "video_url":"http://edgeconf.com/2014-london?v=6u03xYkwMVI"
+  },
+  {
+    "event_title":"LRUG",
+    "event_url":"http://lrug.org",
+    "event_date":"10-Feb-2014",
+    "talk_title":"Five facts about smell: The lightning talk",
+    "slides_url":"https://speakerdeck.com/alicebartlett/five-facts-about-smell-20x20-slides",
+    "video_url":"https://skillsmatter.com/skillscasts/5050-five-facts-about-smell"
+  },
+  {
+    "event_title":"GeekyConf",
+    "event_url":"http://www.geekyconf.com/",
+    "event_date":"21-Nov-2013",
+    "talk_title":"Five facts about smell",
+    "slides_url":"https://speakerdeck.com/alicebartlett/five-facts-about-smell"
+  },
+  {
+    "event_title":"7on7 by Rhizome",
+    "event_url":"http://rhizome.org/sevenonseven/",
+    "event_date":"27-Oct-2013",
+    "talk_description":"Paired with Artist Cecile B Evans, we made something pointless in a day"
+  },
+  {
+    "event_title":"CanvasConf",
+    "event_url":"http://www.383project.com/blog/canvas-2013-roundup/",
+    "event_date":"10-Oct-2013",
+    "talk_title":"Big Brain Little Brain. Little Printer and BERG Cloud",
+    "slides_url":"https://speakerdeck.com/alicebartlett/big-brain-little-brain"
+  },
+  {
+    "event_title":"ReCombine Dinners",
+    "event_url":"http://www.eventbrite.com/e/recombine-dinners-tickets-6899076323",
+    "event_date":"18-Jul-2013",
+    "talk_title":"Three people it's lucky I met."
+
+  },
+  {
+    "event_title":"HowTheLightsGetIn 2013",
+    "event_url":"http://howthelightgetsin.org/",
+    "event_date":"02-Jun-2013",
+    "talk_description":"Panel: Luddites and Fools",
+    "video_url":"http://iai.tv/video/luddites-and-fools"
+  },
+  { "event_title":"A Printer's Tale",
+    "event_url":"http://www.eventbrite.com/e/a-printers-tale-tickets-4991949054",
+    "event_date":"17-Dec-2012",
+    "talk_title":"Little Printer; What BERG made, what other people have made"
+  },
+  {
+    "event_title":"Geeky August",
+    "event_url":"http://www.eventbrite.co.uk/e/geeky-tickets-3971825838",
+    "event_date":"28-Aug-2012",
+    "talk_title":"Little Printer"
+  }
+]

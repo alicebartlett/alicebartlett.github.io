@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<header class='header'>
+  <div class='inner'>
+    <a class='back-link' href='/'>nope</a>
+  </div>
+</header>
+<div class='inner'>
+  <div class='content'>
+    <div class='post'>
+      <div class='section'>
+        <div class='post-meta'>
+          <h1>{{ page.title }}</h1>
+          <span class='post-date'>{{ page.date | date: "%b %-d, %Y" }}</post-span>
+        </div>
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>
+<div class='blog-nav'>
+  <div class='inner'>
+    {% if page.previous.url %}
+      <a class='previous' href="{{page.previous.url}}">Previous</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class='next' href="{{page.next.url}}">Next</a>
+		{% endif %}
+  </div>
+</div>

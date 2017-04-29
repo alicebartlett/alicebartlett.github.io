@@ -1,0 +1,46 @@
+$base-font-size: 18px;
+$line-height: 1.5;
+$gutter: $line-height*$base-font-size; //27
+
+@mixin body-copy {
+  font-size: $base-font-size;
+  line-height: $line-height;
+  font-family: 'Roboto', serif;
+}
+
+p {
+  margin-bottom: $gutter;
+  font-size: $base-font-size;
+  line-height: $line-height;
+}
+
+h1 {
+  font-family: 'Roboto Slab';
+  font-size: $base-font-size*2.5;
+  line-height: 1em;
+  padding-bottom: $gutter;
+  @include media(mobile) {
+    font-size: 27px;
+    line-height: 1em;
+  }
+}
+
+h2 {
+  font-family: 'Roboto Slab';
+  font-size: 27px;
+  line-height: 1em;
+  padding-top: $gutter;
+  padding-bottom: $gutter;
+}
+
+h3 {
+  font-family: 'Roboto Slab';
+  font-size: 1.125em;
+  line-height: $gutter/20px;
+  padding-top: $gutter*1.5;
+  padding-bottom: $gutter*0.5;
+}
+
+li {
+  margin-bottom: $gutter/2;
+}

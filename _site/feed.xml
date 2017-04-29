@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://alicebartlett.co.uk/</link>
+    <atom:link href="http://alicebartlett.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 29 Apr 2017 11:29:06 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Apr 2017 11:29:06 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Yearnotes 2016</title>
+        <description>&lt;p&gt;Once again it’s January 1st and I have some yearnotes to write. If you’re thinking about writing a year-end blog post please send it to me, I really like reading them!&lt;/p&gt;
+
+&lt;p&gt;Of course, 2016 wasn’t exactly a brilliant year for the world. I cried when Trump won and I cried when we voted to leave the EU. For me personally, there were some very good points (spoiler alert: got married, got promotedish) and some real lows (after an exceptionally stressful day at work I felt so anxious I threw up in the dark in a car park onto my shoes).&lt;/p&gt;
+
+&lt;h2 id=&quot;work&quot;&gt;Work&lt;/h2&gt;
+
+&lt;p&gt;I’m still at the Financial Times. I’m now leading the Origami Team over there which is a brilliant job. The people in my team are all extremely talented and so easy to work with. The remit of the team - to reduce time spent repeating work and standardise design across the FT - still gets my brain fizzing with ideas for long term projects as well as shorter term stuff to help people out around the company. I still get to write a fair bit of code too which I feel very lucky for.&lt;/p&gt;
+
+&lt;h2 id=&quot;talks&quot;&gt;Talks&lt;/h2&gt;
+
+&lt;p&gt;I did less public speaking this year than in 2015, mostly because in my new role my priorities have shifted a bit and I think there’s less benefit to me doing lots of conference talks.&lt;/p&gt;
+
+&lt;p&gt;The best and most fun talk I gave this year was at UXBrighton. It was an explainer on what Git is, and why developers use it. People responded well to the talk and I’d love to give it again as it wasn’t videoed. &lt;a href=&quot;https://speakerdeck.com/alicebartlett/git-for-humans&quot;&gt;The slides are here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I also gave a 7 minute talk at Russell’s Interesting about Tampon Club. This was also really fun to deliver. I love talking about Tampon Club, there are so many funny stories to tell about it. You can see the &lt;a href=&quot;https://www.youtube.com/watch?v=lGJCBa8C5gg&quot;&gt;audio + slides here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-life-things&quot;&gt;Other life things&lt;/h2&gt;
+
+&lt;p&gt;Lachie and I got married in February. We did it without telling anyone except our four witnesses. It was extremely fun and deeply unsentimental which made it feel very special. We did it in Lewisham Registry Office which is a grim little building on the main road next to the Hospital. I sewed my own wedding dress obvs. At Lewisham, before the wedding, they give you form to fill out. It’s a bit like a choose your own adventure but for a wedding. Each choice is “how much do you want us to say for this bit” and the options are:&lt;/p&gt;
+
+&lt;p&gt;A. Say as much as you can. I want baroque metaphors for love. Turn the solemnity up to 11. This is my one true everlasting union and I need everyone to know it.&lt;/p&gt;
+
+&lt;p&gt;B. We’re normal people but please leave in some decorative turns of phrase for my grandmother who has travelled in from Tunbridge Wells.&lt;/p&gt;
+
+&lt;p&gt;C. Please keep it as short as possible. We’d have done this online if we could.&lt;/p&gt;
+
+&lt;p&gt;Of course we went for option C at every point. The resulting ceremony was so short that we had to sit and chat for a bit at the end because the assistant clerk didn’t have sufficient time to copy our details to the marriage certificate.&lt;/p&gt;
+
+&lt;p&gt;After the wedding we phoned all of our relatives who were all somewhere on the spectrum between “pleased” (my parents) to “thrilled” (Lachie’s parents). I didn’t change my name because “Alice Murray” isn’t a significantly more interesting name than my own and I get really great SEO for “Alice Bartlett”.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-highlights&quot;&gt;Other highlights.&lt;/h2&gt;
+&lt;p&gt;(&lt;a href=&quot;https://photos.google.com/share/AF1QipPCI5oYai8HdlJO2gBqcWW0Ey5fl6dzDmqg7nqRPfcYcYB06S9rcqzY5kCB7pZeHA?key=TG9URDlFc2lvQTRBV3U0ZnNGMzJybnNyeE1Ddm9n&quot;&gt;Here’s a Google Photos link to some of these highlights&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Went to Canada for the first time. Was best woman at my best friend’s wedding. Got the bathroom re-done. Made another coat, two shirts, a pair of trousers and a wedding dress. Went to Hythe, Rye and Dungeness. Had a short honeymoon in Robinhood’s bay. Played Pandemic Legacy with Kyle and Alan. Formed Warsaw’s baddest girl gang with Brenna and Mariko. Had an away day in my house. Pizza floatie. Hikes in the Canadian Rockies. All those games of poker. All those Shepherdess breakfasts.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2017 11:32:34 +0000</pubDate>
+        <link>http://alicebartlett.co.uk/yearnotes-2016</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/yearnotes-2016</guid>
+        
+        
+        <category>yearnotes</category>
+        
+      </item>
+    
+      <item>
+        <title>A decent attempt at a date filter</title>
+        <description>&lt;p&gt;Back when I was at GDS, I worked on a thing that is small but, I don’t know, almost perfect‽
+It’s an input for dates that people can use to filter search results. It’s used on a bit of GOV.UK architecture called “Finders”. Finders are the technology behind pages like &lt;a href=&quot;https://gov.uk/cma-cases&quot;&gt;Competitions and Markets Authority cases&lt;/a&gt; or &lt;a href=&quot;https://gov.uk/aaib-reports&quot;&gt;Air Accident Investigation Branch reports&lt;/a&gt;. They’re the place you go to look for technical reports about ongoing investigations happening in bits of government. The users of this tool are mostly professionals who need to find and follow these reports. The users have a reasonable degree of technical confidence. I only mention that because the research here is with these users and their needs, so if you’re looking at supporting users less familiar with computers then you might be better off doing something else.&lt;/p&gt;
+
+&lt;p&gt;I was looking for it the other day; the interesting technical and design bits are all over the place so I thought I’d write it up here.&lt;/p&gt;
+
+&lt;h2 id=&quot;research&quot;&gt;Research&lt;/h2&gt;
+&lt;p&gt;We shipped the first version of the date input in public beta and then iterated on it with lab based user research and by examining the logs of search queries.&lt;/p&gt;
+
+&lt;p&gt;The first version of this date input was pretty sketchy. It used ruby’s Date.parse function and some regex to work around a ‘feature’ whereby 11/11/90 is parsed as 2090. This worked OKish but it didn’t accept dates like “July” or “2010”.&lt;/p&gt;
+
+&lt;p&gt;Research uncovered a second problem too. We had some help text under the input: ‘for example 21/11/2014’. But this text didn’t really align with how people wanted to search for dates. In research users revealed that they’d prefer much fuzzier matching like “June” or “06/2010” but thought that the date input wouldn’t accept that date because of that label. When we looked at the logs, it confirmed that the majority of people were putting in dates according to the label text suggestion.&lt;/p&gt;
+
+&lt;p&gt;You can see the raw data over on the &lt;a href=&quot;https://designpatterns.hackpad.com/Dates-vpx6XlVjIbE#:h=Date-patterns-from-users&quot;&gt;GDS design hackpad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;fixing-it&quot;&gt;Fixing it&lt;/h2&gt;
+&lt;p&gt;The first thing to do was open up the date label to imply a broader range of date formats. We went with “For example 2008 or 21/11/2014”. This isn’t perfect but an improvement.&lt;/p&gt;
+
+&lt;p&gt;The second thing was to write some code. This is the other thing I feel good about. Using the raw logs and some regex, we were able to construct a test suite for all the dates we would accept. Here’s the &lt;a href=&quot;https://github.com/alphagov/finder-frontend/pull/122&quot;&gt;Pull request&lt;/a&gt; that fixes that all up.&lt;/p&gt;
+
+&lt;p&gt;In the end we swapped out reliance on Ruby’s Date parsing and used a gem called Chronic instead. The app now accepts any date and passes it to the Chronic gem. Chronic is great but we did have to work around the following problems:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Interpreted ‘2008’ to be 20:08 hrs.&lt;/li&gt;
+  &lt;li&gt;Barfed on strings like “20 11 16” and 20.11.16&lt;/li&gt;
+  &lt;li&gt;Barfed on strings like “20112016”. This is probably the right call for chronic, which has to be general purpose. For our use though, we were able to make some more useful assumptions with these kinds of inputs. Once the date has been parsed we return the full unambiguous date to the screen so if users get this wrong they can see.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;and-so&quot;&gt;And so&lt;/h2&gt;
+&lt;p&gt;This one of the things GDS does extremely well. User research, design and code working together to create something boring but very well formed. They also publish everything with varying levels of certainty and formality on their &lt;a href=&quot;https://designpatterns.hackpad.com&quot;&gt;hackpad&lt;/a&gt; or in their &lt;a href=&quot;https://www.gov.uk/service-manual&quot;&gt;service manual&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Jun 2016 10:11:27 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/date-filter</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/date-filter</guid>
+        
+        
+        <category>frontend</category>
+        
+        <category>development</category>
+        
+        <category>code</category>
+        
+        <category>gds</category>
+        
+      </item>
+    
+      <item>
+        <title>Origami crosspost</title>
+        <description>&lt;p&gt;It’s been eight months since I joined the Financial Times to work on their components system, Origami. I’m the tech lead, or platform head, depending on what end of the telescope you’re looking down. Is that the right metaphor? Who knows.&lt;/p&gt;
+
+&lt;p&gt;I prefer “tech lead” but that doesn’t cover some of the other things I have to do in the role which are less about tech decisions and more about reporting upwards.&lt;/p&gt;
+
+&lt;p&gt;Anyway. This post isn’t about that. It’s to say that &lt;a href=&quot;http://engineroom.ft.com/2016/06/20/origami-and-177-ft-sites/&quot;&gt;I’ve written a blog post about Origami&lt;/a&gt; over on the Financial Times’ tech blog. There will be some more posts in the future about what we’re doing with Origami and why, but first I needed to lay some ground-work about the Financial Times.&lt;/p&gt;
+
+&lt;p&gt;If you’re working on something similar, especially if you’re working in publishing, I’d love to hear from you.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jun 2016 00:11:12 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/origami-crosspost</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/origami-crosspost</guid>
+        
+        
+        <category>frontend</category>
+        
+        <category>development</category>
+        
+        <category>code</category>
+        
+        <category>financial</category>
+        
+        <category>times</category>
+        
+      </item>
+    
+      <item>
+        <title>October 2015 LRUG writeup</title>
+        <description>&lt;p&gt;Waaaaay back in October 2015, &lt;a href=&quot;https://twitter.com/evilstreak&quot;&gt;Dom&lt;/a&gt; and I gave a talk at the London Ruby User Group about fixing a performance issue in the Ruby Mustache Gem.&lt;/p&gt;
+
+&lt;p&gt;This came about because &lt;a href=&quot;https://twitter.com/hlame&quot;&gt;Murray&lt;/a&gt;, who runs LRUG saw a blog post I’d written about the issue and asked me to talk about it. At the time I said “sure, but Dom should do it too” and cc’d him in to the email chain, not knowing that Dom had never done a talk before and I had just signed him up to his first without asking. Whoops!&lt;/p&gt;
+
+&lt;p&gt;The slides are here &lt;a href=&quot;https://speakerdeck.com/evilstreak/fixing-a-performance-issue-with-the-mustache-gem&quot;&gt;on Speakerdeck&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The blog post (which I’m v proud of) is here: &lt;a href=&quot;https://gdstechnology.blog.gov.uk/2015/06/09/major-performance-issue-with-mustache-and-partials/&quot;&gt;on the GDS techblog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s a video of it here &lt;a href=&quot;https://skillsmatter.com/skillscasts/6598-debugging-and-fixing-performance-issues-with-the-mustache-gem-and-partials&quot;&gt;on the skills matter website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Two things I want to commit to blog about this:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Murray is a brilliant steward of the London Ruby community, and he’s been doing it for flipping ages. He should probably get a CBE or something. He’s probably so classy he’d turn it down.&lt;/li&gt;
+  &lt;li&gt;It was enormous fun getting to give this talk with Dom. I mostly give talks on my own, and Dom mostly doesn’t give talks at all, so it was really ace to do an LRUG together.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 21 Jun 2016 12:23:47 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/fixing-a-perf-issue-in-the-mustache-gem</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/fixing-a-perf-issue-in-the-mustache-gem</guid>
+        
+        
+        <category>frontend</category>
+        
+        <category>development</category>
+        
+        <category>code</category>
+        
+        <category>gds</category>
+        
+        <category>ruby</category>
+        
+        <category>mustache</category>
+        
+      </item>
+    
+      <item>
+        <title>A white-label slide deck</title>
+        <description>&lt;p&gt;Russell Davies has covered the basics of presentations &lt;a href=&quot;http://russelldavies.typepad.com/planning/2015/11/doing-presentations.html&quot;&gt;over on his blog&lt;/a&gt;, I’m not going to rehash what he’s said there. He’s covered &lt;a href=&quot;http://russelldavies.typepad.com/planning/2015/06/doing-the-hard-work-to-make-it-big.html&quot;&gt;making slides readable&lt;/a&gt;, &lt;a href=&quot;http://russelldavies.typepad.com/planning/2015/06/doing-the-hard-work-to-make-it-clear.html&quot;&gt;making ideas clear&lt;/a&gt;, &lt;a href=&quot;http://russelldavies.typepad.com/planning/2015/06/doing-the-hard-work-to-make-it-bearable.html&quot;&gt;managing audience attention&lt;/a&gt; and finally &lt;a href=&quot;http://russelldavies.typepad.com/planning/2015/07/one-more-thing.html&quot;&gt;not putting pictures of money on slides about budgets&lt;/a&gt;. You should probably read those before you read this.&lt;/p&gt;
+
+&lt;p&gt;These posts are terrific, so I thought I’d wrap all of his advice (and some of my own) up into a white-label keynote theme that people can then build on top of.&lt;/p&gt;
+
+&lt;p&gt;Sometimes presentations are for big auditoriums, where people are barely paying attention and it’s warm and dark, and sometimes presentations are for rooms of 10 people. The slide deck you create for the highly engaged 10 person audience is not the same as the one you write for the 500 person audience.&lt;/p&gt;
+
+&lt;p&gt;This blog post is about presentations for a big audience.&lt;/p&gt;
+
+&lt;p&gt;Here’s the theme:  &lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/whitelabel_theme.zip&quot;&gt;Keynote&lt;/a&gt;, &lt;a href=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/whitelabel_theme.potx&quot;&gt;Powerpoint&lt;/a&gt; (thanks, &lt;a href=&quot;https://twitter.com/danblundell/status/719448454976651265&quot;&gt;Dan!&lt;/a&gt;), &lt;a href=&quot;https://docs.google.com/presentation/d/19F5pQqnLc52-KBsvTZ7oloOvomkNW8A7tX98a3KOohY/edit&quot;&gt;Google slides&lt;/a&gt; (thanks, &lt;a href=&quot;https://twitter.com/mildlydiverting/status/721323173418049536&quot;&gt;Kim!&lt;/a&gt;). Now I’m going to talk about each slide in it.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-basic-slide&quot;&gt;Your basic slide&lt;/h2&gt;
+
+&lt;p&gt;First things first, you need a basic slide. The design of these slides is about lessening the impact of things that go wrong with technology.&lt;/p&gt;
+
+&lt;p&gt;I’ve used a system font so that if I have to present off someone else’s computer, they’ll definitely have the font installed and my formatting won’t unexpectedly break.&lt;/p&gt;
+
+&lt;p&gt;Most of these slides use a dark on light design so that if the projector is terrible and the room is really bright, you’ll still be able to read them. &lt;a href=&quot;http://rmurphey.com/blog/2012/11/29/choosing-presentation-color-scheme&quot;&gt;Rebecca Murphey has a good post on this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve used big margins at the left, right and top so if the projector isn’t lined up properly with the screen none of my important words will go missing.&lt;/p&gt;
+
+&lt;p&gt;In case someone comes in half way through, put some way of finding out who you are (your name or Twitter handle) on the slide.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/basic.jpeg&quot; alt=&quot;Your basic slide&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-basic-slide-with-a-picture&quot;&gt;A basic slide with a picture&lt;/h2&gt;
+
+&lt;p&gt;Keeping in mind Russell’s advice: “Illustrate, don’t decorate”, sometimes I need pictures with some text.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/photo_and_text.jpeg&quot; alt=&quot;Your basic slide with image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/image_with_text.jpeg&quot; alt=&quot;Your basic slide with image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-blank-slide&quot;&gt;A blank slide&lt;/h2&gt;
+
+&lt;p&gt;My keynote theme has a completely blank slide for charts and diagrams. Charts and diagrams are where even good presenters can get into trouble. My only advice is make your labels as big as possible, and think carefully about what you’re trying to show. People looking at a chart or diagram in a report have more time to pore over it than they do when looking at your slide in a presentation. Manage your audience’s focus by highlighting the important bits of a chart, and obscuring the other bits.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/blank.jpeg&quot; alt=&quot;Your basic slide with image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;your-title-slide&quot;&gt;Your title slide&lt;/h2&gt;
+
+&lt;p&gt;It’s a really really good idea to have a title slide. It means that while you’re futzing around with the presenter display in the pre-talk bit the audience isn’t reading your slides, they’re just looking at your name and the title of your talk. Again, give people a way to find out more about you and what you’re talking about.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/title.jpeg&quot; alt=&quot;Title slide&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-navigation-y-slide&quot;&gt;A navigation-y slide&lt;/h2&gt;
+&lt;p&gt;As &lt;a href=&quot;http://russelldavies.typepad.com/planning/2015/06/doing-the-hard-work-to-make-it-bearable.html&quot;&gt;Russell says,&lt;/a&gt; your talk should have some kind of structure and you should tell people what that structure is. I like to use a different colour background my navigation and structure slides.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/navigation.jpeg&quot; alt=&quot;A navigation-y slide&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-slide-for-quotes&quot;&gt;A slide for quotes&lt;/h2&gt;
+&lt;p&gt;Quoting people in talks is good. Have a design for that. Make sure there’s somewhere visible for the attribution of the quote. Attributions are both classy &lt;em&gt;and&lt;/em&gt; mean people can look stuff up later.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/quote.jpeg&quot; alt=&quot;A design for quotes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you can find a good photograph of the person you’re quoting, include that to remind people who this person is.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/quote_photo.jpeg&quot; alt=&quot;A design for quotes with a photo&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-slide-for-showing-a-picture-of-a-website&quot;&gt;A slide for showing a picture of a website&lt;/h2&gt;
+&lt;p&gt;YMMV but I show a lot of pictures of websites in my talks. Make sure they’re are as big as possible, nobody needs to see all that browser chrome. Make sure there’s a place for the url of the page (leaving the address bar in will be too small).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/website.jpeg&quot; alt=&quot;website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to draw attention to a particular part of a website, make sure you have a design for that too. I like to darken the bits of a page or diagram that aren’t important.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/website_with_highlight.jpeg&quot; alt=&quot;Website with highlight&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I also have a design for showing a page in a mobile browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/website_in_phone.jpeg&quot; alt=&quot;website on phone&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-slide-for-your-power-quotes&quot;&gt;A slide for your “power quotes”&lt;/h2&gt;
+
+&lt;p&gt;Before I spoke at Nordic.js, they asked me for my talk’s “power quotes” so that as I gave my talk, they could tweet the important bits. This is quite a good idea really, it helps get the thing you want to say in front of more people. To help my points carry further, I put the really important stuff on it’s own slide and make sure it’s big enough to photograph from the audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/power_quote.jpeg&quot; alt=&quot;A design for power quotes&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-closing-slide&quot;&gt;A closing slide&lt;/h2&gt;
+
+&lt;p&gt;At the end of your talk, there’s a finishing slide. Something to say “thanks for having me, go here for more information”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/end_slide.jpeg&quot; alt=&quot;A design for the end&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Apr 2016 23:03:34 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/how-to-do-ok-at-slides</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/how-to-do-ok-at-slides</guid>
+        
+        
+        <category>slides</category>
+        
+        <category>presenting</category>
+        
+        <category>keynote</category>
+        
+      </item>
+    
+      <item>
+        <title>Yearnotes 2015</title>
+        <description>&lt;p&gt;I had a nice time writing notes about 2014 last year, so I’ve decided to do it again. 2015 was one of those years where I “learnt a lot”, which is a euphemism for “cried in the toilets a lot”. No matter though, there were some really good bits and things seem quite good now so!&lt;/p&gt;
+
+&lt;h2 id=&quot;work&quot;&gt;Work&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/financial_times_sharks.jpg&quot; alt=&quot;FT Sharks&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year a lot of stuff happened in work. Most notably:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I was promoted to ‘Senior Developer’ at GDS, which was nice.
+I didn’t tell anyone on the internet that I was promoted because I still feel, even now, that it must have been some kind of mistake [violin emoji]. I guess I naively assumed I’d feel like a senior developer when I was ready to be one but I’m as much scratching my head about code, and work, and people as I ever was.&lt;/li&gt;
+  &lt;li&gt;I co-started a grass-roots women’s group at GDS. This was something I did because I realised it was really important for GDS and the women there that there was one. The group helped to get some good stuff into reality; proper training for line managers, better understanding and handling of maternity leave, in-person unconscious bias training, a commitment to publishing diversity statistics, and reverse mentoring (where a member of the Senior Leadership Team (SLT) is mentored by a more junior person). One notable thing about this whole process was how extremely supportive the SLT was. Initially the group made three requests of GDS, but it was the SLT that told us we weren’t being ambitious enough with them, asking us what else? what else? what else?&lt;/li&gt;
+  &lt;li&gt;GDS started paying for &lt;a href=&quot;https://www.instagram.com/p/0X40ftk9k8/&quot;&gt;free Tampons!&lt;/a&gt; Not because of the women’s group but because of &lt;a href=&quot;http://tampon.club&quot;&gt;Tampon Club&lt;/a&gt;. This was really not something I was expecting, but it still thrills me to think that that happened and that it was &lt;em&gt;me&lt;/em&gt; that made it happen.&lt;/li&gt;
+  &lt;li&gt;I changed jobs! I left GDS in October to join the Financial Times. I now work for &lt;a href=&quot;http://trib.tv&quot;&gt;Andrew Betts&lt;/a&gt; again. Andrew gave me my first job in London, at Assanka. It’s really lovely to be back with him and the team again. The role at the FT is on their frontend tooling team: Origami. My job is part developer, part advocate. It’s hugely challenging, Origami is a very advanced toolkit for frontend work, it includes services and components, and is used throughout the FT. &lt;a href=&quot;http://labs.ft.com/jobs/javascript/&quot;&gt;We’re hiring&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;house&quot;&gt;House&lt;/h2&gt;
+&lt;p&gt;Lachie and I bought a house, we live in it and it’s quite good. I now cycle to work.&lt;/p&gt;
+
+&lt;h2 id=&quot;tampon-club&quot;&gt;Tampon Club&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/civic_shop.jpg&quot; alt=&quot;Tampon Club starter kits&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tampon club keeps ticking on. It had its 1st birthday in November, which would have been a good time to show you all the photos people have sent me of their own Tampon Clubs. Except I forgot. I’m still sending out stickers in the post to people, so if you’d like one, &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#105;&amp;#064;&amp;#116;&amp;#097;&amp;#109;&amp;#112;&amp;#111;&amp;#110;&amp;#046;&amp;#099;&amp;#108;&amp;#117;&amp;#098;&quot;&gt;get in touch with Tampon Club&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the beginning of the year I provided Cassie Robinson with some &lt;a href=&quot;http://www.tampon.club/2015/02/04/tampon-club-in-somerset-house.html&quot;&gt;‘Tampon Club Starter Kits’&lt;/a&gt; for her Civic Shop which was in Somerset House from January to April. Proceeds from sales went to Solace Women’s aid.&lt;/p&gt;
+
+&lt;p&gt;I did some research on how much it would cost per woman to pay for tampons during work hours. Surprisingly it’s only £4.28 per woman per year (excluding the cost of getting the tampons into the toilets). I actually ran these numbers a few times because £4.28 is so low. &lt;a href=&quot;http://www.tampon.club/tampon-club-for-folks-who-dont-use-tampons/provide-free-tampons/#how-much-will-it-cost&quot;&gt;You can see my working here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I gave two talks about Tampon Club, one at the V&amp;amp;A and one at DareConf’s after party. Both were very fun! I like talking about tampons.&lt;/p&gt;
+
+&lt;h2 id=&quot;public-speaking&quot;&gt;Public speaking&lt;/h2&gt;
+&lt;p&gt;In 2015, off the back of the talks I did in 2014, I did a lot more public speaking, nine talks in four countries.
+The best thing about speaking at conferences is getting to meet people whose work you’ve admired over the internet. If you’ve been one of those people, thank you!
+The other best thing about conferences is when you get to float down a river in Texas in a rubber ring, which was literally the happiest I’ve been all year. So a special thanks to Alex and Rebecca for organising that as part of TXJS.&lt;/p&gt;
+
+&lt;h2 id=&quot;sewing&quot;&gt;Sewing&lt;/h2&gt;
+&lt;p&gt;What with moving house sewing took a bit of a hit this year, that said, I did still manage to make a &lt;a href=&quot;http://sewing.butt.kitchen&quot;&gt;few bits and pieces&lt;/a&gt; including a coat that was featured on the &lt;a href=&quot;http://grainlinestudio.com/2015/12/14/2015-pattern-recap-tamarack-jacket/&quot;&gt;Grainline Blog&lt;/a&gt; which is quite exciting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/coat.gif&quot; alt=&quot;Coat&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Dec 2015 22:03:34 +0000</pubDate>
+        <link>http://alicebartlett.co.uk/yearnotes-2015</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/yearnotes-2015</guid>
+        
+        
+        <category>yearnotes</category>
+        
+      </item>
+    
+      <item>
+        <title>What is the business case for accessibility?</title>
+        <description>&lt;p&gt;I gave this talk at &lt;a href=&quot;http://responsiveconf.com/&quot;&gt;Responsive Day Out&lt;/a&gt; on June 19th in Brighton. It was a 20 minute talk. Normally I aim for 1 hour of prep per minute of speaking. &lt;a href=&quot;http://russelldavies.typepad.com/&quot;&gt;Russell&lt;/a&gt; reckons that’s the a good rule of thumb for writing a new talk anyways, and he’s really &lt;em&gt;really&lt;/em&gt; good at them. This talk took a lot longer than 20 hours to write. It was probably more like 35 by the end.&lt;/p&gt;
+
+&lt;p&gt;I started off thinking this talk would be me standing up and presenting the business case or cases for accessibility. But by the end of the first 20 hours of writing and rehearsing, what I had was a talk full of conjecture, mostly me going: “maybe this is a business case if all these flimsy and unlikely things apply to you…?!?” So with a week to spare I re-wrote the talk, and then I re-wrote it again.&lt;/p&gt;
+
+&lt;p&gt;The audio of the final thing is available at &lt;a href=&quot;here as an mp3&quot;&gt;http://responsiveconf.com.s3.amazonaws.com/2015/audio/01-alice-bartlett-responsiveconf2015.mp3&lt;/a&gt;, and I’ve dutifully uploaded my slides to &lt;a href=&quot;https://speakerdeck.com/alicebartlett/what-is-the-business-case-for-accessibility&quot;&gt;speaker deck&lt;/a&gt;.
+Here is a write-up-ish of what I said in Brighton.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-business-case-for-accessibility&quot;&gt;“What is the business case for Accessibility?”&lt;/h2&gt;
+&lt;p&gt;I’m giving this talk because I keep hearing people ask that question. Having never really thought about it, I’d always assumed there must be a business case and when people have asked me what it is I’ve just made something up. I’m motivated by the moral case. The one that goes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At the present time I’m sitting on a great pile of privilege and there isn’t anything I can do to change the amount of privilege I have. But I can use that privilege to help other people out and I should try to increase equality of opportunity wherever I can.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So as a front-end developer making my sites accessible feels like the least I can do.&lt;/p&gt;
+
+&lt;p&gt;Which means I’d never given the business case much consideration. Some people are better motivated by money, and indeed some people will say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If my business doesn’t make money then how much it furthers equality of opportunity will be moot because my company won’t exist.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And that seems like a valid concern.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-govuk&quot;&gt;What is GOV.UK?&lt;/h2&gt;
+&lt;p&gt;Hopefully you all know this so I’ll keep it short. GOV.UK is the best place to find government services and information. We have things like &lt;a href=&quot;https://www.gov.uk/bank-holidays&quot;&gt;“when is the next bank holiday?”&lt;/a&gt;, &lt;a href=&quot;https://www.gov.uk/foreign-travel-advice/egypt&quot;&gt;“what is the current travel advice for Egypt?”&lt;/a&gt; and then a lot of more obscure stuff like &lt;a href=&quot;https://www.gov.uk/government/publications/tariff-notice-18-2015-article-in-the-shape-of-a-human-skull-made-of-plastics&quot;&gt;“What is the import tax ruling for a human skull shaped plastic object that contains LEDs embedded in the eye sockets?”&lt;/a&gt; (It’s classified under: ‘CN code 3926 40 00 as other ornamental articles of plastics’).&lt;/p&gt;
+
+&lt;p&gt;We’re the &lt;a href=&quot;http://www.alexa.com/siteinfo/http%3A%2F%2Fwww.gov.uk&quot;&gt;30th most popular site in the UK&lt;/a&gt;; that’s more popular than Tumblr. We’re home to 330 departments and organisations. We’ve tried to make GOV.UK as accessible as possible but it hasn’t always been this way.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/alpha.png&quot; alt=&quot;GOV.UK alpha&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The GOV.UK alpha was not accessible and we got a kicking for it. (This was before my time, but I’ll keep saying “we” because it’s a difficult habit to break…) When we launched the alpha it was a tool to provoke change and make a point within government but the decision to avoid accessibility sent out a bad message to many early users.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/beta.png&quot; alt=&quot;GOV.UK beta&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the beta we built for inclusion.&lt;/p&gt;
+
+&lt;p&gt;Tom Loosemore &lt;a href=&quot;https://gds.blog.gov.uk/2011/09/05/accessibility-and-the-single-government-domain/&quot;&gt;said this&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We want to make the most easy to use, accessible government website there has ever been.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And so building for inclusion became part of how we worked. We do stuff like regular testing with people with a broad spectrum of abilities, screen reader training for front-end developers and anyone else who fancies it, and we put &lt;a href=&quot;https://www.gov.uk/design-principles#sixth&quot;&gt;“Building for inclusion”&lt;/a&gt; in our design principles:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Accessible design is good design. We should build a product that’s as inclusive, legible and readable as possible. If we have to sacrifice elegance; so be it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;what-is-accessibility&quot;&gt;What is Accessibility?&lt;/h2&gt;
+&lt;p&gt;In this part of the talk I paraphrase &lt;a href=&quot;http://alistapart.com/article/reframing-accessibility-for-the-web&quot;&gt;Anne Gibson’s excellent piece on A List Apart about accessibility&lt;/a&gt;, but since this is the internet I can just put that link there and wait for you while you read it because it’s ace.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-what-is-the-business-case-for-accessibility&quot;&gt;So, what is the business case for accessibility?&lt;/h2&gt;
+&lt;p&gt;OK, this is the meat of this presentation, the good bit. Or at least it would be. I started off thinking this would be the bit where I was able to say:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Here is your magic answer to why making your site accessible would make you filthy rich.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That was naïve.&lt;/p&gt;
+
+&lt;p&gt;Let’s find out why. A good business case should take a problem your business definitely has and solve it in the most cost effective way possible. It should go something like this:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You have a problem. you need more money, you need more ad impressions, your site is slow to maintain, you want people to think of us favourably, etc.&lt;/li&gt;
+  &lt;li&gt;You explore some possible solutions. Your exploration includes the cost associated with each solution, and the likely return on investment, all of which is based on evidence.&lt;/li&gt;
+  &lt;li&gt;You pick the most cost effective solution.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So if you’re writing a business case for accessibility, the business case concludes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We should solve X by improving the accessibility of our site.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;we-should-solve-x&quot;&gt;We should solve X&lt;/h3&gt;
+&lt;p&gt;Now, anecdotally, there are loads of possible X’s to slot in here: We need to improve our &lt;a href=&quot;http://www.w3.org/WAI/bcase/fin.html#seo&quot;&gt;search&lt;/a&gt; &lt;a href=&quot;http://webaim.org/blog/web-accessibility-and-seo/&quot;&gt;ranking&lt;/a&gt;! We need to lower our &lt;a href=&quot;http://www.w3.org/WAI/bcase/tech#maint&quot;&gt;maintenance costs&lt;/a&gt;! We’re missing out on &lt;a href=&quot;http://www.w3.org/WAI/bcase/fin#increase-use&quot;&gt;revenue from people with disabilities&lt;/a&gt;! We need to &lt;a href=&quot;http://www.w3.org/WAI/bcase/fin#image&quot;&gt;improve our image&lt;/a&gt;! &lt;a href=&quot;http://www.w3.org/WAI/bcase/&quot;&gt;etc&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But when you start trying to write an actual business case things get a bit trickier. Because there isn’t a whole lot of evidence that improving your accessibility is the most &lt;em&gt;cost effective&lt;/em&gt; way to solve any of these problems.&lt;/p&gt;
+
+&lt;p&gt;Take “better SEO” for example. The most cost effective way to improve the SEO of your site is probably to target things that make the SEO better. Headings, text alternatives to visual content, using key words, getting a bunch of people to link to your site. A likely side effect of some SEO improvements is that the accessibility of your site will also improve, but that’s not the same as having a business case for accessibility. And the case motivated by improving SEO doesn’t get you to adding proper ARIA tagging to your components, or testing with non-visual users, or making your site fully keyboard navigable.&lt;/p&gt;
+
+&lt;p&gt;Let’s take another example. You want to target users with accessibility needs to get them to buy things from your site. Firstly, even before you get to cost effective solutions, just proving there is a slice of users you’re missing out on is tricky. Karl Groves has written a pretty comprehensive article on why &lt;a href=&quot;http://www.karlgroves.com/2013/05/13/can-we-track-how-many-users-with-disabilities-access-our-site/&quot;&gt;it’s difficult to track users with disabilities across a site&lt;/a&gt;. There are also very few data-points for the percentage of the population that has a disability that stops them from using the internet easily. But let’s say you can establish there is a significant slice of the population that can’t currently use your site and it would be financially beneficial for them to be able to. Improving your site’s accessibility might be a way to get those users in, but maybe a more cost effective way might be to do a big marketing push on being accessible, and then fix issues when they arise. It depends how accessible your site is to begin with.&lt;/p&gt;
+
+&lt;p&gt;If you want to see a more in-depth dissection of the commonly thrown around business cases for accessibility, &lt;a href=&quot;http://www.karlgroves.com/2011/09/22/chasing-the-accessibility-business-case-part-2/&quot;&gt;Karl Groves has done a very thorough job on his blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-law&quot;&gt;The law&lt;/h3&gt;
+&lt;p&gt;There is one well evidenced business case for accessibility. It’s not getting sued. In the UK we have the Equality Act (2010) which states that service providers (that’s websites in this case) should make “reasonable adjustments” to their sites. A further clarification issued by the  Equality and Human Rights commission in 2011 stated:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…the duty goes beyond simply avoiding discrimination. It requires service providers to anticipate the needs of potential disabled customers for reasonable adjustments.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The &lt;a href=&quot;www.rnib.org.uk/services-we-offer-advice-professionals/equality-act-compliance&quot;&gt;RNIB has a handy explainer&lt;/a&gt; for the UK law and how it affects websites.&lt;/p&gt;
+
+&lt;p&gt;The first ever lawsuit involving a website being sued for not being accessible was &lt;a href=&quot;https://en.wikipedia.org/wiki/Maguire_v_Sydney_Organising_Committee_for_the_Olympic_Games_(2000)&quot;&gt;SOCOG vs Maguire&lt;/a&gt; in 2000. The Sydney Organising Committee for the Olympic Games (SOCOG) was sued by Lindsay Maguire for not making its website accessible.&lt;/p&gt;
+
+&lt;p&gt;SOCOG claimed that they did not discriminate against Mr Maguire but, if they did, fixing their site would constitute “unjustifiable hardship”.&lt;/p&gt;
+
+&lt;p&gt;SOCOG were eventually found to have engaged in unlawful discrimination in violation of the Commonwealth Disability Discrimination Act (1992) and ordered to fix their site.&lt;/p&gt;
+
+&lt;p&gt;More recently, in 2006, &lt;a href=&quot;https://en.wikipedia.org/wiki/National_Federation_of_the_Blind_v._Target_Corp.&quot;&gt;Target.com was sued in a class action suit brought by the National Federation for the Blind&lt;/a&gt;, which they settled for $6 million.&lt;/p&gt;
+
+&lt;p&gt;In 2013 &lt;a href=&quot;http://www.cnet.com/uk/news/netflix-and-deaf-rights-group-settle-suit-over-video-captions/&quot;&gt;Netflix was sued by the National Association of the Deaf&lt;/a&gt; for not having closed captioning on its movies. Netflix had to pay $755,000 in legal fees to the NAD’s lawyers and committed to 100% captioning by 2014.&lt;/p&gt;
+
+&lt;p&gt;In the UK a legal case has never been brought to court, but the RNIB has threatened legal action against a number of un-named companies, who then fixed their site before the case reached a courtroom.&lt;/p&gt;
+
+&lt;p&gt;The litigation angle only works if the likelihood of getting sued outweighs the cost of making your site accessible. If you’re a high profile company that risk is pretty high too, so you should definitely make your site accessible.&lt;/p&gt;
+
+&lt;p&gt;But if you’re tiddly the likelihood of getting sued is smaller and I can’t find a business case for the small companies. I can find many positive traits associated with accessibility but I can’t draw a well evidenced line from “accessible website” to “more money”. If ROI is what you’re motivated by you might as well just make your whole website out of JPEGS and take a nap.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-dont-need-a-business-case&quot;&gt;You don’t need a business case&lt;/h2&gt;
+&lt;p&gt;BUT&lt;/p&gt;
+
+&lt;p&gt;If you’re building your website from scratch right now why &lt;em&gt;wouldn’t&lt;/em&gt; you make it accessible. Building accessible websites has never been easier! Make it part of what your definition of “good” is. As a front-end developer, add it to the list of ways you know you did your job well. Sneak accessibility in if you have to.&lt;/p&gt;
+
+&lt;p&gt;Karl Groves (again) sums up this approach in his post &lt;a href=&quot;http://www.karlgroves.com/2011/11/30/how-expensive-is-accessibility/&quot;&gt;how expensive is web accessiblity?&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When [accessibility] becomes part of how you do things, of course it is free.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On GOV.UK building for inclusion is how we work.&lt;/p&gt;
+
+&lt;p&gt;We share and discuss the accessibility of design patterns on a publicly accessible hack-pad: &lt;a href=&quot;https://designpatterns.hackpad.com&quot;&gt;https://designpatterns.hackpad.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We make small fixes to the accessibility of our site regularly. Here’s one about &lt;a href=&quot;https://gdstechnology.blog.gov.uk/2014/08/14/improving-accessibility-on-gov-uk-search/&quot;&gt;improving the presentation of search results&lt;/a&gt; using ARIA-live.&lt;/p&gt;
+
+&lt;p&gt;Here’s another small improvement made by my colleague &lt;a href=&quot;http://twitter.com/edds&quot;&gt;@edds&lt;/a&gt; to &lt;a href=&quot;https://github.com/alphagov/frontend/pull/823&quot;&gt;tighten up the home page presentation for screen readers&lt;/a&gt;. This change was a tiny improvement Edds noticed because he was using a screen reader to navigate GOV.UK because that’s just part of how he works.&lt;/p&gt;
+
+&lt;h2 id=&quot;start-today&quot;&gt;Start today&lt;/h2&gt;
+&lt;p&gt;Start building for inclusion today: try and use your site with just a keyboard, or have a listen to it with a screen reader. When accessibility becomes part of how you work it will be free, and you won’t need a business case.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Jul 2015 09:18:39 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/what-is-the-business-case-for-accessibility</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/what-is-the-business-case-for-accessibility</guid>
+        
+        
+        <category>accessibility</category>
+        
+        <category>frontend</category>
+        
+        <category>code</category>
+        
+      </item>
+    
+      <item>
+        <title>jQueryUK interview</title>
+        <description>&lt;p&gt;jQuery UK sent me some questions to answer ahead of my talk at their conference in March. The original answers are &lt;a href=&quot;http://jqueryuk.com/2015/blog/2015-01-12-speaker-interview-alice-bartlett&quot;&gt;here&lt;/a&gt; complete with a photo of my massive head. I was feeling a bit curmudgeonly when I answered the questions, maybe you can tell.&lt;/p&gt;
+
+&lt;p&gt;Since writing I’ve also thought of another thing I should have added on the topic of question 6, work-life balance. My colleague &lt;a href=&quot;https://twitter.com/dancarley&quot;&gt;Dan Carley&lt;/a&gt; has written a really excellent blog post about &lt;a href=&quot;http://dan.carley.co/blog/2014/05/21/working-late-responsibly/&quot;&gt;working out of late responsibly&lt;/a&gt;. I think it’s easy, as we progress in our careers, to miss gradual increases in the weight other people give our actions and behaviour. Junior members of staff may feel pressure to work harder because they see you doing it, but work is a marathon not a sprint. Anyway, Dan puts it better than I could, it’s dead good so &lt;a href=&quot;http://dan.carley.co/blog/2014/05/21/working-late-responsibly/&quot;&gt;go read&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-project-have-you-worked-on-recently-that-has-really-excited-you&quot;&gt;1. What project have you worked on recently that has really excited you?&lt;/h2&gt;
+
+&lt;p&gt;I love coding, but doing it feels more like scratching an itch for hours than a source of excitement. Building the &lt;a href=&quot;http://tampon.club&quot;&gt;Tampon Club website&lt;/a&gt; was really exciting. It’s not technically interesting at all, its just a two page website, but I knew lots of my female friends were going to like it. I built it for them, really.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-piece-of-advice-do-you-wish-youd-received-when-you-first-started-out-in-development&quot;&gt;2. What piece of advice do you wish you’d received when you first started out in development?&lt;/h2&gt;
+
+&lt;p&gt;One day all this worrying is going to make you better at your job than other people, but you’ve got to learn when to stop listening to yourself. I used to worry a lot when I first started out. Worry I wasn’t good enough, worry I was slowing people down, worry I was stupid, worry I was doing the wrong thing. Now I’m older I still worry a lot but I’ve gotten better at knowing when my anxieties are worth listening to and when they aren’t. Sometimes the worrying has helped me spot things that other people haven’t noticed yet.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-your-favourite-underrated-toolpiece-of-softwareresource-for-development&quot;&gt;3. What’s your favourite underrated tool/piece of software/resource for development?&lt;/h2&gt;
+
+&lt;p&gt;This is such a lame answer, but I use Mac’s Preview app for so much image editing stuff that it’s not supposed to be used for. I’m forever using it to crop and splice images for some front-end work to get them to just the right format or shape. There’s actually not much you can’t do with it.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-new-technology-are-you-most-interested-in-learning&quot;&gt;4. What new technology are you most interested in learning?&lt;/h2&gt;
+
+&lt;p&gt;I’m looking forward to using ES6. At GDS we don’t have a lot of chances to use new shiny things. GOV.UK is mostly a website for looking at words which is, in the main, a solved problem. Making a website that can be used by as many people as possible is still a time consuming and valuable aspiration to have but it doesn’t often require new shinies.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-you-balance-work-and-life-with-so-many-new-fe-dev-tools-coming-out-all-the-time&quot;&gt;5. How do you balance work and life, with so many new FE dev tools coming out all the time?&lt;/h2&gt;
+
+&lt;p&gt;I actually don’t bother keeping up with the latest in front-end. There is so much stuff for me to discover already, 25 years of web history to pick over and learn from. When I know all of that, maybe I’ll start voraciously picking up every new thing and trying it, but right now I’m still trying to work out how to write simple, elegant JavaScript another human can just look at and run with.&lt;/p&gt;
+
+&lt;p&gt;As for work life balance, coding isn’t a hobby for me, it’s a thing people pay me to do, so I do it in work hours. This is helped greatly by my current job, where nobody works outside of 9am-6pm unless the really have to, and then they are encouraged to take that time back from work. Outside of the office, sometimes a project will benefit from having a bit of programming thrown in, and I really like those occasions, but mostly my hobbies of watching TV and sewing don’t require a lot of code writing.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-newupcoming-browser-features-do-you-think-will-most-change-the-future-of-web-development&quot;&gt;6. What new/upcoming browser features do you think will most change the future of web development?&lt;/h2&gt;
+
+&lt;p&gt;I’m sure people have given this answer to for the last five years of being asked, but the web is slowly closing the gap between native and browser. ServiceWorker is the latest feature to move us forwards. Five years ago when I worked on the Financial Times’ HTML5 app we thought the gap would be closed a lot quicker than it has been. Feature-wise, browsers have come a long way and are very slowly catching up. It might be another 5 years before we get there, or we might never. (Sorry that’s a massive downer to end this interview on! :(((( )&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Jan 2015 22:03:34 +0000</pubDate>
+        <link>http://alicebartlett.co.uk/jq-uk-interview</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/jq-uk-interview</guid>
+        
+        
+        <category>jqueryUK</category>
+        
+        <category>code</category>
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Yearnotes 2014</title>
+        <description>&lt;p&gt;Dan Williams &lt;a href=&quot;http://www.iamdanw.com/wrote/yearnote-2014/&quot;&gt;had an incredible 2014&lt;/a&gt; and, reading his, I was (1) massively impressed and (2) inspired to do my own. I’ve stolen his format and everything.&lt;/p&gt;
+
+&lt;p&gt;2014 was the year I became a &lt;a href=&quot;#work&quot;&gt;front-end developer at the Government Digital Service&lt;/a&gt;. I set up this &lt;a href=&quot;#bloggering&quot;&gt;blog&lt;/a&gt;. I started &lt;a href=&quot;#tampon-club&quot;&gt;Tampon Club&lt;/a&gt;, and 2 new &lt;a href=&quot;#tumblrs&quot;&gt;Tumblrs&lt;/a&gt;. I took a really good &lt;a href=&quot;#holiday&quot;&gt;holiday&lt;/a&gt;. I did a bit of &lt;a href=&quot;#public-speaking&quot;&gt;public speaking&lt;/a&gt; and I was on &lt;a href=&quot;#and-finally&quot;&gt;telly&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;work&quot;&gt;Work&lt;/h2&gt;
+&lt;p&gt;I joined GDS in January. It’s going pretty good. Since joining I’ve:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;made about 700 contributions to government repositories&lt;/li&gt;
+  &lt;li&gt;started line managing juniors&lt;/li&gt;
+  &lt;li&gt;co-run weekly frontend meetings for GDS frontend developers&lt;/li&gt;
+  &lt;li&gt;MC’d the GDS Christmas all-hands&lt;/li&gt;
+  &lt;li&gt;written a &lt;a href=&quot;https://gdstechnology.blog.gov.uk/2014/08/14/improving-accessibility-on-gov-uk-search/&quot;&gt;blog post for the GDS tech blog&lt;/a&gt; about accessibility on GOV.UK&lt;/li&gt;
+  &lt;li&gt;Helped interview developers for three different sets of developer interviews&lt;/li&gt;
+  &lt;li&gt;started mentoring a colleague&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;things-ive-failed-at&quot;&gt;Things I’ve failed at&lt;/h3&gt;
+&lt;p&gt;I have to write this here because that list makes me sound like I’m kind of full of myself. I definitely did fuck some stuff up this year too. I made a list of cockups and looking at them the general theme is giving up too soon on things/people/opportunities when stuff became hard or I got too busy. I should probably say yes to fewer things. The other bad thing I did this year was type a password into a public channel by accident &lt;em&gt;twice&lt;/em&gt;. Both times this was swiftly resolved, but gosh, it’s embarrassing when that happens.&lt;/p&gt;
+
+&lt;h2 id=&quot;bloggering&quot;&gt;Bloggering&lt;/h2&gt;
+&lt;p&gt;This year I started a blog. You’re reading it. I built it myself and it’s… fine? Laughably simple, but you can see all these words so I guess it works. The good thing about blogs is that when you have one you can write stuff without needing to set up a blog first. The bad thing about blogs is that the you end up with a drafts folder full of things you gave up on because they turned out to be hard to explain. Here are the titles of my unpublished folder right now:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accessibility &lt;em&gt;-this is a post about how accessibility is sort of like a cake&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Select tags writeup &lt;em&gt;-this is a post of a writeup of a talk. Its really long&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Tampon club for dudes &lt;em&gt;-this is a post about what to do if you’re a dude and you care about Tampon Club&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anyway, two of those will get published one day. One probably won’t.&lt;/p&gt;
+
+&lt;h2 id=&quot;tampon-club&quot;&gt;Tampon Club&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/tampon_club_new.jpg&quot; alt=&quot;Tampon Club stickers&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another thing I did this year was founding Tampon Club. It has a &lt;a href=&quot;http://tampon.club&quot;&gt;website&lt;/a&gt;. People have written things about it:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.howwegettonext.com/Article/VIB86CsAACcA2lFf/tampon-club-no-apologies-for-menstruation-based-innovation#.VKwd6WSsV8s&quot;&gt;www.howwegettonext.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.vice.com/read/meet-the-woman-who-wants-you-to-fill-your-office-bogs-with-free-tampons-873&quot;&gt;Vice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was also asked onto BBC Radio 5 Live’s breakfast show to talk about it. The audio for that is &lt;a href=&quot;http://butt.kitchen/post/104591582049/i-went-on-bbc-radio-5-lives-breakfast-show-this&quot;&gt;here on my Tumblr.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tumblrs&quot;&gt;Tumblrs&lt;/h2&gt;
+&lt;p&gt;I started two new tumblrs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;one for my nail art &lt;a href=&quot;http://nails.butt.kitchen&quot;&gt;nails.butt.kitchen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;one for my sewing &lt;a href=&quot;http://sewing.butt.kitchen&quot;&gt;sewing.butt.kitchen&lt;/a&gt;. I sewed 14 things this year; 2 kindle cases, 6 shirts, 3 t-shirts one shirt-dress, one vest, and one quilt. I also abandoned 1 dress, 1 vest, 1 shirt, 1 playsuit and one shirt-dress because I screwed them up beyond repair :(&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;holiday&quot;&gt;Holiday&lt;/h2&gt;
+&lt;p&gt;I went on a cracking holiday with Lachie. We did an american road trip from Denver to Vegas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/holiday-1.jpg&quot; alt=&quot;Lachie in Zion National Park&quot; /&gt;
+&lt;img src=&quot;/assets/img/holiday-2.jpg&quot; alt=&quot;1hr 38 to Unknown&quot; /&gt;
+&lt;img src=&quot;/assets/img/holiday-3.jpg&quot; alt=&quot;Yellow trees in Colorado&quot; /&gt;
+&lt;img src=&quot;/assets/img/holiday-4.jpg&quot; alt=&quot;At hanging lake&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was beautiful!&lt;/p&gt;
+
+&lt;h2 id=&quot;public-speaking&quot;&gt;Public speaking&lt;/h2&gt;
+&lt;p&gt;I gave three talks this year and was on one panel:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Five facts about smell- the lightning talk at LRUG -&lt;a href=&quot;https://skillsmatter.com/skillscasts/5050-five-facts-about-smell&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Edge 3- the future of the web -&lt;a href=&quot;https://edgeconf.com/2014-london?v=6u03xYkwMVI&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dump your &lt;select&gt;&lt;option&gt;select&lt;/option&gt;&lt;/select&gt; tags - Nightly Build in Cologne&lt;/li&gt;
+  &lt;li&gt;Dump your &lt;select&gt;&lt;option&gt;select&lt;/option&gt;&lt;/select&gt; tags - Epic FEL. -&lt;a href=&quot;https://www.youtube.com/watch?v=CUkMCQR4TpY&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;and-finally&quot;&gt;And finally&lt;/h2&gt;
+&lt;p&gt;I was on the Alan Titchmarsh TV show back in February for a feature about nail art. I took a colleague on with me, Amy, and we had a reeeeally fun time. Live telly is quite good. Here is the video. I’m clearly petrified.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/titch.gif&quot; alt=&quot;Alan Titchmarsh GIF&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/WKw63CVXsEQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 06 Jan 2015 09:32:23 +0000</pubDate>
+        <link>http://alicebartlett.co.uk/yearnotes-2014</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/yearnotes-2014</guid>
+        
+        
+        <category>yearnotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Tampon Club v2</title>
+        <description>&lt;p&gt;It’s been about 4 months since I set up what I jokingly named “Tampon Club” in the 6th floor toilets of Aviation House. Some cool things have happened since then…&lt;/p&gt;
+
+&lt;h2 id=&quot;people-are-so-nice&quot;&gt;People are so nice!&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A lot of women from the office have been super sweet about Tampon Club, and I’ve had conversations with women that I would never normally have met. These conversations have come about in spite of the fact that I didn’t put any contact details on the box because I wasn’t sure if everyone was going to think I was really weird for caring about free tampons as much as I evidently do.&lt;/li&gt;
+  &lt;li&gt;A man in the office gave me £5 for tampons! In what was actually a really awkward exchange, because I had been collecting money for a colleague’s leaving present in the same week so I wasn’t entirely sure if he was giving me money for Gin or tampons. He basically had to spell it out for me. Awkward.&lt;/li&gt;
+  &lt;li&gt;Laura Cowen, a former colleague, set up her own Tampon Club at IBM and &lt;a href=&quot;http://lauracowen.co.uk/blog/2014/10/17/tampon-club-hursley/&quot;&gt;blogged about it&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Loads of people on the internet were extremely kind about the project. Thank you, you’re all the best.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/tampon_club_crinkled.jpg&quot; alt=&quot;Tampon Club looking a bit tatty&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tampon-club-started-looking-a-bit-tatty&quot;&gt;Tampon Club started looking a bit tatty&lt;/h2&gt;
+
+&lt;p&gt;Over the last four months the Tampon Club sign got a little wet and crinkly. The hand scrawled note I wrote about it being a “community project” curled at the edges. Some (lovely) people graffitied the poster with messages of thanks (seriously, women are awesome). It was looking at all of this, and thinking about my original objective of making it “proper looking”, when I realised it was time to kick it up a notch.&lt;/p&gt;
+
+&lt;p&gt;It started with me thinking I just wanted a nice sticker to replace the crinkly paper on the front of the box, but that quickly escalated when I realised http://tampon.club was available…&lt;/p&gt;
+
+&lt;h2 id=&quot;announcing-wwwtamponclubhttpwwwtamponclub&quot;&gt;Announcing &lt;a href=&quot;http://www.tampon.club&quot;&gt;www.tampon.club&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;So today I’m announcing &lt;a href=&quot;http://www.tampon.club&quot;&gt;www.tampon.club&lt;/a&gt;. It’s both not a joke and also big joke because I can’t take anything seriously, least of all the new TLD’s that have allowed me a to put a website at the address tampon.club.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/logo-inverted.svg&quot; alt=&quot;Tampon club logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have a logo! &lt;a href=&quot;http://mhurrell.co.uk/&quot;&gt;Mark Hurrell&lt;/a&gt;, a man who, frankly, has much more important and interesting things to be doing with his free time, made me a brilliant logo and helped me design the website. &lt;a href=&quot;http://matthewsheret.com/&quot;&gt;Matt Sheret&lt;/a&gt; helped me write the copy. &lt;a href=&quot;http://e26.co.uk/&quot;&gt;Edd Sowden&lt;/a&gt; was just generally a good sport and listened to me talk about tampons an awful lot.&lt;/p&gt;
+
+&lt;p&gt;I’ve bought 50 stickers, got &lt;a href=&quot;http://twitter.com/tampon_club&quot;&gt;@tampon_club&lt;/a&gt;, and even set up an email address (&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#105;&amp;#064;&amp;#116;&amp;#097;&amp;#109;&amp;#112;&amp;#111;&amp;#110;&amp;#046;&amp;#099;&amp;#108;&amp;#117;&amp;#098;&quot;&gt;&amp;#104;&amp;#105;&amp;#064;&amp;#116;&amp;#097;&amp;#109;&amp;#112;&amp;#111;&amp;#110;&amp;#046;&amp;#099;&amp;#108;&amp;#117;&amp;#098;&lt;/a&gt;). And finally, of course, I’ve tidied up the original Tampon Club.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/tampon_club_new.jpg&quot; alt=&quot;New improved Tampon Club&quot; /&gt;
+&lt;img src=&quot;/assets/img/accessible_toilets.jpg&quot; alt=&quot;New improved Tampon Club in the accessible toilets&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Nov 2014 11:36:19 +0000</pubDate>
+        <link>http://alicebartlett.co.uk/tampon-club-v2</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/tampon-club-v2</guid>
+        
+        
+        <category>tampon</category>
+        
+        <category>club</category>
+        
+      </item>
+    
+  </channel>
+</rss>
