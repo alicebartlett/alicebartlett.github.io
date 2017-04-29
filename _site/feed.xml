@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <title>The internet place for Alice Bartlett</title>
+    <description>The website of Alice Bartlett. Front-end developer and internet person.</description>
     <link>http://alicebartlett.co.uk/</link>
     <atom:link href="http://alicebartlett.co.uk/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 29 Apr 2017 11:29:06 +0100</pubDate>
-    <lastBuildDate>Sat, 29 Apr 2017 11:29:06 +0100</lastBuildDate>
+    <pubDate>Sat, 29 Apr 2017 20:48:56 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Apr 2017 20:48:56 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -48,8 +47,8 @@
 &lt;p&gt;Went to Canada for the first time. Was best woman at my best friend’s wedding. Got the bathroom re-done. Made another coat, two shirts, a pair of trousers and a wedding dress. Went to Hythe, Rye and Dungeness. Had a short honeymoon in Robinhood’s bay. Played Pandemic Legacy with Kyle and Alan. Formed Warsaw’s baddest girl gang with Brenna and Mariko. Had an away day in my house. Pizza floatie. Hikes in the Canadian Rockies. All those games of poker. All those Shepherdess breakfasts.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2017 11:32:34 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/yearnotes-2016</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/yearnotes-2016</guid>
+        <link>http://alicebartlett.co.uk/blog/yearnotes-2016</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/yearnotes-2016</guid>
         
         
         <category>yearnotes</category>
@@ -89,8 +88,8 @@ It’s an input for dates that people can use to filter search results. It’s u
 &lt;p&gt;This one of the things GDS does extremely well. User research, design and code working together to create something boring but very well formed. They also publish everything with varying levels of certainty and formality on their &lt;a href=&quot;https://designpatterns.hackpad.com&quot;&gt;hackpad&lt;/a&gt; or in their &lt;a href=&quot;https://www.gov.uk/service-manual&quot;&gt;service manual&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jun 2016 10:11:27 +0100</pubDate>
-        <link>http://alicebartlett.co.uk/date-filter</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/date-filter</guid>
+        <link>http://alicebartlett.co.uk/blog/date-filter</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/date-filter</guid>
         
         
         <category>frontend</category>
@@ -114,8 +113,8 @@ It’s an input for dates that people can use to filter search results. It’s u
 &lt;p&gt;If you’re working on something similar, especially if you’re working in publishing, I’d love to hear from you.&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jun 2016 00:11:12 +0100</pubDate>
-        <link>http://alicebartlett.co.uk/origami-crosspost</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/origami-crosspost</guid>
+        <link>http://alicebartlett.co.uk/blog/origami-crosspost</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/origami-crosspost</guid>
         
         
         <category>frontend</category>
@@ -150,8 +149,8 @@ It’s an input for dates that people can use to filter search results. It’s u
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 21 Jun 2016 12:23:47 +0100</pubDate>
-        <link>http://alicebartlett.co.uk/fixing-a-perf-issue-in-the-mustache-gem</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/fixing-a-perf-issue-in-the-mustache-gem</guid>
+        <link>http://alicebartlett.co.uk/blog/fixing-a-perf-issue-in-the-mustache-gem</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/fixing-a-perf-issue-in-the-mustache-gem</guid>
         
         
         <category>frontend</category>
@@ -254,8 +253,8 @@ It’s an input for dates that people can use to filter search results. It’s u
 &lt;p&gt;&lt;img src=&quot;https://s3-eu-west-1.amazonaws.com/slides-blog-post/end_slide.jpeg&quot; alt=&quot;A design for the end&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Apr 2016 23:03:34 +0100</pubDate>
-        <link>http://alicebartlett.co.uk/how-to-do-ok-at-slides</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/how-to-do-ok-at-slides</guid>
+        <link>http://alicebartlett.co.uk/blog/how-to-do-ok-at-slides</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/how-to-do-ok-at-slides</guid>
         
         
         <category>slides</category>
@@ -309,8 +308,8 @@ The other best thing about conferences is when you get to float down a river in 
 &lt;p&gt;&lt;img src=&quot;/assets/img/coat.gif&quot; alt=&quot;Coat&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Dec 2015 22:03:34 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/yearnotes-2015</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/yearnotes-2015</guid>
+        <link>http://alicebartlett.co.uk/blog/yearnotes-2015</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/yearnotes-2015</guid>
         
         
         <category>yearnotes</category>
@@ -453,8 +452,8 @@ Here is a write-up-ish of what I said in Brighton.&lt;/p&gt;
 &lt;p&gt;Start building for inclusion today: try and use your site with just a keyboard, or have a listen to it with a screen reader. When accessibility becomes part of how you work it will be free, and you won’t need a business case.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Jul 2015 09:18:39 +0100</pubDate>
-        <link>http://alicebartlett.co.uk/what-is-the-business-case-for-accessibility</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/what-is-the-business-case-for-accessibility</guid>
+        <link>http://alicebartlett.co.uk/blog/what-is-the-business-case-for-accessibility</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/what-is-the-business-case-for-accessibility</guid>
         
         
         <category>accessibility</category>
@@ -498,8 +497,8 @@ Here is a write-up-ish of what I said in Brighton.&lt;/p&gt;
 &lt;p&gt;I’m sure people have given this answer to for the last five years of being asked, but the web is slowly closing the gap between native and browser. ServiceWorker is the latest feature to move us forwards. Five years ago when I worked on the Financial Times’ HTML5 app we thought the gap would be closed a lot quicker than it has been. Feature-wise, browsers have come a long way and are very slowly catching up. It might be another 5 years before we get there, or we might never. (Sorry that’s a massive downer to end this interview on! :(((( )&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 Jan 2015 22:03:34 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/jq-uk-interview</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/jq-uk-interview</guid>
+        <link>http://alicebartlett.co.uk/blog/jq-uk-interview</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/jq-uk-interview</guid>
         
         
         <category>jqueryUK</category>
@@ -592,8 +591,8 @@ Here is a write-up-ish of what I said in Brighton.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/WKw63CVXsEQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 06 Jan 2015 09:32:23 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/yearnotes-2014</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/yearnotes-2014</guid>
+        <link>http://alicebartlett.co.uk/blog/yearnotes-2014</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/yearnotes-2014</guid>
         
         
         <category>yearnotes</category>
@@ -634,8 +633,8 @@ Here is a write-up-ish of what I said in Brighton.&lt;/p&gt;
 &lt;img src=&quot;/assets/img/accessible_toilets.jpg&quot; alt=&quot;New improved Tampon Club in the accessible toilets&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Nov 2014 11:36:19 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/tampon-club-v2</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/tampon-club-v2</guid>
+        <link>http://alicebartlett.co.uk/blog/tampon-club-v2</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/tampon-club-v2</guid>
         
         
         <category>tampon</category>
