@@ -13,17 +13,17 @@ layout: default
   <div class='section'>
     <h2 class='straplined'>Writing</h2>
     <ul class="date-list">
-			{% for post in site.posts %}
+      {% for post in site.posts %}
       <li>
         <div class='post-date'>
-          <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+          <time>{{ post.date | date: "%-d %b %Y" }}</time>
         </div>
         <div class="post-metadata">
-					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-			  </div>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </div>
       </li>
-			{% endfor %}
-			<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      {% endfor %}
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
     </ul>
   </div>
@@ -38,19 +38,19 @@ layout: default
           <div class='post-metadata'>
             <div class='post-metadata-words'>
               <span>
-								<a href='{{ talk["event_url"] }}'>{{ talk["event_title"] }}</a></span>
+                <a href='{{ talk["event_url"] }}'>{{ talk["event_title"] }}</a></span>
               {% if talk["talk_title"] %}
                 <span>{{ talk["talk_title"] }}</span>
               {% endif %}
               {% if talk["talk_description"] %}
                 <span>{{ talk["talk_description"] }}</span>
               {% endif %}
-							{% if talk["slides_url"] %}
+              {% if talk["slides_url"] %}
                 <span><a href="{{ talk["slides_url"] }}">Slides</a></span>
               {% endif %}
-							{% if talk["video_url"] %}
-								<span><a href="{{ talk["video_url"] }}">Video</a></span>
-							{% endif %}
+              {% if talk["video_url"] %}
+                <span><a href="{{ talk["video_url"] }}">Video</a></span>
+              {% endif %}
             </div>
         </div>
         </li>
@@ -60,7 +60,7 @@ layout: default
   <div class='section'>
     <h2>Elsewhere</h2>
     <ul class='link-list'>
-		{% for link in site.data.links %}
+    {% for link in site.data.links %}
       <li><a href='{{ link["url"]}}' title='{{ link["title"]}}'>{{ link["site_name"] }}</a></li>
     {% endfor %}
     </ul>
