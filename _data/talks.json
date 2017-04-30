@@ -1,5 +1,24 @@
 [
   {
+    "event_title":"Patterns Day",
+    "event_url":"https://patternsday.com/",
+    "event_date":"30-Jun-2017",
+    "talk_title":"Can't you make it more like Bootstrap?"
+  },
+  {
+    "event_title":"Cloudinary Meetup",
+    "event_url":"http://info.cloudinary.com/Roadshow-London-May-2017_Registration-Page.html",
+    "event_date":"24-Apr-2017",
+    "talk_title":"Moving from our hand built image service to an off-the-shelf solution"
+  },
+  {
+    "event_title":"All Day Hey!",
+    "event_url":"https://heyst.ac/all-day",
+    "event_date":"24-Apr-2017",
+    "talk_title":"Can't you make it more like Bootstrap?",
+    "slides_url": "https://speakerdeck.com/alicebartlett/all-day-hey-cant-you-make-it-more-like-bootstrap"
+  },
+  {
     "event_title":"Interesting 2016",
     "event_url":"https://conwayhall.org.uk/event/interesting-2016/",
     "event_date":"15-Sep-2016",
