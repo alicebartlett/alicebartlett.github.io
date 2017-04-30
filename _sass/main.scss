@@ -34,7 +34,8 @@ a {
 .back-link {
   font-family: "Roboto Slab";
   &:before {
-    content: '< ';
+    content: '◀ ';
+    color: $yellow;
   }
 }
 
@@ -73,10 +74,6 @@ img {
     @include media(mobile) {
       width: 100%;
     }
-  }
-
-  time {
-    @include magic-underline($bodytext, $yellow, $background);
   }
 
   .post-metadata-words, .slides-video {

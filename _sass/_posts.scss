@@ -79,13 +79,14 @@
   font-family: 'Roboto Slab';
   .previous {
     &:before {
-      content:"< ";
+      content: '◀ ';
     }
   }
   .next {
     float: right;
     &:after {
-      content:" >";
+      content:' ▶';
+      transform: rotate(180deg);
     }
   }
 

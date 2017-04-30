@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -171,11 +172,12 @@ footer {
   font-size: 20px;
   font-family: 'Roboto Slab'; }
   .blog-nav .previous:before {
-    content: "< "; }
+    content: '◀ '; }
   .blog-nav .next {
     float: right; }
     .blog-nav .next:after {
-      content: " >"; }
+      content: ' ▶';
+      transform: rotate(180deg); }
   .blog-nav a {
     color: white; }
     .blog-nav a:visited {
@@ -219,7 +221,8 @@ a {
 .back-link {
   font-family: "Roboto Slab"; }
   .back-link:before {
-    content: '< '; }
+    content: '◀ ';
+    color: #CCCC00; }
 
 img {
   width: 100%;
@@ -250,13 +253,6 @@ img {
     @media (max-width: 640px) {
       .date-list .post-date {
         width: 100%; } }
-  .date-list time {
-    text-shadow: -0.18em 0 0 #FFFFFF, 0.18em 0 0 #FFFFFF, -0.12em 0 0 #FFFFFF, 0.12em 0 0 #FFFFFF, -0.06em 0 0 #FFFFFF, 0.06em 0 0 #FFFFFF, 0 -1px 0 #FFFFFF, 0 1px 0 #FFFFFF;
-    color: #222222;
-    background-image: linear-gradient(0deg, #CCCC00 100%, #CCCC00 0%);
-    background-size: 200% 10%;
-    background-repeat: repeat-x;
-    background-position: 0 93%; }
   .date-list .post-metadata-words span:after, .date-list .slides-video span:after {
     content: ', '; }
   .date-list .post-metadata-words span:last-child:after, .date-list .slides-video span:last-child:after {
