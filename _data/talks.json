@@ -4,6 +4,8 @@
     "event_url":"https://patternsday.com/",
     "event_date":"30-Jun-2017",
     "talk_title":"Can't you make it more like Bootstrap?"
+    "video_url":"https://vimeo.com/226575101"
+
   },
   {
     "event_title":"Cloudinary Meetup",
@@ -36,7 +38,8 @@
     "event_url":"http://uxbrighton.org.uk/",
     "event_date":"04-Nov-2016",
     "talk_title":"Git for Humans",
-    "slides_url": "https://speakerdeck.com/alicebartlett/git-for-humans"
+    "slides_url":"https://speakerdeck.com/alicebartlett/git-for-humans"
+    "video_url":"https://www.youtube.com/watch?time_continue=3&v=eWxxfttcMts"
   },
   {
     "event_title":"Cascadia 2016",
