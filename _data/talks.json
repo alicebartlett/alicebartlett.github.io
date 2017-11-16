@@ -11,7 +11,8 @@
     "event_title":"Cloudinary Meetup",
     "event_url":"http://info.cloudinary.com/Roadshow-London-May-2017_Registration-Page.html",
     "event_date":"24-Apr-2017",
-    "talk_title":"Moving from our hand built image service to an off-the-shelf solution"
+    "talk_title":"Moving from our hand built image service to an off-the-shelf solution",
+    "slides_url": "https://speakerdeck.com/alicebartlett/case-study-on-the-fts-responsive-image-service"
   },
   {
     "event_title":"All Day Hey!",
