@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Yearnotes 2017"
+date:   2018-01-10 17:26:00
+categories: yearnotes
+---
+Urghghghghg I'm 38 and a half weeks pregnant right now and feeling extremely sluggish. I'm on maternity leave and doing things like cooking freezer meals, pre-washing baby clothes, framing pictures for the baby's room, knitting and throwing out all of the empty herb and spice jars on the shelf.
+
+Being away from work is fine. At first I checked some emails to see what was happening but actually the most stressful way to experience work is through email only because you read things and then cannot take any sensible action to resolve them because that's somebody else's job now and they're probably doing great at it, so you're just left with the residual adrenaline with nowhere to direct it.
+
+I haven't signed into Slack at all. Sometimes I want to message a colleague (friend) with something that made me think of them, but then I realize the only way to get hold of them is via Slack so I let it go. Nothing is worth signing in to Slack.
+
+
+## Work
+My job this year was really fun. I think a lot of things at the FT finally came together after a lot of people's hard work in 2016. The Origami team shipped some big changes to our components as a result of some excellent collaboration with the design team and the results on FT.com speak for themselves.
+
+
+I got promoted to Principal Engineer which I was really happy about. As usual with promotions (for me anyway), I wasn't really aware that I could be a PE until several people expressed surprise that I wasn't one already. My mum seemed very proud when I told her which cool.
+
+
+The Origami team continue to do work that makes me feel extremely good and after a few questions about how exactly we function I wrote about it (at length) over on the Financial Times' tech blog: [Tips for in-house teams in a free market software culture](http://engineroom.ft.com/2017/12/01/tips-for-in-house-teams-in-a-free-market-software-culture/).
+
+
+Through work I have been enrolled in a mentoring scheme called the 30% club. The scheme is aimed at getting more women into board rooms. My mentor and I talk once a month and so far the conversations have been interesting and helpful. As my relationship to work has just changed drastically it's good to have someone outside the FT to talk to about what that means and how to navigate maternity leave.
+
+
+[Now for an incomplete list of things the Origami team did in no particular order...] Shipped new typography and colors, hiring runbook, switched off some old services, all services now multi-region, started rebuilding the registry, many new polyfills in the Polyfill Service and a ToS and Privacy Policy.
+
+## Talks
+I gave three talks this year, all in the UK. At [All Day Hey!](https://speakerdeck.com/alicebartlett/all-day-hey-cant-you-make-it-more-like-bootstrap) in Leeds and [Patterns Day](https://vimeo.com/226575101) in Brighton I talked about how the Origami team works and what tools we provide for people at the FT to use our stuff.
+
+I also gave a [talk about the Origami Image Service](https://speakerdeck.com/alicebartlett/case-study-on-the-fts-responsive-image-service). The Image Service resizes, crops, filters, whatever, images on-the-fly and practically every image on FT.com uses it. Last year the team re-wrote the service bringing in a third party SaSS to do the heavy lifting of image processing. The talk was about how we did that and how it was working out for us.
+
+
+## Other life things
+
+I turned 30 this year and it was probably my best birthday ever. My team surprised me with a cake with the Origami logo on it, I went away with my friends to The Long Barn in Norfolk and we ate really great home cooked food and played board games, my twin brother sent me a sweater from China with a photo of himself wearing a t-shirt that said "Are we really 30?" on it. [Tom](https://twitter.com/tomstuart) got me a subscription to Teen Vogue (which is now out of print)
+
+For my 30th I decided it was time to take up knitting, so Lachie bought me some Wool and The Gang kits ([Julia Jumper](https://www.woolandthegang.com/product/julia-sweater-women/knit-your-own) and [these mittens](https://www.woolandthegang.com/product/montana-mittens-women/knit-your-own)). Turns out knitting is excellent though I'm still not very good at it.
+
+Kyle, Alan, Lachie and I played the whole of [Seafall](https://boardgamegeek.com/boardgame/148261/seafall). I don't recommend it but it did take us about 11 months to complete so worth mentioning.
+
+[Nat](https://twitter.com/thatnatbuckley) and I did a course together at Ray Stitch. The best bit was getting to do this kind of thing with a friend. I now have a bright pink pair of trousers and a long coat. We went on to make another jacket together as a gift for [@russell](https://twitter.com/undermanager), however my main memories of that are getting extremely bad morning sickness towards the end and having to sit down a lot.
+
+I took some holidays too. I visited Hong Kong. It was full of terrible British ex-pats, but I liked the heaped up feeling of the city and I did eat some very good food and go on some very nice hikes. I visited Spain. I had very severe morning sickness and threw up in the sink of the hotel room kitchen a lot. I remember eating some nice crisps though. Lachie and I drove the North Coast 500 in a camper van. There are some nice things to see along that route - dolphins, extremely beautiful beaches, posh castles, run-down castles. Good if you're out-doorsy but hate packing up a wet tent.
+
+I've made an album of the best bits of this year. [It's here on Google photos](https://photos.app.goo.gl/aPoeINtA4qXxAjm43).
