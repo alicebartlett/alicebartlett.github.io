@@ -12,5 +12,5 @@ categories: weaknotes
 * I've started playing Two Point Hospital (Theme Hospital 2018). It's good, though a bit buggy. As you would expect, the copy is excellent. I laughed aloud at "Catches frisbee 'doggy style'" in particular. Steam is still a mess.
 * When I was about 8 my friends and I would always yell the same thing as we left each other on our divergent routes home: "Bye everyone, and don't forget - today's [weekday], tomorrow's [weekday] AND THE DAY AFTER THAT IS SATURDAY!". It didn't matter what day we were on, for some reason "THE DAY AFTER THAT" was always "SATURDAY". We thought this was extremely funny.
 * This isn't interesting, but it is true.
-* I think each of these weaknotes should have a title from the post.
+* I think these weaknotes should have a title. The title of this one is "The day after that is Saturday".
 * I still haven't made this HTTPS yet
