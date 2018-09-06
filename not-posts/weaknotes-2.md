@@ -14,3 +14,4 @@ categories: weaknotes
 * This isn't interesting, but it is true.
 * I think these weaknotes should have a title. The title of this one is "The day after that is Saturday".
 * I still haven't made this HTTPS yet
+* It's back to school week in the UK. Please remember if you get the annual back-to-school cold, do us all a solid and STAY HOME. No heroics. You are not important enough to be needed in the office - the Lemsip adverts have been lying to you this whole time.
