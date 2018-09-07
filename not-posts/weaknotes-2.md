@@ -10,6 +10,10 @@ categories: weaknotes
 * When I go back to work in 4 weeks time I'm going to be doing a new job. Having taken nearly 10 months away it feels like a great opportunity to drop some not-so-great working habits and pick up some better ones. A bit like your first day back at school. *This is the year* I stop getting in trouble for talking in class.
 * The good thing about weaknotes on my blog rather than Instagram stories is I get less of a sneaking suspicion some of you are actually hate-consuming my #content. When it's in the Insta feed you don't get a choice whereas this takes a higher level of energy to actually read and hopefully people who are just here for the high octane thrill of seeing someone they don't like do something they don't like won't be forced to see it.
 * I've started playing Two Point Hospital (Theme Hospital 2018). It's good, though a bit buggy. As you would expect, the copy is excellent. I laughed aloud at "Catches frisbee 'doggy style'" in particular. Steam is still a mess.
+* If Lachie was a theme hospital character for hire, his hiring list would say
+  * Gets a scottish accent when he talks to his mum
+  * Kind
+  * Squinty
 * When I was about 8 my friends and I would always yell the same thing as we left each other on our divergent routes home: "Bye everyone, and don't forget - today's [weekday], tomorrow's [weekday] AND THE DAY AFTER THAT IS SATURDAY!". It didn't matter what day we were on, for some reason "THE DAY AFTER THAT" was always "SATURDAY". We thought this was extremely funny.
 * This isn't interesting, but it is true.
 * I think these weaknotes should have a title. The title of this one is "The day after that is Saturday".
