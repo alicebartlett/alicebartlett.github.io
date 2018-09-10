@@ -41,9 +41,11 @@
   li {
     margin-left: 30px;
   }
+  
   li li {
-    margin-bottom: 1em;
+    margin-bottom: 0em;
   }
+  
   blockquote {
     border-left: 3px solid $yellow;
     padding: 0 $gutter;
@@ -67,7 +69,11 @@
   strong {
     font-family: 'Roboto Slab';
   }
-
+  
+  em {
+    font-style: italic;
+  }
+  
   sup {
     vertical-align: super;
     font-size: 0.7em;
