@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weaknotes 10: determined and independent"
+title:  "Weaknotes 10: Determined and independent"
 date:   2018-11-04 09:33:00
 categories: weaknotes
 ---
@@ -8,7 +8,7 @@ categories: weaknotes
 * Yesterday I walked all around Crystal Palace and listened to Malcolm Gladwell's Revisionist History. Specifically [season 3 Episode 7](http://revisionisthistory.com/episodes/27-malcolm-gladwell-s-12-rules-for-life). The episode is about "agreeableness" - the extent to which your actions are affected by a desire for approval from others. It made me wonder how agreeable I am. It had some interviews with very disagreeable people, who advocate doing things that make perfect rational sense but would cause most people to recoil in horror. I think I might be quite agreeable but in combination with being very... *Looks up work personality test results* "determined and independent". Malcolm Gladwell didn't discuss the extent to which western society conditions women to be agreeable but that's probably a thing, right? All the very disagreeable people Malcolm interviewed were men.
 * Hi [Matt](https://blog.153.io/2018/10/22/weeknotes-3/).
 * We played Agricola last night. I enjoyed it a lot but maybe just because I won. I'm not sure how to pronounce that name. Is it 'Agri-cola' (like you're saying two syllables 'agri' and 'cola') or 'Agricola' (like, you're trying to get the word out as quickly as possible, so you sort of squash the 'i' and the 'o').
-* This [Bellingcat piece about 'red pilling'](https://www.bellingcat.com/news/americas/2018/10/11/memes-infowars-75-fascist-activists-red-pilled/) was super horrifying and super interesting. I've been noticing the phrase 'kek' around a bit, coming out of alt-right pepé shitposting accounts. I didn't think much of it, but Bellingcat explains it and it's quite interesting:
+* This [Bellingcat piece about 'red pilling'](https://www.bellingcat.com/news/americas/2018/10/11/memes-infowars-75-fascist-activists-red-pilled/) was super horrifying and super interesting. I've noticed the phrase 'kek' around a bit, coming out of alt-right pepé shitposting accounts. I didn't think much of it - because of the people using it I had assumed it was an anti-semitic slur, but actually it's completely not that:
 
 > Kek is a term that first appeared in the MMORPG World of Warcraft. The two sides in that game, Horde and Alliance, were not supposed to communicate with one another. So when a member of one side chatted at another, their words were run through a filter to make it sound like a foreign language. When Horde players would type “lol,” it was translated as “kek”. Over time “kek” became another way of expressing laughter online. On 4chan’s /pol/ board kek took on a grander meaning and came to embody the essence of the “meme magic” that first made the alt-right so prominent.  The cultural rock tumbler of /pol/ eventually transmuted kek into Kekistan, a fictional ethno-state for “shitposters.”
 
