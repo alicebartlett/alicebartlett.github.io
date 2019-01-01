@@ -59,9 +59,7 @@ I chose to express milk at work for three months when I went back. This was an a
 ## Tips for anyone wanting to take SPL
 
 * Engage your HR rep. My contact in the FT's HR team described SPL as the most complicated piece of legislation they have to deal with. There are a huge number of ways to take SPL so talking through them with an expert is a really good idea.
-
 * Try and have it so you both have some solo time. I gained so much empathy for what it was like being the secondary parent when I had to do it, and I know my husband learnt heaps from being the primary. Our daughter also got a lot from having a different parent running the show.
-
 * Get yourself a spreadsheet. Organising maternity leave, paternity leave, shared parental leave, the annual leave you will still accrue while being on leave, all across multiple financial years is a logistical nightmare. I'm not going to share my spreadsheet because I think it probably only makes sense to me, but it was essential in working out what I was going to be paid, when I should return to work, etc.
 
 OK - that's it. I hope more people will take Shared Parental Leave. I must state again that **I AM NOT A HUMAN RESOURCES PROFESSIONAL**, but if you have any questions about what we did that I haven't covered here, just pop me an [email](mailto:alice.bartlett@gmail.com).
