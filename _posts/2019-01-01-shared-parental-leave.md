@@ -8,7 +8,7 @@ This year we had a daughter and my husband and I decided to make use of Shared P
 
 In February the Department for Business said that the uptake of SPL could be as low as 2% of the 285,000 couples that are eligible for it each year. I think SPL is amazing so I thought I'd write down what we did and why it was good.
 
-In this blog post I'm going to talk about what my husband and I did.  I'm an a heterosexual relationship but the policy I'm talking is available to same sex (or queer!) couples and couples adopting. In these cases there is a "Primary" and a "Secondary" parent.
+In this blog post I'm going to talk about what my husband and I did.  I'm an a heterosexual relationship but the policy I'm talking about is available to same sex (or queer!) couples and couples adopting. In these cases there is a "Primary" and a "Secondary" parent.
 
 ## Before SPL, things were bad
 
