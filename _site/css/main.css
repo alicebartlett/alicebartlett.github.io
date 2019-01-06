@@ -67,7 +67,7 @@ li {
   margin-bottom: 13.5px; }
 
 header {
-  padding: 27px 0; }
+  padding: 27px 9px; }
 
 .inner {
   max-width: 700px;
@@ -80,8 +80,27 @@ header {
     .inner {
       margin-left: 81px; } }
 
+.inner.double {
+  max-width: 700px; }
+
+.double-column-container {
+  display: flex;
+  flex-direction: row; }
+  @media (max-width: 640px) {
+    .double-column-container {
+      flex-direction: column; } }
+  @media (min-width: 769px) {
+    .double-column-container {
+      flex-direction: row; } }
+
+.primary-column {
+  flex: 2 0 0; }
+
+.secondary-column {
+  flex: 1 0 0;
+  margin-left: 27px; }
+
 .section {
-  overflow: hidden;
   margin-bottom: 54px; }
   @media (max-width: 640px) {
     .section {
@@ -130,7 +149,7 @@ footer {
   list-style: none;
   counter-reset: item;
   margin-bottom: 2em; }
-.post ul li:before {
+.post ul > li:before {
   border: 4px solid #CCCC00;
   height: 0px;
   width: 0px;
@@ -138,13 +157,15 @@ footer {
   border-radius: 4px;
   display: inline-block;
   margin: 3px 16px 3px -23px; }
-.post ol li:before {
+.post ol > li:before {
   content: counter(item) ". ";
   counter-increment: item;
   color: #CCCC00;
   margin: 0 8px 0 -26px; }
 .post li {
   margin-left: 30px; }
+.post li li {
+  margin-bottom: 0em; }
 .post blockquote {
   border-left: 3px solid #CCCC00;
   padding: 0 27px;
@@ -161,9 +182,13 @@ footer {
   margin-bottom: 27px; }
 .post strong {
   font-family: 'Roboto Slab'; }
+.post em {
+  font-style: italic; }
 .post sup {
   vertical-align: super;
   font-size: 0.7em; }
+.post img {
+  margin-top: 1em; }
 
 .blog-nav {
   overflow: hidden;
@@ -172,11 +197,11 @@ footer {
   font-size: 20px;
   font-family: 'Roboto Slab'; }
   .blog-nav .previous:before {
-    content: '◀ '; }
+    content: '☜ '; }
   .blog-nav .next {
     float: right; }
     .blog-nav .next:after {
-      content: ' ▶';
+      content: ' ☞';
       transform: rotate(180deg); }
   .blog-nav a {
     color: white; }
@@ -221,8 +246,11 @@ a {
 .back-link {
   font-family: "Roboto Slab"; }
   .back-link:before {
-    content: '◀ ';
+    content: '☜ ';
     color: #CCCC00; }
+  .back-link:hover:before {
+    content: '☜ ';
+    color: #0079a2; }
 
 img {
   width: 100%;
@@ -266,6 +294,17 @@ img {
   .link-list li:last-child:after {
     content: '.';
     color: #CCCC00; }
+
+.photo-circle {
+  margin-left: 27px;
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+  background-size: 220px;
+  background-position: center; }
+
+.photo-alice {
+  background-image: url(/assets/img/alicebartlett.jpg); }
 
 .push {
   clear: both;

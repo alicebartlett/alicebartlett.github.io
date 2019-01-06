@@ -34,10 +34,15 @@ a {
 .back-link {
   font-family: "Roboto Slab";
   &:before {
-    content: '◀ ';
+    content: '☜ ';
     color: $yellow;
   }
+  &:hover:before {
+    content: '☜ ';
+    color: darken($link, 15%);;
+  }
 }
+
 
 img {
   width: 100%;
@@ -99,6 +104,20 @@ img {
     }
   }
 }
+
+.photo-circle {
+  margin-left: $gutter;
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+  background-size: 220px;
+  background-position: center;
+}
+
+.photo-alice {
+  background-image: url(/assets/img/alicebartlett.jpg);
+}
+
 .push {
   clear: both;
   height: 1px;

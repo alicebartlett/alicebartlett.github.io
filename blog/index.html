@@ -1,0 +1,29 @@
+---
+layout: default
+title: Blog posts
+---
+<div class="container">
+
+  <div class='inner'>
+    <div class='content'>
+      <h1>Blog archive</h1>
+      <div class="section">
+        <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        <p>Right now, I'm blogging every week address `weaknotes`. These blog posts are short and personal and primarily for me. They are where I put things I would have put on Twitter before I stopped writing things on Twitter. You can see my <a href="/blog/weaknotes">weaknotes archive here</a>.</p>
+        <p>Less frequently I write blog posts about things. You can see all of those posts in the <a href="/blog/everything-else">not weaknotes archive here</a>.</p>
+        <ul class="date-list">
+          {% for post in site.posts %}
+          <li>
+            <div class='post-date'>
+              <time>{{ post.date | date: "%-d %b %Y" }}</time>
+            </div>
+            <div class="post-metadata">
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </div>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

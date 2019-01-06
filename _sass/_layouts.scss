@@ -1,6 +1,6 @@
 
 header {
-  padding: $gutter 0;
+  padding: $gutter $gutter/3;
 }
 
 .inner {
@@ -16,8 +16,31 @@ header {
   }
 }
 
+.inner.double {
+  max-width: 700px;
+}
+
+.double-column-container {
+  display: flex;
+  flex-direction: row;
+
+  @include media(mobile) {
+    flex-direction: column;
+  }
+  @include media(desktop) {
+    flex-direction: row;
+  }
+}
+
+.primary-column {
+  flex: 2 0 0;
+}
+.secondary-column {
+  flex: 1 0 0;
+  margin-left: $gutter;
+}
+
 .section {
-  overflow:hidden;
   margin-bottom: $gutter*2;
   @include media(mobile) {
     margin-bottom: $gutter;

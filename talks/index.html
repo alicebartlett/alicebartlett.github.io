@@ -1,0 +1,42 @@
+---
+layout: default
+title: Blog posts
+---
+<div class="container">
+  <div class='inner'>
+    <div class='content'>
+      <h1>All the talks!</h1>
+      <p>I usually to give the same talk a few times as it takes me a while to write them. Below is a list of every talk I've ever given, including links to write-ups, videos and the slides.
+      <div class="section">
+          <ul class='date-list'>
+            {% for talk in site.data.talks%}
+              <li>
+                <div class='post-date'>
+                  <time>{{ talk["event_date"] }}</time>
+                </div>
+                <div class='post-metadata'>
+                  <div class='post-metadata-words'>
+                    <span>
+                      <a href='{{ talk["event_url"] }}'>{{ talk["event_title"] }}</a></span>
+                    {% if talk["talk_title"] %}
+                      <span>{{ talk["talk_title"] }}</span>
+                    {% endif %}
+                    {% if talk["talk_description"] %}
+                      <span>{{ talk["talk_description"] }}</span>
+                    {% endif %}
+                    {% if talk["slides_url"] %}
+                      <span><a href="{{ talk["slides_url"] }}">Slides</a></span>
+                    {% endif %}
+                    {% if talk["video_url"] %}
+                      <span><a href="{{ talk["video_url"] }}">Video</a></span>
+                    {% endif %}
+                  </div>
+              </div>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,26 @@
+---
+layout: default
+permalink: blog/weaknotes
+---
+<div class="container">
+  <div class='inner'>
+    <div class='content'>
+      <h1>Weaknotes archive</h1>
+      <div class="section">
+        <p>Here is every weaknotes ever. This page also includes yearnotes, which you may think of as macro weaknotes.</p>
+        <ul class="date-list">
+          {% for post in site.categories.weaknotes %}
+          <li>
+            <div class='post-date'>
+              <time>{{ post.date | date: "%-d %b %Y" }}</time>
+            </div>
+            <div class="post-metadata">
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </div>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

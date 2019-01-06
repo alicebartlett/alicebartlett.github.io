@@ -1,69 +1,72 @@
 ---
-layout: default
+layout: home
 ---
-
-<div class='inner'>
-  <div class='content'>
-  <header>
-    <h1>Alice Bartlett</h1>
-  </header>
-  <div class='section'>
-  <p>I work at the Financial Times as a Principal Engineer in the Customer Products team. I used to work at <a href="http://gov.uk">The Government Digital Service (GDS)</a>,  <a href="http://berglondon.com">BERG</a>, <a href='http://labs.ft.com'>FT Labs</a> (formerly <a href='http://assanka.net'>Assanka</a>) and IBM. I'm also the founder of the lady-bung empowerment franchise, <a href='http://tampon.club'>tampon.club</a>.</p>
-  </div>
-  <div class='section'>
-    <h2 class='straplined'>Writing</h2>
-    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-    <ul class="date-list">
-      {% for post in site.posts %}
-      <li>
-        <div class='post-date'>
-          <time>{{ post.date | date: "%-d %b %Y" }}</time>
-        </div>
-        <div class="post-metadata">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+<div class="container">
+  <div class='inner'>
+    <div class='content'>
+      <header>
+        <h1>Alice Bartlett</h1>
+      </header>
+      <div class='section'>
+      <p>I work at the Financial Times as a Principal Engineer in the Customer Products team. I used to work at <a href="http://gov.uk">The Government Digital Service (GDS)</a>,  <a href="http://berglondon.com">BERG</a>, <a href='http://labs.ft.com'>FT Labs</a> (formerly <a href='http://assanka.net'>Assanka</a>) and IBM. I'm also the founder of the lady-bung empowerment franchise, <a href='http://tampon.club'>tampon.club</a>.</p>
       </div>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  <div class='section'>
-  <h2>Talks</h2>
-    <ul class='date-list'>
-      {% for talk in site.data.talks %}
-        <li>
-          <div class='post-date'>
-            <time>{{ talk["event_date"] }}</time>
-          </div>
-          <div class='post-metadata'>
-            <div class='post-metadata-words'>
-              <span>
-                <a href='{{ talk["event_url"] }}'>{{ talk["event_title"] }}</a></span>
-              {% if talk["talk_title"] %}
-                <span>{{ talk["talk_title"] }}</span>
-              {% endif %}
-              {% if talk["talk_description"] %}
-                <span>{{ talk["talk_description"] }}</span>
-              {% endif %}
-              {% if talk["slides_url"] %}
-                <span><a href="{{ talk["slides_url"] }}">Slides</a></span>
-              {% endif %}
-              {% if talk["video_url"] %}
-                <span><a href="{{ talk["video_url"] }}">Video</a></span>
-              {% endif %}
+      <div class='section'>
+        <h2 class='straplined'>Writing</h2>
+        <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+        <ul class="date-list">
+          {% for post in site.posts limit: 10 %}
+          <li>
+            <div class='post-date'>
+              <time>{{ post.date | date: "%-d %b %Y" }}</time>
             </div>
-        </div>
-        </li>
-      {% endfor %}
-    </ul>
+            <div class="post-metadata">
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </div>
+          </li>
+          {% endfor %}
+        </ul>
+        <a href="/blog">All posts</a> / <a href="/blog/weaknotes">All Weaknotes</a> / <a href="/blog/everything-else">Everything but weaknotes</a>
+      </div>
+      <div class='section'>
+      <h2>Talks</h2>
+        <ul class='date-list'>
+          {% for talk in site.data.talks limit: 10%}
+            <li>
+              <div class='post-date'>
+                <time>{{ talk["event_date"] }}</time>
+              </div>
+              <div class='post-metadata'>
+                <div class='post-metadata-words'>
+                  <span>
+                    <a href='{{ talk["event_url"] }}'>{{ talk["event_title"] }}</a></span>
+                  {% if talk["talk_title"] %}
+                    <span>{{ talk["talk_title"] }}</span>
+                  {% endif %}
+                  {% if talk["talk_description"] %}
+                    <span>{{ talk["talk_description"] }}</span>
+                  {% endif %}
+                  {% if talk["slides_url"] %}
+                    <span><a href="{{ talk["slides_url"] }}">Slides</a></span>
+                  {% endif %}
+                  {% if talk["video_url"] %}
+                    <span><a href="{{ talk["video_url"] }}">Video</a></span>
+                  {% endif %}
+                </div>
+            </div>
+            </li>
+          {% endfor %}
+        </ul>
+        <a href="/talks">Show me all the talks!</a>
+      </div>
+      <div class='section'>
+        <h2>Elsewhere</h2>
+        <ul class='link-list'>
+        {% for link in site.data.links %}
+          <li><a href='{{ link["url"]}}' title='{{ link["title"]}}'>{{ link["site_name"] }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
-  <div class='section'>
-    <h2>Elsewhere</h2>
-    <ul class='link-list'>
-    {% for link in site.data.links %}
-      <li><a href='{{ link["url"]}}' title='{{ link["title"]}}'>{{ link["site_name"] }}</a></li>
-    {% endfor %}
-    </ul>
-  </div>
-</div>
 </div>
