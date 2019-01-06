@@ -67,7 +67,7 @@ li {
   margin-bottom: 13.5px; }
 
 header {
-  padding: 27px 9px; }
+  padding: 27px 9px 54px; }
 
 .inner {
   max-width: 700px;
@@ -81,7 +81,7 @@ header {
       margin-left: 81px; } }
 
 .inner.double {
-  max-width: 700px; }
+  max-width: 900px; }
 
 .double-column-container {
   display: flex;
@@ -99,6 +99,9 @@ header {
 .secondary-column {
   flex: 1 0 0;
   margin-left: 27px; }
+  @media (max-width: 640px) {
+    .secondary-column {
+      margin-left: 0; } }
 
 .section {
   margin-bottom: 54px; }
@@ -296,7 +299,6 @@ img {
     color: #CCCC00; }
 
 .photo-circle {
-  margin-left: 27px;
   border-radius: 50%;
   height: 180px;
   width: 180px;

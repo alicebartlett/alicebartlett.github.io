@@ -1,6 +1,6 @@
 
 header {
-  padding: $gutter $gutter/3;
+  padding: $gutter $gutter/3 $gutter*2;
 }
 
 .inner {
@@ -17,7 +17,7 @@ header {
 }
 
 .inner.double {
-  max-width: 700px;
+  max-width: 900px;
 }
 
 .double-column-container {
@@ -38,6 +38,9 @@ header {
 .secondary-column {
   flex: 1 0 0;
   margin-left: $gutter;
+  @include media(mobile) {
+    margin-left: 0;
+  }
 }
 
 .section {
