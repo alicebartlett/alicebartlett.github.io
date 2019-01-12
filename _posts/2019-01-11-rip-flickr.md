@@ -35,5 +35,5 @@ I remember this really clearly. God that office was grim. I was doing inventory 
 ([Original by Phil here](https://www.flickr.com/photos/philgyford/11325773703/in/photosof-alicebartlett/))
 
 ## In Newcastle when Me and Mark Hurrell wore matching outfits
-Finally we've made it past 2013. This photo was taken by [Ben Terrett](http://www.benterrett.com/). [Original with (Ben's dad's comments) is here](https://www.flickr.com/photos/benterrett/12769099183/in/photosof-alicebartlett/). This was taken when I was at GDS. We were on a trip to Newcastle to hire for an HMRC centre up there. We did two days of Civil Service interviews in hotel rooms with the beds removed. My main memories were feeling a bit sweaty. I sewed that top myself.
+Finally we've made it past 2013. This photo was taken by [Ben Terrett](http://www.benterrett.com/). [Original with Ben's dad's comments is here](https://www.flickr.com/photos/benterrett/12769099183/in/photosof-alicebartlett/). This was taken when I was at GDS. We were on a trip to Newcastle to hire for an HMRC centre up there. We did two days of Civil Service interviews in hotel rooms with the beds removed. My main memories were feeling a bit sweaty. I sewed that top myself.
 ![Alice and Mark Hurrell](/assets/img/alice-mark.jpg)
