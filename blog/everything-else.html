@@ -12,6 +12,7 @@ title: Everything else archive
         <ul class="date-list">
           {% for post in site.posts %}
           {% unless post.categories contains 'weaknotes' %}
+          {% unless post.categories contains 'sewing' %}
           <li>
             <div class='post-date'>
               <time>{{ post.date | date: "%-d %b %Y" }}</time>
@@ -20,6 +21,7 @@ title: Everything else archive
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </div>
           </li>
+          {% endunless %}
           {% endunless %}
           {% endfor %}
         </ul>
