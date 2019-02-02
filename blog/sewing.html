@@ -1,0 +1,28 @@
+---
+layout: default
+permalink: blog/sewing
+title: Sewing posts
+
+---
+<div class="container">
+  <div class='inner'>
+    <div class='content'>
+      <h1>Sewing posts</h1>
+      <div class="section">
+        <p>I sew things and then I photograph them and put them here</p>
+        <ul class="date-list">
+          {% for post in site.categories.sewing %}
+          <li>
+            <div class='post-date'>
+              <time>{{ post.date | date: "%-d %b %Y" }}</time>
+            </div>
+            <div class="post-metadata">
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </div>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
