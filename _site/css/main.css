@@ -67,7 +67,8 @@ li {
   margin-bottom: 13.5px; }
 
 header {
-  padding: 27px 9px 54px; }
+  padding: 27px 9px 54px;
+  background-color: white; }
 
 .inner {
   max-width: 700px;
