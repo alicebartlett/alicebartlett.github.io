@@ -23,7 +23,7 @@ a {
     color: darken($link, 15%);
   }
   &:hover, &:focus {
-    @include magic-underline($link, $link-underline, $background);
+    text-decoration:underline;
     color: darken($link, 15%);
   }
 }
@@ -35,7 +35,6 @@ a {
   font-family: "Roboto Slab";
   &:before {
     content: '☜ ';
-    color: $yellow;
   }
   &:hover:before {
     content: '☜ ';
@@ -122,6 +121,12 @@ img {
   height: 1px;
   margin-top:-1px;
 }
+
+.category {
+  padding: 0 3px ;
+  background-color: $secondary-accent;
+}
+
 footer {
   background-image: url('/assets/me.jpg');
   background-size: 100%;

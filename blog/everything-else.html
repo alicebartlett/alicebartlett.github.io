@@ -6,23 +6,23 @@ title: Everything else archive
 <div class="container">
   <div class='inner'>
     <div class='content'>
-      <h1>Everything except weaknotes archive</h1>
+      <h1>Other writing</h1>
       <div class="section">
-        <p>Sometimes I write things outside of weaknotes. Those things are here.</p>
+        <p>Sometimes I do some more normal blogging, that's all here.</p>
         <ul class="date-list">
           {% for post in site.posts %}
-          {% unless post.categories contains 'weaknotes' %}
-          {% unless post.categories contains 'sewing' %}
-          <li>
-            <div class='post-date'>
-              <time>{{ post.date | date: "%-d %b %Y" }}</time>
-            </div>
-            <div class="post-metadata">
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </div>
-          </li>
-          {% endunless %}
-          {% endunless %}
+            {% unless post.categories contains 'weaknotes' %}
+              {% unless post.categories contains 'sewing' %}
+                <li>
+                  <div class='post-date'>
+                    <time>{{ post.date | date: "%-d %b %Y" }}</time>
+                  </div>
+                  <div class="post-metadata">
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  </div>
+                </li>
+              {% endunless %}
+            {% endunless %}
           {% endfor %}
         </ul>
       </div>

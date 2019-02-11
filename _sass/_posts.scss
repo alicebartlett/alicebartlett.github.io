@@ -109,8 +109,5 @@
     &:visited {
       color:white;
     }
-    &:hover, &:focus {
-      @include magic-underline(white, $yellow, $secondary-accent);
-    }
   }
 }
