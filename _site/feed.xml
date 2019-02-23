@@ -5,12 +5,88 @@
     <description>The website of Alice Bartlett. Front-end developer and internet person.</description>
     <link>http://alicebartlett.co.uk/</link>
     <atom:link href="http://alicebartlett.co.uk/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 02 Feb 2019 16:52:54 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Feb 2019 16:52:54 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Feb 2019 20:28:47 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Feb 2019 20:28:47 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Weaknotes 22: antithesis of hunky</title>
+        <title>Week 25: Smash that interactive rebase</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Did a workshop on Git this week with [Tatiana][https://twitter.com/binaryberry]. It was super good. When it came to the exercises, it was the most interested I’ve ever seen people in a workshop. People really wanted to smash that interactive rebase!&lt;/li&gt;
+  &lt;li&gt;Could I do a 40 minute talk on Git? Is that interesting? I need to do a 40 minute talk on &lt;em&gt;something&lt;/em&gt;. I have a long time to figure out what though so maybe it’s should be something else.&lt;/li&gt;
+  &lt;li&gt;I assembled a cold frame for my plant babies. After the builders trashed my plants last year I’m really excited for this year’s growing season. Going to feed my houseplants properly and grow sweat peas, phlox, and thunbergia.&lt;/li&gt;
+  &lt;li&gt;I did some gardening last weekend. Sawed my thumb a bit but the garden is looking much tidier.&lt;/li&gt;
+  &lt;li&gt;My sewing class has finished. I’ve nearly completed the trousers, I just need to do some hand sewing. I will write about them here once I’ve photographed them.&lt;/li&gt;
+  &lt;li&gt;I’ve just finished &lt;a href=&quot;https://www.stitcher.com/podcast/stitcher/the-dream&quot;&gt;this podcast&lt;/a&gt; on multi-level marketing. If you enjoy reading about pyramid schemes then it’s probably worth it. It focusses on how MLMs have become so common in the US, and so legally difficult to pursue. It could be about 50% shorter - as with all podcasts.&lt;/li&gt;
+  &lt;li&gt;Lachie has eaten TWO almond magnum icecreams by midday on Saturday. He bought one for himself and one for me one in case I wanted one, but since I’d literally just finished a fry up, I wasn’t really in the mood. Lachie had also just eaten a fried breakfast but he is an animal so that explains that. He said I’d left him with “literally no choice but to eat a second magnum”.&lt;/li&gt;
+  &lt;li&gt;We watched Russian Doll. I didn’t like the first few episodes much but it really got going around episode three and then we hammered through it in under a week. And the ending! Ugh the ending was so good! I almost hope there isn’t another series because they tied this one up so neatly.&lt;/li&gt;
+  &lt;li&gt;The weather is on the up which is making me feel good until I realise it’s probably unusually warm because of climate change and then I remember that the insects are dying and the ice is melting. Hurrrrgh I feel sick.&lt;/li&gt;
+  &lt;li&gt;Byeeeeeeeee&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 23 Feb 2019 20:28:00 +0000</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-25</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-25</guid>
+        
+        
+        <category>weaknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 24: I&#39;m Pauly, from New Joysey</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Normally when I see someone is doing weeknotes about their actual jobs I think “oh here we go, this’ll be extremely boring” so imagine my surprise when I clicked on &lt;a href=&quot;https://demotive.com/weeknotes/2019/02/08/&quot;&gt;Mat’s second instalment&lt;/a&gt; which begins with the sentence:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Another week of shining visions of joined-up healthcare being ground to dust by grim reality as we continue to investigate service propositions for hooking 111 online into pharmacies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It ends with something even better but I don’t want to spoil it for you.&lt;/li&gt;
+  &lt;li&gt;The other day a friend told me she absolutely hates getting compliments because she finds them incredibly patronising. This has left me with a paranoia that every time I say “well done” the person I’ve said it to is thinking “thanks - fuck you!”&lt;/li&gt;
+  &lt;li&gt;Because of the way the character “Pauly” in the Sopranos pronounces his name (with a New Jersey accent it’s more like “poorly”) now in our house when you’re ill you say “I’m Pauly, from New Joysey”. It’s just a thing we do, OK? Anyway at the beginning of this week I was extremely Pauly from New Jersey.&lt;/li&gt;
+  &lt;li&gt;Last week I did some pairing with my colleague &lt;a href=&quot;https://twitter.com/_magspie&quot;&gt;Maggie&lt;/a&gt;. It was not very interesting work, but it was great to get to pair with someone, especially someone cool and fun like Maggie. I think we both learnt some stuff and the task I was dealing with got done much quicker because Maggie was co-pilot. I don’t get to write a lot of code anymore so this kind of thing is basically living the dream.&lt;/li&gt;
+  &lt;li&gt;Well done to the leet hax0r that has taken up my old tumblr and started posting spam to it. I had forgotten to delete the DNS record after I deleted the Tumblr so now at my domain there is a load of crap about using photoshop. I have deleted it now, don’t worry. In retrospect, I should have hung on to the Tumblr name, but I held it close to me, asked myself “does alicesews.tumblr.com spark joy?” and then acted accordingly. Marie Kondo hasn’t, to my knowledge, done an episode on tidying up old tumblrs but I hope she’ll point out that the second you “delete” a tumblr you free it up to be used by anyone else, and &lt;em&gt;obviously&lt;/em&gt; delete the corresponding DNS record you n00b.&lt;/li&gt;
+  &lt;li&gt;I am tiiiired. Help me.&lt;/li&gt;
+  &lt;li&gt;If I was going to get into catfishing I would use &lt;a href=&quot;https://twitter.com/rowanmanning&quot;&gt;Rowan Manning’s&lt;/a&gt; profile pic.&lt;/li&gt;
+  &lt;li&gt;This week 5 of us had our third away-day to sort out the career paths and progression at work. After 3 days we have a rough bunch of agreed competencies and a plan for shipping them as a versioned alpha, which feels amazing.&lt;/li&gt;
+  &lt;li&gt;We’re moving office in May and our new bogs have those Japanese computerised bum hole washing toilets that also sing to you. I would complain about this but we also got some gender neutral bathrooms so I think everyone got what they wanted.&lt;/li&gt;
+  &lt;li&gt;Just did week 2 of my sewing class. I kind of zoned out last week when Julie told us what the homework was and so I ended up doing probably 2 hours more than everyone else, which is significant when a class is 3 hours.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 16 Feb 2019 09:00:00 +0000</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-24</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-24</guid>
+        
+        
+        <category>weaknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 23: Edited a hunk</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;I read &lt;a href=&quot;https://www.newyorker.com/magazine/2019/02/11/a-suspense-novelists-trail-of-deceptions&quot;&gt;this about pathological liar and author Dan Mallory&lt;/a&gt; after Dan W tweeted it. I didn’t really want to be reading it, but it sucked me in. I went to school with a pathological liar but she’s probably grown out of it by now. She used to make up all kinds of odd things - her dad (a GP) was being hounded by the press because of some scandal; she wrote a piece of music herself that I recognised to be the Moonlight Sonata 🤷‍♀️; one day she came to school and pretended for a whole day to have lost her voice.&lt;/li&gt;
+  &lt;li&gt;There are new emoji. Very excited for the flamingo. Not so excited for the small dick emoji.&lt;/li&gt;
+  &lt;li&gt;I’ve started a sewing class at Sew Over It. I’m going to make some chroma-key cigarette pants. The new Sew Over It shop is lovely and spacious and bright. I’ve got the same brilliant teacher that I had last time (Julie). She’s basically a pattern savant - can look at any bum/thigh/crotch and say what changes to the pattern need to be made.&lt;/li&gt;
+  &lt;li&gt;We started watching that Bill Clinton docu on Channel 4. It’s good! There is some very eighties hair happening.&lt;/li&gt;
+  &lt;li&gt;This week edited a hunk for the first time using git. I felt very alive and very powerful to be honest.&lt;/li&gt;
+  &lt;li&gt;[Chris Noth watch] OMG Chris Noth is in Catastrophe and he has white hair and a moustache!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 09 Feb 2019 09:00:00 +0000</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-23</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-23</guid>
+        
+        
+        <category>weaknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 22: Antithesis of hunky</title>
         <description>&lt;ul&gt;
   &lt;li&gt;We mutha-flippin made it to mutha-flipping February my dudes.&lt;/li&gt;
   &lt;li&gt;This week I’ve been moving my sewing tumblr over to this site. I’ve done 30 posts since 2014. It’s been interesting to look back at 5 years worth of sewing.&lt;/li&gt;
@@ -73,7 +149,7 @@
       </item>
     
       <item>
-        <title>Weaknotes 21: IS IT APT? IS IT FUNNY? IS IT NEW?</title>
+        <title>Week 21: IS IT APT? IS IT FUNNY? IS IT NEW?</title>
         <description>&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://twitter.com/lukekavanagh_&quot;&gt;Luke&lt;/a&gt; showed me where to find the Financial Times style guide. I have spent hours reading it. As you would expect there is lots to enjoy. The bits about journalistic cliché’s are my favourite. Things like:
@@ -109,7 +185,7 @@ There are too many people scrambling to do something in the FT. Let them hurry i
       </item>
     
       <item>
-        <title>Weaknotes 20: Phoning in</title>
+        <title>Week 20: Phoning in</title>
         <description>&lt;ul&gt;
   &lt;li&gt;Weaknotes twenty!&lt;/li&gt;
   &lt;li&gt;Edith turned one year old this week. I’m considering getting a second opinion on that though, because there is no way she’s one. I can’t accept it.&lt;/li&gt;
@@ -130,7 +206,7 @@ There are too many people scrambling to do something in the FT. Let them hurry i
       </item>
     
       <item>
-        <title>Weaknotes 19: In practice RIP my quads</title>
+        <title>Week 19: In practice RIP my quads</title>
         <description>&lt;ul&gt;
   &lt;li&gt;I met with &lt;a href=&quot;https://twitter.com/kimber_long&quot;&gt;Kimberly&lt;/a&gt;, the blog editor at &lt;a href=&quot;https://www.bloodygoodperiod.com/&quot;&gt;Bloody Good Period&lt;/a&gt; this week. She works at the FT. She was brilliant - Bloody Good are brilliant. We’re going to team up on something menstruation related though we haven’t figured out what yet&lt;/li&gt;
   &lt;li&gt;I did some circuits at lunchtime which &lt;a href=&quot;https://www.annashipman.co.uk/&quot;&gt;Anna&lt;/a&gt; runs. In theory a great idea - exercising with nice people in a park. In practice RIP my quads.&lt;/li&gt;
@@ -196,7 +272,7 @@ There are too many people scrambling to do something in the FT. Let them hurry i
       </item>
     
       <item>
-        <title>Weaknotes 18: Stop torturing me with your bad manicures</title>
+        <title>Week 18: Stop torturing me with your bad manicures</title>
         <description>&lt;ul&gt;
   &lt;li&gt;Happy new year! We spent ours playing Pandemic Legacy 2.&lt;/li&gt;
   &lt;li&gt;I fell off the weaknotes wagon because I wrote a blog post about &lt;a href=&quot;http://alicebartlett.co.uk/blog/shared-parental-leave&quot;&gt;Shared Parental Leave&lt;/a&gt; and a &lt;a href=&quot;http://alicebartlett.co.uk/blog/yearnotes-2018&quot;&gt;yearnotes&lt;/a&gt; instead. But this week I’m back baby!&lt;/li&gt;
@@ -211,163 +287,6 @@ There are too many people scrambling to do something in the FT. Let them hurry i
         <pubDate>Sun, 06 Jan 2019 10:05:00 +0000</pubDate>
         <link>http://alicebartlett.co.uk/blog/weaknotes-18</link>
         <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-18</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Yearnotes 2018</title>
-        <description>&lt;p&gt;Hello! Yearnotes time again. To anyone unfamiliar, I write these at the end of every year for my own benefit mostly. They’re obviously very personal. I like reading about how other people’s years have gone, so if you’ve written some let me know!&lt;/p&gt;
-
-&lt;p&gt;There were a couple of big things that happened this year. I had a baby! We did some serious building work on our house! I changed roles at the Financial Times!&lt;/p&gt;
-
-&lt;h2 id=&quot;lets-get-the-baby-thing-out-of-the-way-first&quot;&gt;Let’s get the baby thing out of the way first&lt;/h2&gt;
-&lt;p&gt;Edith was born in January at 3:57am weighing 8lb 11oz. She arrived after a six day long inpatient induction. In an almost dream like twist of events one of my best friends from sixth form college (with whom I had lost touch) turned up as my anaesthetist. After she was born we spent another five nights in hospital because of a suspected infection.&lt;/p&gt;
-
-&lt;p&gt;I treasure the memories I have of her birth. I replay them and as they get further away I feel them morphing and becoming fuzzier. Luckily because the induction was so long I had some time to write some really long emails to the few people who knew I’d gone in for it. One day I’ll re-read those and remember it all again fresh.&lt;/p&gt;
-
-&lt;p&gt;From the get-go, Edith was perfect. Full of life, furious, soft. So soft. She’s now nearly one and loves climbing, hiding behind things, being chased and eating blueberries.&lt;/p&gt;
-
-&lt;p&gt;Her arrival has turned Lachie and I into very emotional people. We have the internal consistency of cottage cheese. From the moment she was born we both just turned to mush.&lt;/p&gt;
-
-&lt;p&gt;This was a year of new experiences. At each stage (the birth, being off work, going back to work) I was bracing for it to be awful and it just… wasn’t? The birth was objectively quite bad but at each stage there were lots of nice and proficient people around, and of course Lachie, so I quite enjoyed it. Then being off work with Edith turned out to be a piece of cake and very much aligned with things I already enjoy (loafing around, cuddles). Then going back to work was extremely empowering (more on this later).&lt;/p&gt;
-
-&lt;p&gt;Lachie and I did shared parental leave, which I’ve written a &lt;a href=&quot;http://alicebartlett.co.uk/blog/shared-parental-leave&quot;&gt;whole other blog post about&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;house-house-house&quot;&gt;House! House! House!&lt;/h2&gt;
-&lt;p&gt;During the summer we spent eight weeks living at my parents house while we had some building work done on ours. We now have a much bigger kitchen and a loft conversion. Getting that done was quite tough going (especially on Lachie who still had to go to work in London). Our house is mostly back together now, and having a kitchen that fits more than two people in is really excellent.&lt;/p&gt;
-
-&lt;h2 id=&quot;great-content&quot;&gt;Great content&lt;/h2&gt;
-&lt;p&gt;I started writing weaknotes. These are really for me to help me remember things. There is a small group of friends that I hope are interested in me personally enough to find anecdotes like “Edith did a poo as long as her whole arm” interesting. Though, on reflection, I doubt even my most loyal of friends is interested in that.&lt;/p&gt;
-
-&lt;p&gt;I also started doing Instagram videos while pushing Edith around in the pushchair. These came about because I was a bit bored on maternity leave and missed my grown-up friends.&lt;/p&gt;
-
-&lt;p&gt;I gave a talk about Tampon Club for International Women’s Day when Edith was about 2 months old. Tampon Club has slowed, largely because I’ve been busy with a baby. But I really should get back to it. Write some blog posts. Send out some stickers. Bulk buy some tampons on Ali Ba Ba.&lt;/p&gt;
-
-&lt;h2 id=&quot;making-things&quot;&gt;Making things&lt;/h2&gt;
-&lt;p&gt;This year I didn’t get much sewing done as for most of the year I didn’t have a room to sew in.&lt;/p&gt;
-
-&lt;p&gt;I did have a very rewarding foray into screen printing and made some nice, if a little wonky, tea towels. I did this largely while Edith was napping.&lt;/p&gt;
-
-&lt;p&gt;I did quite a bit of embroidery, probably because it takes up much less space than machine sewing and is far more portable. I made a mobile for Edith’s room (a lot of which was done in hospital), a picture of a toucan (a lot of which was done while we were away over the summer) and some hanging toys for Edith.&lt;/p&gt;
-
-&lt;p&gt;At the end of the year I bashed out two Jack Tar bags for Lachie’s brothers for Christmas. This is such a delightful pattern I’ll probably make it many more times.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://photos.google.com/share/AF1QipNUdo7hMjZj83UHML7J51-nnhMMPSFEVVlAloUXDzHzIXvEhbOeOrHa0SAShGrCcw?key=Y2I0NjIzTlNvRllXVGtVWGthajFpOWJyczVab0FR&quot;&gt;There is a google photos album of things I made here&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;new-job&quot;&gt;New job&lt;/h2&gt;
-&lt;p&gt;In October I went back to work after about 10 months away for having and looking after Edith. When I went back to work I took on a new role as Principal Engineer in the Customer Products team (that’s the team that looks after FT.com and the apps). I had been leading the Origami team for a while and I was worried I’d be bored when I went back so I wanted a new challenge.&lt;/p&gt;
-
-&lt;p&gt;The new role has been very enjoyable so far. Having a baby has changed my approach to work as it has left me much more focussed. Because I have to leave on time I don’t faff around as much as I used to.&lt;/p&gt;
-
-&lt;p&gt;I have a new manager, Anna Shipman. Being managed by Anna is pretty amazing to be honest. She strives to be the best she can be at all times and it forces me to try my hardest too.&lt;/p&gt;
-
-&lt;h2 id=&quot;pics&quot;&gt;Pics!&lt;/h2&gt;
-&lt;p&gt;As usual I’ve made a photo album of the best things from 2018, but it doesn’t include any photos of Edith (except one of the back of her head) because we’re keeping her off the big old internet for now. Obviously she was a huge part of my year and also extremely cute, but unless we’re friends on Instagram you’ll just have to take my word for it. &lt;a href=&quot;https://photos.app.goo.gl/Smv8fmmzr6XjwBBQ9&quot;&gt;The album is here&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Jan 2019 21:47:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/yearnotes-2018</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/yearnotes-2018</guid>
-        
-        
-        <category>weaknotes</category>
-        
-        <category>yearnotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Shared parental leave</title>
-        <description>&lt;p&gt;This year we had a daughter and my husband and I decided to make use of Shared Parental Leave (SPL). This legislation, brought in in 2014, allows two people (in our case the mother and father, but it could be two fathers, adoptive parents, whatever) to share one year’s leave between them.&lt;/p&gt;
-
-&lt;p&gt;In February the Department for Business said that the uptake of SPL could be as low as 2% of the 285,000 couples that are eligible for it each year. I think SPL is amazing so I thought I’d write down what we did and why it was good.&lt;/p&gt;
-
-&lt;p&gt;In this blog post I’m going to talk about what my husband and I did.  I’m an a heterosexual relationship but the policy I’m talking about is available to same sex (or queer!) couples and couples adopting. In these cases there is a “Primary” and a “Secondary” parent.&lt;/p&gt;
-
-&lt;h2 id=&quot;before-spl-things-were-bad&quot;&gt;Before SPL, things were bad&lt;/h2&gt;
-
-&lt;p&gt;Before Shared Parental Leave, I would have been entitled to a full year off work (paid at whatever my employer’s leave policy is plus statutory). My husband would have been entitled to 2 weeks off work.&lt;/p&gt;
-
-&lt;p&gt;This situation is a bit shit for everyone. Dads (or secondaries!) get less time with their babies. Mums (or primaries!) get less support from their partners. Women have to take a disproportionate career hit. Even in families where the dads want to pitch in equally, they’re not able to because they have to be back at work.&lt;/p&gt;
-
-&lt;h2 id=&quot;with-shared-parental-leave-you-share-your-parental-leave&quot;&gt;With Shared Parental Leave you share your parental leave&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;I AM NOT A HUMAN RESOURCES PROFESSIONAL&lt;/strong&gt; so here is the explanation from &lt;a href=&quot;https://sharedparentalleave.campaign.gov.uk/&quot;&gt;https://sharedparentalleave.campaign.gov.uk/&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Parents can share up to 50 weeks of leave and up to 37 weeks of pay and choose to take the leave and pay in a more flexible way (each parent can take up to 3 blocks of leave, more if their employer allows, interspersed with periods of work).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Eligible parents can be off work together for up to 6 months or alternatively stagger their leave and pay so that one of them is always at home with their baby in the first year.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;One thing I found confusing to begin with was understanding the pay for shared parental leave. This is because initially I thought pay was moveable (eg I get 19 weeks full pay which I can take at any time). But actually all parental pay works by providing a rate for a specific week calculated from the when the first leave is taken.&lt;/p&gt;
-
-&lt;p&gt;So if I’m off during week 13, I’ll get the week 13 rate (which in my case because of the FT’s enhanced maternity policy, is full pay). If I’m off during week 20 I’ll get statutory pay (£145.18). It doesn’t matter if week 20 is my first week off, the pay for week 20 is the statutory allowance as my employer’s enhanced pay policy ends on week 19.&lt;/p&gt;
-
-&lt;p&gt;My parental pay is calculated based on my employer’s policy, and my partner’s parental pay rate is calculated based on his employers policy.&lt;/p&gt;
-
-&lt;h2 id=&quot;first-we-took-four-weeks-off-together&quot;&gt;First we took four weeks off together&lt;/h2&gt;
-
-&lt;p&gt;OK, enough with the poorly described legislation. What did my partner and I actually &lt;em&gt;do&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;My partner’s employer (Microsoft) gives six week’s paid paternity leave in the UK, and he could take it in up two chunks. The Financial Times’s policy is the same for everybody (mothers, fathers, primaries, secondaries, etc). We all get 19 weeks leave fully paid.&lt;/p&gt;
-
-&lt;p&gt;First, we took four weeks off together. I have no idea what we did during this time - it’s a total blur. I dimly recall lots of sleeping in? And some stumbling around? And cuddles.&lt;/p&gt;
-
-&lt;p&gt;Then my husband went back to work, and for seven and a half months I was the primary parent. I also took sole responsibility for all the cooking which allowed my partner to focus on work.&lt;/p&gt;
-
-&lt;h2 id=&quot;being-the-primary-parent-is-hard&quot;&gt;Being the primary parent is hard!&lt;/h2&gt;
-
-&lt;p&gt;Some people don’t like the phrase “primary” parent. “It minimises the other parent’s role!”. Yes it does. But look. Having been both the primary and the secondary - the primary is different and a lot harder! At all times I had to be considering the needs of quite a needy small person. She can’t tell me if she’s hungry or tired or needs a nappy change. I have to remember if she’s poorly, if she’s currently refusing broccoli, what her favourite toys are, when she last pooed. Every day has to be, at a minimum, planned so that she’ll get some baby safe food and some time for naps. Sometimes it takes her an hour to eat a whole meal.&lt;/p&gt;
-
-&lt;p&gt;The secondary parent is still important. In the evenings being able to hand over responsibility, even just for the half hour before bed, was lovely. After a day of singing and chasing and tickling and playing and cleaning and feeding, I could have some quiet time to cook dinner. I didn’t especially like cooking until it came at the end of a day’s free play with a baby. Being able to follow a set of instructions uninterrupted and at the end have some delicious food became a real treat.&lt;/p&gt;
-
-&lt;h2 id=&quot;switching-roles&quot;&gt;Switching roles&lt;/h2&gt;
-
-&lt;p&gt;Despite being a fairly equitable pair, while I was on leave, I was the the person who was leading decisions about our daughter. Even when my partner was there too, I was in charge. This was because I knew what she needed because I was pretty much always with her.&lt;/p&gt;
-
-&lt;p&gt;When we switched I realised how much I had become accustomed to looking after a baby. How rolling with the unpredictability of a child had become how I went about the day. Seeing my partner get to grips with this challenge made me realise what a shift it is.&lt;/p&gt;
-
-&lt;p&gt;Going back to work at nine months was pretty easy, especially as I knew our daughter was with her dad. We chose a nine/three split because I wanted my partner to have a good chunk of time to get into being the primary. It took him a while to settle into the role so I’m glad we picked three months.&lt;/p&gt;
-
-&lt;p&gt;I chose to express milk at work for three months when I went back. This was an awful experience to be honest. I’m somewhat on the fence about if I would recommend doing that to anyone else.&lt;/p&gt;
-
-&lt;h2 id=&quot;tips-for-anyone-wanting-to-take-spl&quot;&gt;Tips for anyone wanting to take SPL&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Engage your HR rep. My contact in the FT’s HR team described SPL as the most complicated piece of legislation they have to deal with. There are a huge number of ways to take SPL so talking through them with an expert is a really good idea.&lt;/li&gt;
-  &lt;li&gt;Try and have it so you both have some solo time. I gained so much empathy for what it was like being the secondary parent when I had to do it, and I know my husband learnt heaps from being the primary. Our daughter also got a lot from having a different parent running the show.&lt;/li&gt;
-  &lt;li&gt;Get yourself a spreadsheet. Organising maternity leave, paternity leave, shared parental leave, the annual leave you will still accrue while being on leave, all across multiple financial years is a logistical nightmare. I’m not going to share my spreadsheet because I think it probably only makes sense to me, but it was essential in working out what I was going to be paid, when I should return to work, etc.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;OK - that’s it. I hope more people will take Shared Parental Leave. I must state again that &lt;strong&gt;I AM NOT A HUMAN RESOURCES PROFESSIONAL&lt;/strong&gt;, but if you have any questions about what we did that I haven’t covered here, just pop me an &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#108;&amp;#105;&amp;#099;&amp;#101;&amp;#046;&amp;#098;&amp;#097;&amp;#114;&amp;#116;&amp;#108;&amp;#101;&amp;#116;&amp;#116;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Jan 2019 10:51:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/shared-parental-leave</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/shared-parental-leave</guid>
-        
-        
-        <category>shared-parental-leave</category>
-        
-      </item>
-    
-      <item>
-        <title>Weaknotes 17: Minimum Viable Parenting</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Lachie and I have caught some kind of stomach bug so spent the last few days either in bed or doing Minimum Viable Parenting on our daughter as we try not to barf. Rice cakes and grapes for dinner again darling! As luck would have it we are currently surrounded by family members who are all pitching in too.&lt;/li&gt;
-  &lt;li&gt;My &lt;a href=&quot;http://alicebartlett.co.uk/blog/five-facts-about-smell&quot;&gt;post about smell&lt;/a&gt; has been put on Hacker News, which explains why about seven new people started following me on Twitter and why I got two emails about that post despite it being from 2014. Hello if you’re reading this from Hacker News. Though I’m too much of a chicken to go and read what people are saying about the post (what if someone is being mean to me on the internet!?!), I’ve seen some very flattering comments so thank you if you’re being nice about me.&lt;/li&gt;
-  &lt;li&gt;I really want to know who is flying drones over Gatwick. At first I thought it was going to turn out to be some green activists like Extinction Rebellion but they have &lt;a href=&quot;https://www.theguardian.com/uk-news/2018/dec/20/tens-of-thousands-of-passengers-stranded-by-gatwick-airport-drones&quot;&gt;denied involvement&lt;/a&gt;. Now maybe it turns out there were no drones at all, which is entirely plausible to me, having listened to that Malcolm Gladwell podcast about  &lt;a href=&quot;http://revisionisthistory.com/episodes/28-the-imaginary-crimes-of-margit-hamosh&quot;&gt;collective hysterias&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;[More about podcasts] I finished listening to the second series of &lt;a href=&quot;https://slate.com/slow-burn&quot;&gt;Slow Burn&lt;/a&gt;. This series is about the Clinton impeachment. This was much more gripping than the Nixon one somehow. I think maybe it was easier to follow. I keep trying to sum up what I think about Clinton having listened to this podcast but having tried a few takes none of them are very good so I’m just going to leave it at Clinton: a horrible man.&lt;/li&gt;
-  &lt;li&gt;[Podcasts] On a car journey Lachie and I listened to a &lt;a href=&quot;https://99percentinvisible.org/episode/the-accidental-room/&quot;&gt;99% invisible episode about… a room in a mall?&lt;/a&gt;. The best I can summarise it is some people find a secret void in a mall which you have to get to by going through a series of weird gaps in between designed spaces. They manage to fill it with furniture and then they live in it. Not full time, but they spend days in it.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 25 Dec 2018 11:48:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-17</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-17</guid>
         
         
         <category>weaknotes</category>
