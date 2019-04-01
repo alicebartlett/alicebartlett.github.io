@@ -54,7 +54,7 @@ We felt that although the weight of these areas would change from a Junior to a 
 
 Once we had those sorted we did a post-it exercise where we wrote down competencies, stuck them up and discussed them. This process was very illuminating and we had many difficult discussions about what we expect of our engineers.
 
-![A spirited discussion about career competencies — complete with Post-it notes](/assets/img/career-progression.jpeg.jpg)
+![A spirited discussion about career competencies — complete with Post-it notes](/assets/img/career-progression.jpeg)
 
 For example, we had quite a long debate about whether it was important for a mid level engineer to be able to demonstrate that they could set up a continuous integration pipeline from scratch.
 
