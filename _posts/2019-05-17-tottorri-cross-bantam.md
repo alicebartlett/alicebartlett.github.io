@@ -11,5 +11,5 @@ This fabric is so nice. It's [Japanese seersucker printed with small crosses](ht
 
 I love this vest pattern, but it's too big for me now. Next time I'll make a smaller size.
 
-![Vest from the front](/assets/img/tottori-kalle.1.jpg)
-![Vest from the back](/assets/img/tottori-kalle.2.jpg)
+![Vest from the front](/assets/img/sewing/tottori-bantam.1.jpg)
+![Vest from the back](/assets/img/sewing/tottori-bantam.2.jpg)
