@@ -1,13 +1,26 @@
 .post {
 
-  h3 {
-    padding-top: $gutter*1.5;
-    padding-bottom: $gutter*0.5;
-  }
   .post-meta {
     border-bottom: 6px solid $secondary-accent;
     padding-bottom: 12px;
     margin-bottom: $gutter*2;
+  }
+
+  .with-header-image & .post-meta {
+    padding-top: $gutter;
+
+    @include media(desktop) {
+      margin-top: -99px;
+      background-color: $background;
+      margin-left: -$gutter;
+      padding-left: $gutter;
+      border-bottom: none;
+    }
+  }
+
+  h3 {
+    padding-top: $gutter*1.5;
+    padding-bottom: $gutter*0.5;
   }
 
   h1 {

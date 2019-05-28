@@ -2,6 +2,18 @@
 header {
   padding: $gutter $gutter/3 $gutter*2;
   background-color: white;
+  .with-header-image & {
+    display: none;
+  }
+}
+
+.header-image {
+  height: $gutter*20;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  @include media(mobile) {
+    height: $gutter*7;
+  }
 }
 
 .inner {
