@@ -69,6 +69,16 @@ li {
 header {
   padding: 27px 9px 54px;
   background-color: white; }
+  .with-header-image header {
+    display: none; }
+
+.header-image {
+  height: 540px;
+  background-repeat: no-repeat;
+  background-size: 100%; }
+  @media (max-width: 640px) {
+    .header-image {
+      height: 189px; } }
 
 .inner {
   max-width: 700px;
@@ -139,13 +149,22 @@ footer {
         font-size: 40px;
         line-height: 1.1em; } }
 
-.post h3 {
-  padding-top: 40.5px;
-  padding-bottom: 13.5px; }
 .post .post-meta {
   border-bottom: 6px solid #E5DBCF;
   padding-bottom: 12px;
   margin-bottom: 54px; }
+.with-header-image .post .post-meta {
+  padding-top: 27px; }
+  @media (min-width: 769px) {
+    .with-header-image .post .post-meta {
+      margin-top: -99px;
+      background-color: #FFFFFF;
+      margin-left: -27px;
+      padding-left: 27px;
+      border-bottom: none; } }
+.post h3 {
+  padding-top: 40.5px;
+  padding-bottom: 13.5px; }
 .post h1 {
   margin-bottom: 0;
   padding-bottom: 0; }

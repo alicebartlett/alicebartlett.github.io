@@ -5,25 +5,71 @@
     <description>The website of Alice Bartlett. Front-end developer and internet person.</description>
     <link>http://alicebartlett.co.uk/</link>
     <atom:link href="http://alicebartlett.co.uk/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 14 Mar 2019 20:17:58 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Mar 2019 20:17:58 +0000</lastBuildDate>
+    <pubDate>Tue, 28 May 2019 21:19:50 +0100</pubDate>
+    <lastBuildDate>Tue, 28 May 2019 21:19:50 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Wool and The Gang Ruby Rabbit</title>
-        <description>&lt;p&gt;I made this &lt;a href=&quot;https://www.woolandthegang.com/en/products/ruby-rabbit&quot;&gt;Wool and The Gang rabbit&lt;/a&gt; for my sister-in-law’s soon baby.&lt;/p&gt;
-
-&lt;p&gt;This is the second time I’ve made this pattern. The first one, which I made for my now-baby, came out a bit lumpier than this. I added a rattle to this one for added interest.&lt;/p&gt;
-
-&lt;p&gt;This pattern is a bit hard to follow for a complete beginner but the second time around it was very quick to knit up. I think I still made quite a lot of mistakes. A third rabbit is probably on the cards tbh.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/sewing/ruby-rabbit-1.jpg&quot; alt=&quot;Ruby Rabbit&quot; /&gt;
-&lt;img src=&quot;/assets/img/sewing/ruby-rabbit-2.jpg&quot; alt=&quot;Ruby Rabbit&quot; /&gt;
-&lt;img src=&quot;/assets/img/sewing/ruby-rabbit-3.jpg&quot; alt=&quot;Ruby Rabbit&quot; /&gt;&lt;/p&gt;
+        <title>Week 38: This week&#39;s least popular word is &#39;automating&#39;</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Uh, so satisfying being able to type &lt;code class=&quot;highlighter-rouge&quot;&gt;make-week&lt;/code&gt; and just know that my very clever bash script will calculate the date of next Saturday and populate the front matter for my weaknotes. This has given me an idea for automating my post titles too… [some typing later] … OK well if I want to know the least popular word in every weaknote was I’ve now got a script for that… I could write a commit hook that creates the title every time I commit the weaknote. Would that be good? They’d probably be a bit rubbish. Can you tell I’m procrastinating from writing a conference talk?&lt;/li&gt;
+  &lt;li&gt;What if I just wrote a commit hook at appended “This week’s least popular word was &lt;em&gt;whatever&lt;/em&gt;” to the end of the weaknote. Would that be fun. That might be fun. SHUT UP AND WRITE YOUR TALK ABSTRACT AB.&lt;/li&gt;
+  &lt;li&gt;I went to the Alresford watercress festival last weekend. It was good - there were lots of dogs for E to look at and she was just incredibly happy to be there which was nice.&lt;/li&gt;
+  &lt;li&gt;In Alresford I also saw a set of quadruplets, so that’s something.&lt;/li&gt;
+  &lt;li&gt;I just trod in a lot of dog poo. I was thinking about how dog poo is disgusting, but why is that? It’s made up of the same atoms that everything else is made up of, including me, so in some ways aren’t we all dog poo?&lt;/li&gt;
+  &lt;li&gt;More typing happened and now I have some sentiment analysis which generates an emoji with the same sentiment. I’ve looked at the sentiment analysis algorithm and it is… not very smart.&lt;/li&gt;
+  &lt;li&gt;This week’s emoji is 😱&lt;/li&gt;
+  &lt;li&gt;This week’s least popular word is “automating”&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sun, 10 Mar 2019 20:26:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/watg-ruby-rabbit</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/watg-ruby-rabbit</guid>
+        <pubDate>Sat, 25 May 2019 00:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-38</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-38</guid>
+        
+        
+        <category>weaknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 37: (not a typo)</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;We did a staycation this week, while E still went to nursery. We were meant to get some big DIY jobs done, but of the three Things To Do, all of them were delayed by something further across the Gantt chart.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I don’t normally listen to This American Life, but a friend pointed me to &lt;a href=&quot;https://www.thisamericanlife.org/674/get-a-spine/act-one-3&quot;&gt;this episode&lt;/a&gt; about Dan Harmon’s apology to Mengan Ganz, a writer he sexually harassed over two or three years and it is mind blowing. Dan Harmon was the creator and show runner for Community. Over the course of two years he harassed a woman on his staff that he was attracted to and then, when she rejected him, he belittled and humiliated her repeatedly. In the analysis of the apology, we hear about his previous attempts to apologise, which were rubbish, and we hear from the Megan about the impact being harassed had had on her. Listening to this made me feel slightly sick. I know a lot of men who do or have done varying shades of Dan Harmon. They should all listen to this or at the very least &lt;a href=&quot;https://www.thisamericanlife.org/674/transcript&quot;&gt;read the transcript&lt;/a&gt;.
+&amp;gt; “The trick is if you lie to yourself you can lie to everybody. It’s really easy. And so that’s what I continued to do, telling myself and anybody that threatened to confront me with it that if you thought what I was doing was creepy or flirty or unprofessional then it’s because you were the sexist. You were jealous. I was supporting this person. I’m a mentor, I’m a feminist.”
+&amp;gt; “[After she rejected him] And that was probably the darkest of it all because I drank, I took pills, I crushed on her and resented her for not reciprocating it. And the entire time I was the one writing her pay checks and in control of whether she stayed or went, and whether she felt good about herself or not, and said horrible things. Just treated her cruelly, pointedly. Things that I would never, ever, ever have done if she had been male and if I had never had those feelings for her.”
+&amp;gt; “And I never did it before and I will never do it again. But I certainly wouldn’t have been able to do it if I had any respect for women. On a fundamental level, I was thinking about them as different creatures.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;This apology is really good because I think Dan Harmon is actually sorry about what he did and he took a big risk to improve the situation. In his apology he describes in a very clear and straightforward way what he did and why it was bad, he doesn’t make any excuses but he also doesn’t wallow in how sorry he is.&lt;/li&gt;
+  &lt;li&gt;It should go without saying, but clearly doesn’t because I keep having to say this to people, the point of doing an apology well is to repair the harm you caused another person. It is to help them feel better and move on. If you don’t think you really caused any harm, and you are not actually sorry, then don’t apologise.&lt;/li&gt;
+  &lt;li&gt;The other thing this made me think of is how annoying being a woman between the ages of 15 and 25 is. When I was younger it was basically impossible to tell which of my male peers were being nice to me because I was a chill yoghurt babe, and who was harbouring a nerd crush on me, which they would reveal to me at some point, in an awkward email, or a weird phone call, tainting every fun memory I had with them in the process. This is kind of the deal for a lot of young women, but it’s approximately 100 times more pronounced if you do a degree in Computer Science where the ratio of men to women is 80:3 (not a typo).&lt;/li&gt;
+  &lt;li&gt;A talk I gave about Git has been circulated widely on twitter again which is giving me some warm feelings.&lt;/li&gt;
+  &lt;li&gt;I am waiting for some babies to be born, it is an exciting time.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 18 May 2019 00:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-37</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-37</guid>
+        
+        
+        <category>weaknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Tottorri cross Kalle</title>
+        <description>&lt;p&gt;After &lt;a href=&quot;https://alicebartlett.co.uk/blog/bird-shirt&quot;&gt;my last Kalle shirt&lt;/a&gt; I knew I wanted to make another in &lt;a href=&quot;https://merchantandmills.com/store/cloth/tottorri-cross-black/&quot;&gt;this Japanese seersucker&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This fabric is so delicious. That is all I have to say on this matter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/sewing/tottori-kalle.1.jpg&quot; alt=&quot;Side view of my shirt&quot; /&gt;
+&lt;img src=&quot;/assets/img/sewing/tottori-kalle.2.jpg&quot; alt=&quot;Back view of my shirt&quot; /&gt;
+&lt;img src=&quot;/assets/img/sewing/tottori-kalle.3.jpg&quot; alt=&quot;Front view of my shirt&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 May 2019 00:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/tottorri-cross-kalle</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/tottorri-cross-kalle</guid>
         
         
         <category>sewing</category>
@@ -31,42 +77,19 @@
       </item>
     
       <item>
-        <title>Week 27: I&#39;m getting less funny</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;My idea for a light-up inflatables company went down like a LED balloon.&lt;/li&gt;
-  &lt;li&gt;I’m writing this post on my phone in the GitHub UI. The mobile site won’t let me add files, so I’m on the desktop version. It’s not great on a phone tbh.&lt;/li&gt;
-  &lt;li&gt;I was looking at some old Instagram photos and I think I’m getting less funny?&lt;/li&gt;
-&lt;/ul&gt;
+        <title>Tottorri cross Bantam</title>
+        <description>&lt;p&gt;I made this &lt;a href=&quot;https://merchantandmills.com/store/books/the-workbook/&quot;&gt;Bantam vest&lt;/a&gt; about two years ago I think, just before I got pregnant. I can’t remember why I never got around to photographing it, probably because I had a baby bump.&lt;/p&gt;
+
+&lt;p&gt;This fabric is so nice. It’s &lt;a href=&quot;https://merchantandmills.com/store/cloth/tottorri-cross/&quot;&gt;Japanese seersucker printed with small crosses&lt;/a&gt;. When I first wore this top it was a little stiff but after a few washes it has softened up.&lt;/p&gt;
+
+&lt;p&gt;I love this vest pattern, but it’s too big for me now. Next time I’ll make a smaller size.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/sewing/tottori-bantam.1.jpg&quot; alt=&quot;Vest from the front&quot; /&gt;
+&lt;img src=&quot;/assets/img/sewing/tottori-bantam.2.jpg&quot; alt=&quot;Vest from the back&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 09 Mar 2019 20:04:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-27</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-27</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Chroma key cigarette pants</title>
-        <description>&lt;p&gt;A few weeks ago I did the &lt;a href=&quot;https://sewoverit.co.uk/cigarette-pants/&quot;&gt;cigarette pants class&lt;/a&gt; at Sew Over It.&lt;/p&gt;
-
-&lt;p&gt;Cigarette pants are usually navy blue (at least, the class sample was navy, and both the other women in the class were making navy pants too). I don’t see the point in sewing clothes that you could just buy in a shop so I’ve made these in “emerald green viscose crepe” from &lt;a href=&quot;https://www.fabricgodmother.co.uk/sorrento-viscose-crepe-emerald/&quot;&gt;Fabric Godmother&lt;/a&gt;. They are the colour of a green screen.&lt;/p&gt;
-
-&lt;p&gt;The pattern is really nice. I cut a size 12 but lengthened them by about an inch.&lt;/p&gt;
-
-&lt;p&gt;This crepe has a bit too much drape for these trousers so it was a a fight to get them made. I’ll probably make another pair in a more structured fabric. I’d quite like some bright pink trousers, so perhaps that.&lt;/p&gt;
-
-&lt;p&gt;Julie Johnson taught the class. She’s amazing. Really good at helping with pattern adjustments and knows absolutely loads about sewing. This is the second class I’ve done with her, she’s magic.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/sewing/chroma-key-trousers-1.jpg&quot; alt=&quot;TN31&quot; /&gt;
-&lt;img src=&quot;/assets/img/sewing/chroma-key-trousers-2.jpg&quot; alt=&quot;TN31&quot; /&gt;
-&lt;img src=&quot;/assets/img/sewing/chroma-key-trousers-3.jpg&quot; alt=&quot;TN31&quot; /&gt;
-&lt;img src=&quot;/assets/img/sewing/chroma-key-trousers-4.jpg&quot; alt=&quot;TN31&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Mar 2019 21:57:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/cigarette-pants</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/cigarette-pants</guid>
+        <pubDate>Fri, 17 May 2019 00:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/tottorri-cross-bantam</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/tottorri-cross-bantam</guid>
         
         
         <category>sewing</category>
@@ -74,15 +97,16 @@
       </item>
     
       <item>
-        <title>Week 26: Not to brag</title>
+        <title>Week 36: t(&#39;_&#39;t)</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;I don’t know why, but for some reason in my mind I assume white things don’t smell. Did you now chalk has a smell.&lt;/li&gt;
-  &lt;li&gt;THE MOST ILLEGAL MOVE IN WRESTLING! BABY SLAAAAAAM!&lt;/li&gt;
+  &lt;li&gt;Hello. Every time I get the week number or date wrong (a side effect of sloppy copy/pasting front matter around) &lt;a href=&quot;https://github.com/alicebartlett/alicebartlett.github.io/commit/44069f44fc24495e78c1539677d9e5b3b66a1414#diff-3fac8e9ac51fdc825783e1c6f866d0b7&quot;&gt;Tom Stuart comments on the file on GitHub&lt;/a&gt;, which then notifies me via my work email, which I then see on Monday. Anyway. I’ve fixed the problem now because I’ve written a bash script that will generate front matter for whatever the next Saturday is going to be. Thanks for your patience Tom. Please keep sending me corrections via GitHub t(‘_‘t).&lt;/li&gt;
+  &lt;li&gt;Did everyone have a good bank holiday? Do people generally talk about how good May is? The weather is picking up, there are two bank holidays, your garden plants are looking good.&lt;/li&gt;
+  &lt;li&gt;I’m off work next week because I haven’t had a holiday since Christmas. We’re going to stay around the house and do DIY while poor E goes to nursery and is none the wiser :^]&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 02 Mar 2019 09:28:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-28</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-28</guid>
+        <pubDate>Sat, 11 May 2019 00:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-36</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-36</guid>
         
         
         <category>weaknotes</category>
@@ -90,18 +114,22 @@
       </item>
     
       <item>
-        <title>Week 26: Not to brag</title>
+        <title>Week 35: Enjoyable foible</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;Are you still cutting off two sides of your PDF clothes patterns and then sticking them together like a loser? &lt;a href=&quot;https://itch-to-stitch.com/assemble-pdf-patterns-quick-way/&quot;&gt;TRY THIS COMPLETELY PARADIGM SHIFTING METHOD FOR ASSEMBLING PATTERNS&lt;/a&gt;. Thank you to &lt;a href=&quot;https://twitter.com/tessthornton&quot;&gt;Tessa&lt;/a&gt; for showing me the true way.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/edds&quot;&gt;Edds&lt;/a&gt; has joined the team I’m in at the FT. I feel absolutely giddy at the prospect of working with him again.&lt;/li&gt;
-  &lt;li&gt;Speaking of which did you know that a Gallup poll found that women with a work best friend are twice as likely to be engaged with their work than those that don’t. &lt;a href=&quot;https://www.gallup.com/workplace/237530/item-best-friend-work.asp&quot;&gt;Poll&lt;/a&gt;. Not to brag, but I have &lt;em&gt;several&lt;/em&gt; work best friends which would explain why I am so incredibly engaged with my job.&lt;/li&gt;
-  &lt;li&gt;[Pro tip] After a rubbish day, sack everything you possibly can off, except brushing your teeth really well. Do the back ones, get the bit behind your lower front where the dentist always goes HAM to scrape the plaque off. Brush your tongue. Do your best. There. Now at least you’ve ended the day on a high. Pat yourself on the back and go to bed.&lt;/li&gt;
-  &lt;li&gt;There was more for these weeknotes. Possibly something about how E is mortally afraid of her Grandad and will try to hide whenever he comes on the video call? Maybe something about how hard it is to dress for work when you want both software engineers AND business folk to take you seriously &lt;em&gt;especially&lt;/em&gt; when you’re a woman. I don’t know I’ve forgotten.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I think it was Phil who shared &lt;a href=&quot;https://lrb.co.uk/v40/n18/tom-crewe/here-was-a-plague&quot;&gt;this LRB article about the Aids crisis&lt;/a&gt;. I might just think that because I know Phil reads LRB. Anyway - this article is very comprehensive and beautifully written. It is also absolutely devastating. I was born towards the end of the crisis so although I knew about it growing up I have slightly weird memories of it. There were some things I didn’t know and had never thought about, like the fact that to begin with nobody knew what it was, and there was no test for it. That at the beginning in the UK everyone thought it was “a US thing”. That there were special AIDS wards full of men just wasting away from the illness. That in 1987 only one funeral home would take Aids deaths. This bit:
+&amp;gt; [June 1983, after the publishing a book called “How To Have Sex In An Epidemic”] Gonorrhoea diagnoses dropped by 73 per cent in San Francisco and more than halved in New York. It is likely that thousands of HIV infections were averted. But for more than half of all the gay men in both cities it was already too late.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;I also learnt the origins of the phrase “patient zero”. It’s from a diagram mapping out HIV cases at the time thought to originate from a single air steward, Gaëtan Dugas. This was possible because Dugas kept names and addresses of the men if different cities that he had slept with. On the diagram he is marked with a letter “o” standing for “out of town”. Although people initially thought Dugas had spread HIV though being extremely promiscuous, it later emerged that the incubation period for HIV was much longer than people thought, meaning the men Dugas had slept with were likely already infected before they met Dugas.&lt;/li&gt;
+  &lt;li&gt;I just watched the &lt;a href=&quot;https://www.netflix.com/title/81080637&quot;&gt;AOC documentary on Netflix&lt;/a&gt;. I cried several times during it. Can’t really explain why, it was just really moving.&lt;/li&gt;
+  &lt;li&gt;I’ve settled in to the new office. There are a number of things that I find entertaining about the build out - things that just haven’t been done quite right that I enjoy noticing but that don’t bother me. For example, the toilet locks are all at one of two orientations. For some, unlocked points down and locked points at 9pm, and for others, unlocked is at 9pm, and locked is up. I can see how this happens, there were lots of locks to fit and different people did them.&lt;/li&gt;
+  &lt;li&gt;The other enjoyable foible of the new building is that the handles are fitted on the wrong side of the revolving doors. The doors revolve in both directions but the way everyone wants to go is anti-clockwise. This would be fine but the handles are fitted for the clockwise direction. Remarkably, they have now put stickers on the doors to encourage people to push the doors anti-clockwise (IN CONTRADICTION TO THE HANDLES!). Sorry. Not interesting but it is true.&lt;/li&gt;
+  &lt;li&gt;It is national stationery week! We went on a little lunchtime trip to &lt;a href=&quot;https://www.presentandcorrect.com/&quot;&gt;Present and Correct&lt;/a&gt;, which was very good.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 02 Mar 2019 09:28:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-26</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-26</guid>
+        <pubDate>Sat, 04 May 2019 10:28:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-35</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-35</guid>
         
         
         <category>weaknotes</category>
@@ -109,23 +137,19 @@
       </item>
     
       <item>
-        <title>Week 25: Smash that interactive rebase</title>
+        <title>Week 34: Spritz your bum</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;Did a workshop on Git this week with &lt;a href=&quot;https://twitter.com/binaryberry&quot;&gt;Tatiana&lt;/a&gt;. It was super good. When it came to the exercises, it was the most interested I’ve ever seen people in a workshop. People really wanted to smash that interactive rebase!&lt;/li&gt;
-  &lt;li&gt;Could I do a 40 minute talk on Git? Is that interesting? I need to do a 40 minute talk on &lt;em&gt;something&lt;/em&gt;. I have a long time to figure out what though so maybe it should be something else.&lt;/li&gt;
-  &lt;li&gt;I assembled a cold frame for my plant babies. After the builders trashed my plants last year I’m really excited for this year’s growing season. Going to feed my houseplants properly and grow sweet peas, phlox, and thunbergia.&lt;/li&gt;
-  &lt;li&gt;I did some gardening last weekend. Sawed my thumb a bit but the garden is looking much tidier.&lt;/li&gt;
-  &lt;li&gt;My sewing class has finished. I’ve nearly completed the trousers, I just need to do some hand sewing. I will write about them here once I’ve photographed them.&lt;/li&gt;
-  &lt;li&gt;I’ve just finished &lt;a href=&quot;https://www.stitcher.com/podcast/stitcher/the-dream&quot;&gt;this podcast&lt;/a&gt; on multi-level marketing. If you enjoy reading about pyramid schemes then it’s probably worth it. It focusses on how MLMs have become so common in the US, and so legally difficult to pursue. It could be about 50% shorter - as with all podcasts.&lt;/li&gt;
-  &lt;li&gt;Lachie has eaten TWO almond magnum ice creams by midday on Saturday. He bought one for himself and one for me, in case I wanted one, but since I’d literally just finished a fry up, I wasn’t really in the mood. Lachie had also just eaten a fried breakfast but he is an animal so that explains that. He said I’d left him with “literally no choice but to eat a second magnum”.&lt;/li&gt;
-  &lt;li&gt;We watched Russian Doll. I didn’t like the first few episodes much but it really got going around episode three and then we hammered through it in under a week. And the ending! Ugh the ending was so good! I almost hope there isn’t another series because they tied this one up so neatly.&lt;/li&gt;
-  &lt;li&gt;The weather is on the up which is making me feel good until I realise it’s probably unusually warm because of climate change and then I remember that the insects are dying and the ice is melting. Hurrrrgh I feel sick.&lt;/li&gt;
-  &lt;li&gt;Byeeeeeeeee&lt;/li&gt;
+  &lt;li&gt;Hello everyone. I am feeling a little unsettled this week. I think it’s because we moved office, but I’ve just not been able get into anything at work. Everything I did just felt like skating over the surface of a problem not properly understanding it and not properly dealing with it. Hopefully next week will be better.&lt;/li&gt;
+  &lt;li&gt;Relatedly I am deep &lt;em&gt;deep&lt;/em&gt; into not knowing what is going on with our tech stack.&lt;/li&gt;
+  &lt;li&gt;The new office is really nice. They have fizzy water on tap, and Japanese toilets that spritz your bum if you want. Now, when I feel like indulging I can go for a “luxury poo”.&lt;/li&gt;
+  &lt;li&gt;Feeling very much like the sort of person that responds to adverts that begin “Life got you down?”&lt;/li&gt;
+  &lt;li&gt;I read this &lt;a href=&quot;https://tinyletter.com/waysofeating/letters/i-dream-of-canteens&quot;&gt;article about canteens&lt;/a&gt; that &lt;a href=&quot;https://twitter.com/aanand&quot;&gt;@aanand&lt;/a&gt; shared via twitter. It’s great and really captures why I like the Sainsbury’s café so much. The Sainsbury’s café isn’t technically a canteen (and you’re not allowed to eat your own food there, although the staff don’t seem to mind if you do) but even on a Saturday lunchtime there is enough space to feel no pressure to move along, and there’s plenty of different types of seating, and lots of people enjoying a lunch out. I once saw a man throw up on the floor and nobody made a big deal out of it.&lt;/li&gt;
+  &lt;li&gt;I made another Kalle shirt. I’m going to make a third.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 23 Feb 2019 20:28:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-25</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-25</guid>
+        <pubDate>Sat, 27 Apr 2019 16:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-34</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-34</guid>
         
         
         <category>weaknotes</category>
@@ -133,117 +157,130 @@
       </item>
     
       <item>
-        <title>Week 24: I&#39;m Pauly, from New Joysey</title>
+        <title>Week 33: Weird flex but ok</title>
         <description>&lt;ul&gt;
-  &lt;li&gt;Normally when I see someone is doing weeknotes about their actual jobs I think “oh here we go, this’ll be extremely boring” so imagine my surprise when I clicked on &lt;a href=&quot;https://demotive.com/weeknotes/2019/02/08/&quot;&gt;Mat’s second instalment&lt;/a&gt; which begins with the sentence:&lt;/li&gt;
+  &lt;li&gt;I had a bit of a dicky tum tum this week. I never realised how often you get sick when you have a baby.&lt;/li&gt;
+  &lt;li&gt;This was our last week in the current work building. Pretty excited to be moving to the new office. Obviously some of it will be rubbish but I view these kinds of things as boring resilience tests (I’m serious!). Also - nothing will compare to the suffering of the BERG move from the airy workshop space with skylights (now a WeWork) to the nylon carpet condemned Epworth House on City Road (now some other off-brand co-working space)&lt;/li&gt;
+  &lt;li&gt;I think I might be having an existential cri- oh no sorry my period is due. Never mind.&lt;/li&gt;
+  &lt;li&gt;I have learnt a new put down: “Weird flex but ok”. You say it when someone is humblebragging about something. You know like this: “I’m the only person at work that uses Linux”, “Weird flex but ok”.&lt;/li&gt;
+  &lt;li&gt;I have a new favourite Product Manager at work - Matt product manages the FT’s audio work but is also a PROFESSIONAL BAKER?!?!?! And every so often he brings in left-overs from his Saturday stall at Crystal Palace market. The cakes he brings in are absolutely delicious and totally beautiful. Check out &lt;a href=&quot;https://shop.brettandbailey.co.uk/&quot;&gt;Brett &amp;amp; Bailey&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;NEW BEYONCÉ!!! She is otherworldly. What a breathtaking performance.&lt;/li&gt;
+  &lt;li&gt;I had Thursday off this week with E. My god it was heaven. She was a dream. We went to Mayow Park twice, looked at plants, played shop with the other children in the park, went down the big slide.&lt;/li&gt;
+  &lt;li&gt;On Good Friday we went to another park with some other friends, one of who is Edith’s “best friend” from nursery. E kept chasing her friend and trying to cuddle her and they appear to have their own language?!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 21 Apr 2019 16:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-33</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-33</guid>
+        
+        
+        <category>weaknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 32: A lot of Ru Paul&#39;s Drag Race makes sense</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Look at this! You’re now reading this over https. I thought it was going to be annoying to set up and I might have to… understand DNS or know what an A record is, but actually I only needed to update some IP addresses in Gandi and then check a checkbox in GitHub. This has definitely been made easier for me by the eggheads at GitHub since I last tried to do this so… well done eggs.&lt;/li&gt;
+  &lt;li&gt;[Eco NEWS] I read &lt;a href=&quot;https://www.bbc.co.uk/news/business-47161379?fbclid=IwAR2paGhHI1OI__6FNQx9ycRJjMO4sMl55UwyH1IirCDNhX-PctU_5xkRVx0&quot;&gt;this thing&lt;/a&gt; about packaging and now I’m not sure if I’m supposed to buy plastic free spinach or bagged spinach. I do feel quite lucky that none of the canvas totes I own have anything smug like &lt;em&gt;I’m not a plastic bag&lt;/em&gt; written on them but that’s because all of them came free from tech conferences.&lt;/li&gt;
+  &lt;li&gt;[Wokenotes] Mariko shared &lt;a href=&quot;https://open.spotify.com/episode/5mYbJswwvpT6veWYM4V30I?si=IfUTm1DTQ6aH3072iNPhcA&quot;&gt;episode of the Reply All podcast&lt;/a&gt; about the origins of “yasss!” which is good. I &lt;em&gt;sort of new&lt;/em&gt; it had queer origins but this podcast has the actual facts. Please can all white people stop saying “yasss” now, thank you.&lt;/li&gt;
+  &lt;li&gt;I started watching Pose on iplayer after Nat wrote about it. Two things:
+    &lt;ol&gt;
+      &lt;li&gt;I feel stupid for saying this but finally a lot of Ru Paul’s Drag Race makes sense.&lt;/li&gt;
+      &lt;li&gt;I’m not sure I can watch any more of it, because I think some of the acting might be bad?&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;I planted out my sweet peas, and potted on my other cut flowers.&lt;/li&gt;
+  &lt;li&gt;Fleabag was good wasn’t it?&lt;/li&gt;
+  &lt;li&gt;FFFFFFFFFFFFFF I am so tired.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 13 Apr 2019 16:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-32</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-32</guid>
+        
+        
+        <category>weaknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 31: More wokenotes than weaknotes</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;A lot happened this week! This is going to be more wokenotes than weaknotes honestly.&lt;/li&gt;
+  &lt;li&gt;My garden has many tulips in.&lt;/li&gt;
+  &lt;li&gt;Everytime I go to the florist in Forest Hill there is some diva in there making very precise and exacting demands of the florist who seems very busy and very patient.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blog/improving-the-fts-engineering-progression&quot;&gt;I wrote up&lt;/a&gt; the first bit of the career progression framework we did for work. People have been really positive about it which is nice. Obviously - we need to maintain momentum to ship the beta version. It’s so thrilling to be able to work in the open like this, and it’s basically possible because of the amount of trust the CTO has in us, so that’s nice.&lt;/li&gt;
+  &lt;li&gt;I consumed three good things on the internet this week - two of them shared with me via &lt;a href=&quot;https://www.annashipman.co.uk/&quot;&gt;Anna Shipman&lt;/a&gt;, who continues to absolutely crush it as my manager.&lt;/li&gt;
+  &lt;li&gt;Firstly this thing in the Harvard Business Review about how women disproportionately volunteer for &lt;a href=&quot;https://hbr.org/2018/07/why-women-volunteer-for-tasks-that-dont-lead-to-promotions&quot;&gt;“glue work”&lt;/a&gt;. Here is what glue work is:&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Another week of shining visions of joined-up healthcare being ground to dust by grim reality as we continue to investigate service propositions for hooking 111 online into pharmacies.&lt;/p&gt;
+  &lt;p&gt;Non-promotable tasks are those that benefit the organization but likely don’t contribute to someone’s performance evaluation and career advancement. These tasks include traditional office “housework,” such as organizing a holiday party, as well as a much wider set of tasks, such as filling in for a colleague, serving on a low-ranking committee, or taking on routine work that doesn’t require much skill or produce much impact.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;HBR did a couple of studies and were able to conclude that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In a mixed-sex group, men will hold back on volunteering while women in turn will volunteer to ensure that the task is done. But in single-sex groups, this changes — men and women volunteer equally. In these groups men know they have to step forward if they want to find a volunteer, and women expect other women to volunteer, making them less compelled to do so themselves&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;It ends with something even better but I don’t want to spoil it for you.&lt;/li&gt;
-  &lt;li&gt;The other day a friend told me she absolutely hates getting compliments because she finds them incredibly patronising. This has left me with a paranoia that every time I say “well done” the person I’ve said it to is thinking “thanks - fuck you!”&lt;/li&gt;
-  &lt;li&gt;Because of the way the character “Pauly” in the Sopranos pronounces his name (with a New Jersey accent it’s more like “poorly”) now in our house when you’re ill you say “I’m Pauly, from New Joysey”. It’s just a thing we do, OK? Anyway at the beginning of this week I was extremely Pauly from New Jersey.&lt;/li&gt;
-  &lt;li&gt;Last week I did some pairing with my colleague &lt;a href=&quot;https://twitter.com/_magspie&quot;&gt;Maggie&lt;/a&gt;. It was not very interesting work, but it was great to get to pair with someone, especially someone cool and fun like Maggie. I think we both learnt some stuff and the task I was dealing with got done much quicker because Maggie was co-pilot. I don’t get to write a lot of code anymore so this kind of thing is basically living the dream.&lt;/li&gt;
-  &lt;li&gt;Well done to the leet hax0r that has taken up my old tumblr and started posting spam to it. I had forgotten to delete the DNS record after I deleted the Tumblr so now at my domain there is a load of crap about using photoshop. I have deleted it now, don’t worry. In retrospect, I should have hung on to the Tumblr name, but I held it close to me, asked myself “does alicesews.tumblr.com spark joy?” and then acted accordingly. Marie Kondo hasn’t, to my knowledge, done an episode on tidying up old tumblrs but I hope she’ll point out that the second you “delete” a tumblr you free it up to be used by anyone else, and &lt;em&gt;obviously&lt;/em&gt; delete the corresponding DNS record you n00b.&lt;/li&gt;
-  &lt;li&gt;I am tiiiired. Help me.&lt;/li&gt;
-  &lt;li&gt;If I was going to get into catfishing I would use &lt;a href=&quot;https://twitter.com/rowanmanning&quot;&gt;Rowan Manning’s&lt;/a&gt; profile pic.&lt;/li&gt;
-  &lt;li&gt;This week 5 of us had our third away-day to sort out the career paths and progression at work. After 3 days we have a rough bunch of agreed competencies and a plan for shipping them as a versioned alpha, which feels amazing.&lt;/li&gt;
-  &lt;li&gt;We’re moving office in May and our new bogs have those Japanese computerised bum hole washing toilets that also sing to you. I would complain about this but we also got some gender neutral bathrooms so I think everyone got what they wanted.&lt;/li&gt;
-  &lt;li&gt;Just did week 2 of my sewing class. I kind of zoned out last week when Julie told us what the homework was and so I ended up doing probably 2 hours more than everyone else, which is significant when a class is 3 hours.&lt;/li&gt;
+  &lt;li&gt;This came up because I was asked to go to a workshop to give feedback on something not-very-related to my job and I noticed the guest list for this workshop was nearly all women. I was irked by this because I get asked to do this a lot and I assume partly that happens because I’m good at giving feedback and that is because I, like all women, have been socialised to be good at giving feedback in a way that isn’t going to upset the receiver.&lt;/li&gt;
+  &lt;li&gt;Anyway, I posted that article about glue work in the team Slack channel and asked the men to have a little think about who was doing the glue work in their teams, and the non-men to have a little think about the things they volunteer for. Credit to my brilliant team - it received quite a lot of positive emoji reactions.&lt;/li&gt;
+  &lt;li&gt;The second thing Anna shared is &lt;a href=&quot;https://www.youtube.com/watch?v=45ey4jgoxeU&quot;&gt;this video about “White Fragility”&lt;/a&gt; by Dr. Robin DiAngelo. I actually watched it once, and then watched it a second time to take notes. I know - where do I find the time. Here are some good bits - but you should watch all of it. These notes are just for me to come back to later.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-        <pubDate>Sat, 16 Feb 2019 09:00:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-24</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-24</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 23: Edited a hunk</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;I read &lt;a href=&quot;https://www.newyorker.com/magazine/2019/02/11/a-suspense-novelists-trail-of-deceptions&quot;&gt;this about pathological liar and author Dan Mallory&lt;/a&gt; after Dan W tweeted it. I didn’t really want to be reading it, but it sucked me in. I went to school with a pathological liar but she’s probably grown out of it by now. She used to make up all kinds of odd things - her dad (a GP) was being hounded by the press because of some scandal; she wrote a piece of music herself that I recognised to be the Moonlight Sonata 🤷‍♀️; one day she came to school and pretended for a whole day to have lost her voice.&lt;/li&gt;
-  &lt;li&gt;There are new emoji. Very excited for the flamingo. Not so excited for the small dick emoji.&lt;/li&gt;
-  &lt;li&gt;I’ve started a sewing class at Sew Over It. I’m going to make some chroma-key cigarette pants. The new Sew Over It shop is lovely and spacious and bright. I’ve got the same brilliant teacher that I had last time (Julie). She’s basically a pattern savant - can look at any bum/thigh/crotch and say what changes to the pattern need to be made.&lt;/li&gt;
-  &lt;li&gt;We started watching that Bill Clinton docu on Channel 4. It’s good! There is some very eighties hair happening.&lt;/li&gt;
-  &lt;li&gt;This week edited a hunk for the first time using git. I felt very alive and very powerful to be honest.&lt;/li&gt;
-  &lt;li&gt;[Chris Noth watch] OMG Chris Noth is in Catastrophe and he has white hair and a moustache!&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 09 Feb 2019 09:00:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-23</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-23</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 22: Antithesis of hunky</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;We mutha-flippin made it to mutha-flipping February my dudes.&lt;/li&gt;
-  &lt;li&gt;This week I’ve been moving my sewing tumblr over to this site. I’ve done 30 posts since 2014. It’s been interesting to look back at 5 years worth of sewing.&lt;/li&gt;
-  &lt;li&gt;Edith has finally kicked her nursery cold. It’s like “freshers flu” but you’re a baby. Gosh she is adorable. On Tuesday I said to her “Edith can I have a cuddle?” and she literally stopped what she was doing (pretending to drink from a cup) and crawled over to me, rested her head on my knee and said “ahh-hahh”. rip me.&lt;/li&gt;
-  &lt;li&gt;I went to see Hamilton on Thursday. I don’t know why I keep going to musicals. I don’t actually like them but every few years I forget and end up going to one. I actually walked out of Avenue Q at the interval. Hamilton was good? For a musical.&lt;/li&gt;
-  &lt;li&gt;It’s gotten to that bit of winter where everything is a grind. I &lt;em&gt;know&lt;/em&gt; the first peeps of spring will make me feel better and remind me how weak I am for being so affected by the weather. DO NOT tell me to get a SAD lamp.&lt;/li&gt;
-  &lt;li&gt;I’m getting a lot of wear out of my TN31. It’s so long and cosy, I’m really happy with how it turned out.&lt;/li&gt;
-  &lt;li&gt;I was using &lt;code class=&quot;highlighter-rouge&quot;&gt;git add --p&lt;/code&gt; this week and it made me wonder: “What is the hunkiest emoji”? I had a quick look and I think it might be “man playing water polo” 🤽‍ On the one hand, he’s shirtless (v hunky) on the other hand though he’s wearing a swimming cap (the antithesis of hunky).&lt;/li&gt;
-  &lt;li&gt;Hot or Not but for emoji?&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 02 Feb 2019 16:44:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-22</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-22</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>TN31 Parka</title>
-        <description>&lt;p&gt;Yahoo! Tumblr does really awful things to my photographs so I’m moving all my sewing posts over here now. Sorry if you dgaf about sewing or pictures of me wearing clothes. This post is from literally today. I’ll import the rest later. I don’t know what happens with RSS if you add really old posts. Something we can find out together. This will be the third time I’ve moved my sewing project write ups. Originally they lived on Flickr, then they went to Tumblr, now they’re here.&lt;/p&gt;
 
-&lt;p&gt;I made the &lt;a href=&quot;https://merchantandmills.com/store/patterns/the-tn31-parka/&quot;&gt;TN31 Parka from Merchant and Mills&lt;/a&gt; after seeing Nat’s mustard version and being extremely impressed.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;[Through my work as a diversity trainer] I could see that [white people] are taught to think of racism as a series of discrete acts rather than a complex interconnected system.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;I cut a size 12. It has plenty of ease so still feels quite big.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;We consider a challenge to our [racist] world views as a challenge to our very identities as good, moral people … even the smallest amount of racial stress is intolerable, the mere suggestion that being white has meaning often triggers a range of defensive responses such as anger, fear and guilt … These responses serve to reinstate the equilibrium as they repel the challenge and return our racial comfort&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h2 id=&quot;fabric-and-notions&quot;&gt;Fabric and notions&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I could see the power of the belief that only bad people are racist&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A white progressive is any white person that thinks that he or she is not racist or is less racist, or is the choir, or already “gets it” … white progressives can be the most difficult people for people of colour to deal with, because to the degree that we think “we have it” we’re going to put all our energy into making sure you think we have it and none of it into what we need to be doing for the rest of our lives&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Racism is the system we are in, and none of us could be and none of us were exempt from it’s forces. But the way we’re taught about racisim fucntions beautifully to not only obscure the system but exempt us from it’s forces&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The most profound message of all - I could call a white neighbourhood good, I could call a school filled with white teachers and white children a good school, the fundamental message is that there is no inherent value in the perspectives of experiences of people of colour&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think when we [women] don’t back people of colour, the betrayal is deeper, because we have a potential way in [to understanding] and so often we use it as a way out … our resentment about sexism can cause us to not back people of colour and actually collude with the benefits of whiteness to get a little bit ahead.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;what has allowed you to remain ignorant about how to interrupt racism in 2018?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The antidote to guilt is action&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Feedback from people of colour [on how you have caused them pain] indicates trust because it is a huge moment of risk across a deep history of harm&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;The outer fabric is &lt;a href=&quot;https://merchantandmills.com/store/cloth/fern-dry-oilskin/&quot;&gt;dry oilskin in ‘Fern’&lt;/a&gt; from Merchant and Mills&lt;/li&gt;
-  &lt;li&gt;I lined it with some &lt;a href=&quot;https://www.minervacrafts.com/shop/fabric/dress-fabrics/c3923-m-cotton-winceyette-flannel-dress-fabric?colour=Black&quot;&gt;black brushed cotton&lt;/a&gt; from Minerva Crafts&lt;/li&gt;
-  &lt;li&gt;The neck ribbing is also from M&amp;amp;M, it’s the &lt;a href=&quot;https://merchantandmills.com/store/cloth/jansson-rib/&quot;&gt;Jansson Rib&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;The buttons are &lt;a href=&quot;https://merchantandmills.com/store/trims/khaki-corozo-22mm/&quot;&gt;these ones&lt;/a&gt; from M&amp;amp;M too&lt;/li&gt;
+  &lt;li&gt;And one last wokenote: My cute friend Mariko shared &lt;a href=&quot;https://www.youtube.com/watch?v=2yzMUs3badc&quot;&gt;this video&lt;/a&gt; about why some Asian accents swap L and R sounds. It is very interesting and (mercifully) quite short.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;sewing-notes&quot;&gt;Sewing notes&lt;/h2&gt;
-&lt;p&gt;This was quite a tricky sew. The lined version is basically two coats stuck together (that’s how lining works, duh). Because you can’t iron dry oilskin it’s not so easy to just iron out sloppy sewing (which is my usual trick). Dry oilskin is also very unforgiving to being unpicked as it leaves marks where the stitches were.&lt;/p&gt;
-
-&lt;p&gt;Towards the end I began to struggle a lot with the volume of fabric I was trying to move about. It was quite heavy to there are a few wonky bits where I had a bit of a fight with the coat.&lt;/p&gt;
-
-&lt;p&gt;The neck was also very difficult to sew. I’m not sure I exactly nailed it, but I really love the ribbing anyway so I can live with it.&lt;/p&gt;
-
-&lt;p&gt;What did I like about this pattern? Well, the finished item is lovely and warm. It has four pockets which is ideal for my four hands. The neckline (although I fudged it a bit) is really cute. The hidden buttons are also a really nice touch.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/tn31.1.jpg&quot; alt=&quot;TN31&quot; /&gt;
-&lt;img src=&quot;/assets/img/tn31.2.jpg&quot; alt=&quot;TN31&quot; /&gt;
-&lt;img src=&quot;/assets/img/tn31.3.jpg&quot; alt=&quot;TN31&quot; /&gt;
-&lt;img src=&quot;/assets/img/tn31.4.jpg&quot; alt=&quot;TN31&quot; /&gt;
-&lt;img src=&quot;/assets/img/tn31.5.jpg&quot; alt=&quot;TN31&quot; /&gt;
-&lt;img src=&quot;/assets/img/tn31.6.jpg&quot; alt=&quot;TN31&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 27 Jan 2019 09:17:00 +0000</pubDate>
-        <link>http://alicebartlett.co.uk/blog/tn31-parka</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/tn31-parka</guid>
+        <pubDate>Sat, 06 Apr 2019 16:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-31</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-31</guid>
         
         
-        <category>sewing</category>
+        <category>weaknotes</category>
         
       </item>
     

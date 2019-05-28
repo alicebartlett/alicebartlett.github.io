@@ -2,11 +2,15 @@
 layout: default
 ---
 <div class='container'>
+  {% if page.headerimage %}
+    <div class="header-image" style="background-image: url('{{ site.baseurl }}/{{page.headerimage}}');">
+    </div>
+  {% endif %}
   <div class='inner'>
     <div class='content'>
       <div class='post'>
         <div class='section'>
-          <div class='post-meta'>
+          <div class='post-meta {% if page.headerimage %} with-header-image {% endif %}'>
             <h1>{{ page.title }}</h1>
             <span class='post-date'>{{ page.date | date: "%b %-d, %Y" }}</post-span>
           </div>

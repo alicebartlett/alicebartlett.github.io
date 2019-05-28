@@ -4,7 +4,7 @@
   {% include head.html %}
 
   {% include back-link.html %}
-  <body>
+  <body {% if page.headerimage %} class="with-header-image"{% endif %}>
     {{ content }}
     {% include footer.html %}
   </body>
