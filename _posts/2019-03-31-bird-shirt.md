@@ -3,6 +3,7 @@ layout: post
 title:  "Bird shirt"
 date:   2019-03-31 15:01:00
 categories: sewing
+headerimage: assets/img/sewing/bird-shirt-6.jpg
 ---
 
 This is the [Kalle shirt from Closet Case Patterns](https://store.closetcasepatterns.com/products/kalle-shirt-shirtdress-pattern).

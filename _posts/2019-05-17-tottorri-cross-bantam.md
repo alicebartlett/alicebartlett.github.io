@@ -3,6 +3,7 @@ layout: post
 title: "Tottorri cross Bantam"
 date: 2019-05-17
 categories: sewing
+headerimage: assets/img/sewing/tottori-bantam.1.jpg
 ---
 
 I made this [Bantam vest](https://merchantandmills.com/store/books/the-workbook/) about two years ago I think, just before I got pregnant. I can't remember why I never got around to photographing it, probably because I had a baby bump.

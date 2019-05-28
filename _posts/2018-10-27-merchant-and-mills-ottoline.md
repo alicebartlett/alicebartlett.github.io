@@ -4,6 +4,8 @@ title:  "Merchant and Mills Ottoline"
 date:   2018-10-27 00:00:00
 categories: sewing
 ---
+_[Note] Hello - this is an old post that I’ve moved over from my Tumblr. I’ve just copied the words and pictures across._
+
 This tumblr wasn’t dead, it was just sleeping.
 
 I had a baby back in January and while that was happening there didn’t seem to be much point sewing clothes for myself as my body was changing shape and I wasn’t sure how it was going to shake out.

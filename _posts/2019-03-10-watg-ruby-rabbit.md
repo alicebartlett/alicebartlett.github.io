@@ -3,6 +3,8 @@ layout: post
 title:  "Wool and The Gang Ruby Rabbit"
 date:   2019-03-10 20:26:00
 categories: sewing
+headerimage: assets/img/sewing/ruby-rabbit-1.jpg
+
 ---
 
 I made this [Wool and The Gang rabbit](https://www.woolandthegang.com/en/products/ruby-rabbit) for my sister-in-law's soon baby.

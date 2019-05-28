@@ -3,6 +3,7 @@ layout: post
 title:  "Cyan Swing Scout"
 date:   2015-03-22 00:00:00
 categories: sewing
+headerimage: assets/img/sewing/blue-scout.1.jpg
 ---
 
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._

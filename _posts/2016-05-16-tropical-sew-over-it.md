@@ -3,6 +3,7 @@ layout: post
 title:  "Sew Ultimate tropical trousers"
 date:   2016-05-16 00:00:00
 categories: sewing
+headerimage: assets/img/sewing/tropical-ultimate.2.jpg
 ---
 
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
