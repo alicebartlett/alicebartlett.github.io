@@ -13,3 +13,4 @@ This fabric is so delicious. That is all I have to say on this matter.
 ![Side view of my shirt](/assets/img/sewing/tottori-kalle.1.jpg)
 ![Back view of my shirt](/assets/img/sewing/tottori-kalle.2.jpg)
 ![Front view of my shirt](/assets/img/sewing/tottori-kalle.3.jpg)
+![Animated GIF of me in my shirt](/assets/img/sewing/tottori-kalle.gif)
