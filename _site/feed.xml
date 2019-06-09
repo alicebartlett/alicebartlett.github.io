@@ -5,9 +5,58 @@
     <description>The website of Alice Bartlett. Front-end developer and internet person.</description>
     <link>http://alicebartlett.co.uk/</link>
     <atom:link href="http://alicebartlett.co.uk/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 May 2019 21:19:50 +0100</pubDate>
-    <lastBuildDate>Tue, 28 May 2019 21:19:50 +0100</lastBuildDate>
+    <pubDate>Sat, 01 Jun 2019 19:43:23 +0100</pubDate>
+    <lastBuildDate>Sat, 01 Jun 2019 19:43:23 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Week 40:</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gilest.org/bwrss.html&quot;&gt;Giles has done a good thing&lt;/a&gt;. I’m strongly pro RSS so an RSS only photo feed - even for only a month - is very appealing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 01 Jun 2019 00:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-40</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-40</guid>
+        
+        
+        <category>weaknotes</category>
+        
+      </item>
+    
+      <item>
+        <title>Week 39: Typing the right things fast</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;I keep meaning to say something about &lt;a href=&quot;https://nordprojects.co/projects/littleprinters/&quot;&gt;the return of Little Printer&lt;/a&gt; but then forgetting. My main thought is that it’s really nice that they’ve revived the impact-y message style - I wrote the original code for that. It was nearly Christmas and Jack had had this idea for a new messaging style that he thought would be cool. I was supposed to be working on something else so after I’d finished the day’s work I started noodling around with it, trying to work out algorithmically how to get the word sizing right, learning about leading and kerning. It was incredibly fun and when I had finished I pushed a release live and sent a message to Jack’s little printer in his house in the new style. Something like “THIS LOOKS PRETTY GOOD I THINK”.&lt;/li&gt;
+  &lt;li&gt;The other Little Printer messaging memory I have is the time somebody down the pub sent “HELLO YOU C**T”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; to Matt Jones’ little printer in the middle of the night. I can’t remember whose friend that was, but I don’t think Matt found it very funny. After that we put some configuration in to stop people messaging you in the middle of the night. A swear filter might also have been a good idea, but these are the kinds of things you only think of after you have kids.&lt;/li&gt;
+  &lt;li&gt;This is making me want to go find my Little Printer.&lt;/li&gt;
+  &lt;li&gt;I just bought &lt;a href=&quot;https://www.amazon.co.jp/dp/4579116879/ref=pe_492632_159100282_TE_item&quot;&gt;Yumiko Higuchi’s new book of embroidery&lt;/a&gt; from Amazon Japan. I know there will be an english language translation of it eventually bit I absolutely cannot wait for that. I know enough embroidery to not need the instructions. Probably.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://russelldavies.typepad.com/planning/2019/05/age-and-trying-not-to.html&quot;&gt;Russell did a good blog post about how you can’t market to old people&lt;/a&gt; and it really Made Me Think.&lt;/li&gt;
+  &lt;li&gt;I’ve done a new layout style for my sewing posts.&lt;/li&gt;
+  &lt;li&gt;I’ve written that talk abstract I was procrastinating from. If anyone wants a talk about Git HMU.&lt;/li&gt;
+  &lt;li&gt;Being a good developer is as much about typing the right things fast as it is about helping others to type the right things fast.&lt;/li&gt;
+  &lt;li&gt;Thanks for the shout out &lt;a href=&quot;https://tomarmitage.com/2019/05/31/week-334/&quot;&gt;Tom&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;This week’s word is kerning&lt;/li&gt;
+  &lt;li&gt;This week’s emoji is 😯&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I have starred this out because I &lt;em&gt;try&lt;/em&gt; not to swear in my weaknotes. Please email me for the unasterisked version of this correspondence. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 01 Jun 2019 00:00:00 +0100</pubDate>
+        <link>http://alicebartlett.co.uk/blog/weaknotes-39</link>
+        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-39</guid>
+        
+        
+        <category>weaknotes</category>
+        
+      </item>
     
       <item>
         <title>Week 38: This week&#39;s least popular word is &#39;automating&#39;</title>
@@ -65,7 +114,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/sewing/tottori-kalle.1.jpg&quot; alt=&quot;Side view of my shirt&quot; /&gt;
 &lt;img src=&quot;/assets/img/sewing/tottori-kalle.2.jpg&quot; alt=&quot;Back view of my shirt&quot; /&gt;
-&lt;img src=&quot;/assets/img/sewing/tottori-kalle.3.jpg&quot; alt=&quot;Front view of my shirt&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/sewing/tottori-kalle.3.jpg&quot; alt=&quot;Front view of my shirt&quot; /&gt;
+&lt;img src=&quot;/assets/img/sewing/tottori-kalle.gif&quot; alt=&quot;Animated GIF of me in my shirt&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 May 2019 00:00:00 +0100</pubDate>
         <link>http://alicebartlett.co.uk/blog/tottorri-cross-kalle</link>
@@ -85,7 +135,8 @@
 &lt;p&gt;I love this vest pattern, but it’s too big for me now. Next time I’ll make a smaller size.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/sewing/tottori-bantam.1.jpg&quot; alt=&quot;Vest from the front&quot; /&gt;
-&lt;img src=&quot;/assets/img/sewing/tottori-bantam.2.jpg&quot; alt=&quot;Vest from the back&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/sewing/tottori-bantam.2.jpg&quot; alt=&quot;Vest from the back&quot; /&gt;
+&lt;img src=&quot;/assets/img/sewing/tottori-bantam.gif&quot; alt=&quot;Animated GIF&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 May 2019 00:00:00 +0100</pubDate>
         <link>http://alicebartlett.co.uk/blog/tottorri-cross-bantam</link>
@@ -172,112 +223,6 @@
         <pubDate>Sun, 21 Apr 2019 16:00:00 +0100</pubDate>
         <link>http://alicebartlett.co.uk/blog/weaknotes-33</link>
         <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-33</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 32: A lot of Ru Paul&#39;s Drag Race makes sense</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Look at this! You’re now reading this over https. I thought it was going to be annoying to set up and I might have to… understand DNS or know what an A record is, but actually I only needed to update some IP addresses in Gandi and then check a checkbox in GitHub. This has definitely been made easier for me by the eggheads at GitHub since I last tried to do this so… well done eggs.&lt;/li&gt;
-  &lt;li&gt;[Eco NEWS] I read &lt;a href=&quot;https://www.bbc.co.uk/news/business-47161379?fbclid=IwAR2paGhHI1OI__6FNQx9ycRJjMO4sMl55UwyH1IirCDNhX-PctU_5xkRVx0&quot;&gt;this thing&lt;/a&gt; about packaging and now I’m not sure if I’m supposed to buy plastic free spinach or bagged spinach. I do feel quite lucky that none of the canvas totes I own have anything smug like &lt;em&gt;I’m not a plastic bag&lt;/em&gt; written on them but that’s because all of them came free from tech conferences.&lt;/li&gt;
-  &lt;li&gt;[Wokenotes] Mariko shared &lt;a href=&quot;https://open.spotify.com/episode/5mYbJswwvpT6veWYM4V30I?si=IfUTm1DTQ6aH3072iNPhcA&quot;&gt;episode of the Reply All podcast&lt;/a&gt; about the origins of “yasss!” which is good. I &lt;em&gt;sort of new&lt;/em&gt; it had queer origins but this podcast has the actual facts. Please can all white people stop saying “yasss” now, thank you.&lt;/li&gt;
-  &lt;li&gt;I started watching Pose on iplayer after Nat wrote about it. Two things:
-    &lt;ol&gt;
-      &lt;li&gt;I feel stupid for saying this but finally a lot of Ru Paul’s Drag Race makes sense.&lt;/li&gt;
-      &lt;li&gt;I’m not sure I can watch any more of it, because I think some of the acting might be bad?&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;I planted out my sweet peas, and potted on my other cut flowers.&lt;/li&gt;
-  &lt;li&gt;Fleabag was good wasn’t it?&lt;/li&gt;
-  &lt;li&gt;FFFFFFFFFFFFFF I am so tired.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 13 Apr 2019 16:00:00 +0100</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-32</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-32</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 31: More wokenotes than weaknotes</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;A lot happened this week! This is going to be more wokenotes than weaknotes honestly.&lt;/li&gt;
-  &lt;li&gt;My garden has many tulips in.&lt;/li&gt;
-  &lt;li&gt;Everytime I go to the florist in Forest Hill there is some diva in there making very precise and exacting demands of the florist who seems very busy and very patient.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/blog/improving-the-fts-engineering-progression&quot;&gt;I wrote up&lt;/a&gt; the first bit of the career progression framework we did for work. People have been really positive about it which is nice. Obviously - we need to maintain momentum to ship the beta version. It’s so thrilling to be able to work in the open like this, and it’s basically possible because of the amount of trust the CTO has in us, so that’s nice.&lt;/li&gt;
-  &lt;li&gt;I consumed three good things on the internet this week - two of them shared with me via &lt;a href=&quot;https://www.annashipman.co.uk/&quot;&gt;Anna Shipman&lt;/a&gt;, who continues to absolutely crush it as my manager.&lt;/li&gt;
-  &lt;li&gt;Firstly this thing in the Harvard Business Review about how women disproportionately volunteer for &lt;a href=&quot;https://hbr.org/2018/07/why-women-volunteer-for-tasks-that-dont-lead-to-promotions&quot;&gt;“glue work”&lt;/a&gt;. Here is what glue work is:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Non-promotable tasks are those that benefit the organization but likely don’t contribute to someone’s performance evaluation and career advancement. These tasks include traditional office “housework,” such as organizing a holiday party, as well as a much wider set of tasks, such as filling in for a colleague, serving on a low-ranking committee, or taking on routine work that doesn’t require much skill or produce much impact.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;HBR did a couple of studies and were able to conclude that:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In a mixed-sex group, men will hold back on volunteering while women in turn will volunteer to ensure that the task is done. But in single-sex groups, this changes — men and women volunteer equally. In these groups men know they have to step forward if they want to find a volunteer, and women expect other women to volunteer, making them less compelled to do so themselves&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;This came up because I was asked to go to a workshop to give feedback on something not-very-related to my job and I noticed the guest list for this workshop was nearly all women. I was irked by this because I get asked to do this a lot and I assume partly that happens because I’m good at giving feedback and that is because I, like all women, have been socialised to be good at giving feedback in a way that isn’t going to upset the receiver.&lt;/li&gt;
-  &lt;li&gt;Anyway, I posted that article about glue work in the team Slack channel and asked the men to have a little think about who was doing the glue work in their teams, and the non-men to have a little think about the things they volunteer for. Credit to my brilliant team - it received quite a lot of positive emoji reactions.&lt;/li&gt;
-  &lt;li&gt;The second thing Anna shared is &lt;a href=&quot;https://www.youtube.com/watch?v=45ey4jgoxeU&quot;&gt;this video about “White Fragility”&lt;/a&gt; by Dr. Robin DiAngelo. I actually watched it once, and then watched it a second time to take notes. I know - where do I find the time. Here are some good bits - but you should watch all of it. These notes are just for me to come back to later.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;[Through my work as a diversity trainer] I could see that [white people] are taught to think of racism as a series of discrete acts rather than a complex interconnected system.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We consider a challenge to our [racist] world views as a challenge to our very identities as good, moral people … even the smallest amount of racial stress is intolerable, the mere suggestion that being white has meaning often triggers a range of defensive responses such as anger, fear and guilt … These responses serve to reinstate the equilibrium as they repel the challenge and return our racial comfort&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I could see the power of the belief that only bad people are racist&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A white progressive is any white person that thinks that he or she is not racist or is less racist, or is the choir, or already “gets it” … white progressives can be the most difficult people for people of colour to deal with, because to the degree that we think “we have it” we’re going to put all our energy into making sure you think we have it and none of it into what we need to be doing for the rest of our lives&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Racism is the system we are in, and none of us could be and none of us were exempt from it’s forces. But the way we’re taught about racisim fucntions beautifully to not only obscure the system but exempt us from it’s forces&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The most profound message of all - I could call a white neighbourhood good, I could call a school filled with white teachers and white children a good school, the fundamental message is that there is no inherent value in the perspectives of experiences of people of colour&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I think when we [women] don’t back people of colour, the betrayal is deeper, because we have a potential way in [to understanding] and so often we use it as a way out … our resentment about sexism can cause us to not back people of colour and actually collude with the benefits of whiteness to get a little bit ahead.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;what has allowed you to remain ignorant about how to interrupt racism in 2018?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The antidote to guilt is action&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Feedback from people of colour [on how you have caused them pain] indicates trust because it is a huge moment of risk across a deep history of harm&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;And one last wokenote: My cute friend Mariko shared &lt;a href=&quot;https://www.youtube.com/watch?v=2yzMUs3badc&quot;&gt;this video&lt;/a&gt; about why some Asian accents swap L and R sounds. It is very interesting and (mercifully) quite short.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 06 Apr 2019 16:00:00 +0100</pubDate>
-        <link>http://alicebartlett.co.uk/blog/weaknotes-31</link>
-        <guid isPermaLink="true">http://alicebartlett.co.uk/blog/weaknotes-31</guid>
         
         
         <category>weaknotes</category>
