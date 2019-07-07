@@ -1,7 +1,7 @@
 # Site settings
-title: The internet place for Alice Bartlett
+title: The website of Alice Bartlett
 email: alice.bartlett@gmail.com
-description: The website of Alice Bartlett. Front-end developer and internet person.
+description: The home of typing by Alice Bartlett 👩🏻‍💻
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://alicebartlett.co.uk" # the base hostname & protocol for your site
 twitter_username: alicebartlett
