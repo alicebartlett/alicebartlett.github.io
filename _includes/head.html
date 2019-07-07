@@ -15,4 +15,17 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!--  Essential META Tags -->
+
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="{% if page.headerimage %}{{ page.headerimage | prepend: "/" | prepend: site.url }}
+    {% else %}https://alicebartlett.co.uk/assets/img/alicebartlett.jpg{% endif %}">
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <meta property="og:site_name" content="alicebartlett.co.uk">
+    <meta name="twitter:site" content="@alicebartlett">
+
 </head>
