@@ -68,6 +68,14 @@ layout: home
         {% endfor %}
         </ul>
       </div>
+      <div class='section'>
+        <h2>Blogroll</h2>
+        <ul class='link-list'>
+        {% for link in site.data.blogroll %}
+          <li><a href='{{ link["url"]}}'>{{ link["site_name"] }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
     </div>
   </div>
 </div>
