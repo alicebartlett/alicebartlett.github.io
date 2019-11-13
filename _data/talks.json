@@ -1,5 +1,12 @@
 [
   {
+    "event_title":"FFConf 2019",
+    "event_url":"https://2019.ffconf.org/",
+    "event_date":"09-Nov-2019",
+    "talk_title":"Getting more from Git",
+    "slides_url": "https://speakerdeck.com/alicebartlett/getting-more-from-git"
+  },
+  {
     "event_title":"Patterns Day",
     "event_url":"https://patternsday.com/",
     "event_date":"30-Jun-2017",
