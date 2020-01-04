@@ -4,7 +4,8 @@
     "event_url":"https://2019.ffconf.org/",
     "event_date":"09-Nov-2019",
     "talk_title":"Getting more from Git",
-    "slides_url": "https://speakerdeck.com/alicebartlett/getting-more-from-git"
+    "slides_url":"https://speakerdeck.com/alicebartlett/getting-more-from-git",
+    "video_url":"https://www.youtube.com/watch?v=FQ4IdcrOUz0"
   },
   {
     "event_title":"Patterns Day",
