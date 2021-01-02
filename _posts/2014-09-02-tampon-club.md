@@ -2,7 +2,7 @@
 layout: post
 title:  "Tampon club"
 date:   2014-09-02 08:32:56
-category: "kitchen drawer"
+category: "kitchen-drawer"
 ---
 Sorry everyone, this post is about tampons and periods and the workplace. If you feel gross about any of those things then look away now. This post is really aimed at any Alice Bartletts out there who are waiting for someone to give them permission to fix their own workplace (as I was, until I realised people don't just hand you boxes of tampons in this life, especially if you don't ask).
 

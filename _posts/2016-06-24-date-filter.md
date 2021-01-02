@@ -2,7 +2,7 @@
 layout: post
 title:  "A decent attempt at a date filter"
 date:   2016-06-24 09:11:27
-category: "kitchen drawer"
+category: "kitchen-drawer"
 ---
 Back when I was at GDS, I worked on a thing that is small but, I don't know, almost perfect&#8253;
 It's an input for dates that people can use to filter search results. It's used on a bit of GOV.UK architecture called "Finders". Finders are the technology behind pages like [Competitions and Markets Authority cases](https://gov.uk/cma-cases) or [Air Accident Investigation Branch reports](https://gov.uk/aaib-reports). They're the place you go to look for technical reports about ongoing investigations happening in bits of government. The users of this tool are mostly professionals who need to find and follow these reports. The users have a reasonable degree of technical confidence. I only mention that because the research here is with these users and their needs, so if you're looking at supporting users less familiar with computers then you might be better off doing something else.

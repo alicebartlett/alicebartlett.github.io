@@ -2,7 +2,7 @@
 layout: post
 title:  "Stop asking how can we hire more women?"
 date:   2014-08-02 18:19:23
-category: "kitchen drawer"
+category: "kitchen-drawer"
 ---
 An employee of a multi-national tech company, and person who I like a lot, asked me: &ldquo;How can we hire more women?&rdquo;. You know how it goes, I gave an OK answer and then three months later realised I had a better one. The answer I gave was along the lines of:
 
