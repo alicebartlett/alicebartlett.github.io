@@ -11,3 +11,9 @@ github_username:  alicebartlett
 markdown: kramdown
 
 permalink: /blog/:title
+
+feed:
+  category:
+    - sewing
+    - weaknotes
+    - yearnotes
