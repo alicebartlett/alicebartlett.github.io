@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple Sews Classic Trouser"
 date:   2015-03-22 00:00:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/tropical-trews.1.jpg
 ---
 

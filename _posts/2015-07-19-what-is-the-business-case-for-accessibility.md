@@ -2,7 +2,7 @@
 layout: post
 title:  "What is the business case for accessibility?"
 date:   2015-07-19 08:18:39
-categories: accessibility frontend code
+category: [accessibility, frontend, code]
 ---
 I gave this talk at [Responsive Day Out](http://responsiveconf.com/) on June 19th in Brighton. It was a 20 minute talk. Normally I aim for 1 hour of prep per minute of speaking. [Russell](http://russelldavies.typepad.com/) reckons that's the a good rule of thumb for writing a new talk anyways, and he's really _really_ good at them. This talk took a lot longer than 20 hours to write. It was probably more like 35 by the end.
 

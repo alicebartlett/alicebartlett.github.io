@@ -2,7 +2,7 @@
 layout: post
 title: "Tottorri cross Kalle"
 date: 2019-05-17
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/tottori-kalle.1.jpg
 ---
 

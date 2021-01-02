@@ -2,7 +2,7 @@
 layout: post
 title:  "White Camber top"
 date:   2015-03-22 00:00:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/white-camber.6.jpg
 ---
 

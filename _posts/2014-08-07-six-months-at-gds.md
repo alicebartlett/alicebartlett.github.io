@@ -2,7 +2,7 @@
 layout: post
 title:  "Six months at GDS"
 date:   2014-08-07 12:29:21
-categories: GDS
+category: GDS
 ---
 I've been at the Government Digital Service for over six months now, I was thinking about all the stuff I've learnt in that time. It's a lot! I was also reading the week-notes I took when I first joined. I don't think I ever planned to make these public, but they feel so weird and far away from me now I feel OK sharing them. Here's the first paragraph I wrote about the first day of work:
 

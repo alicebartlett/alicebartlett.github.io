@@ -2,7 +2,7 @@
 layout: post
 title: "Florence top"
 date: 2020-02-02
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/florence.header.jpg
 ---
 

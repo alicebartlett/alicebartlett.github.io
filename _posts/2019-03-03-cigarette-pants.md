@@ -2,7 +2,7 @@
 layout: post
 title:  "Chroma key cigarette pants"
 date:   2019-03-03 21:57:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/chroma-key-trousers-4.jpg
 ---
 

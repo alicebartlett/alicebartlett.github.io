@@ -2,7 +2,7 @@
 layout: post
 title:  "Yumiko Higuchi Fish Mobile"
 date:   2018-04-17 00:00:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/fish-mobile.1.jpg
 ---
 

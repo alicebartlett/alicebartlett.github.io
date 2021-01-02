@@ -2,7 +2,7 @@
 layout: post
 title:  "Quilted Kindle Case"
 date:   2014-12-21 00:00:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/kindle2.3.jpg
 ---
 

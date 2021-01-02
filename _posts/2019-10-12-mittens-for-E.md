@@ -2,7 +2,7 @@
 layout: post
 title: "Mittens for E"
 date: 2019-10-12
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/baby-mitten.5.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "The Right To Roam rucksack"
 date: 2020-01-12
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/bag.header.jpg
 
 ---

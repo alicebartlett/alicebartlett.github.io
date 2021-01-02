@@ -2,7 +2,7 @@
 layout: post
 title:  "Bird shirt"
 date:   2019-03-31 15:01:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/bird-shirt-6.jpg
 ---
 

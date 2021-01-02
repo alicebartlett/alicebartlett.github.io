@@ -2,7 +2,7 @@
 layout: post
 title:  "October 2015 LRUG writeup"
 date:   2016-06-21 11:23:47
-categories: frontend development code gds ruby mustache
+category: frontend development code gds ruby mustache
 ---
 Waaaaay back in October 2015, [Dom](https://twitter.com/evilstreak) and I gave a talk at the London Ruby User Group about fixing a performance issue in the Ruby Mustache Gem.
 

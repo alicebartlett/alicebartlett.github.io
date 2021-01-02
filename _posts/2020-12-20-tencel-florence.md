@@ -2,7 +2,7 @@
 layout: post
 title: "Tencel florence"
 date: 2020-12-20
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/florence/florence.header.jpg
 ---
 

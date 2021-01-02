@@ -2,7 +2,7 @@
 layout: post
 title:  "A white-label slide deck"
 date:   2016-04-16 22:03:34
-categories: slides presenting keynote
+category: slides presenting keynote
 ---
 Russell Davies has covered the basics of presentations [over on his blog](http://russelldavies.typepad.com/planning/2015/11/doing-presentations.html), I'm not going to rehash what he's said there. He's covered [making slides readable](http://russelldavies.typepad.com/planning/2015/06/doing-the-hard-work-to-make-it-big.html), [making ideas clear](http://russelldavies.typepad.com/planning/2015/06/doing-the-hard-work-to-make-it-clear.html), [managing audience attention](http://russelldavies.typepad.com/planning/2015/06/doing-the-hard-work-to-make-it-bearable.html) and finally [not putting pictures of money on slides about budgets](http://russelldavies.typepad.com/planning/2015/07/one-more-thing.html). You should probably read those before you read this.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Lullaby Layette from Oliver and S"
 date: 2020-12-23
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/layette/layette_header.jpg
 ---
 

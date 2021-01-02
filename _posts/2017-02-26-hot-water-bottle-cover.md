@@ -2,7 +2,7 @@
 layout: post
 title:  "Hot water bottle cover"
 date:   2017-02-26 00:00:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/hot-water-bottle-cover.1.jpg
 ---
 

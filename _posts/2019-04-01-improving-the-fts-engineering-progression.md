@@ -2,7 +2,7 @@
 layout: post
 title:  "Improving our career map for engineers (cross post)"
 date:   2019-04-01 20:40:00
-categories: [work, crosspost]
+category: [work, crosspost]
 ---
 
 _This is a cross post from the [Financial Times Product and Technology Medium](https://medium.com/ft-product-technology/improving-our-career-map-for-engineers-4210185c6246)._

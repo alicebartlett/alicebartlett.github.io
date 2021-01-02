@@ -2,7 +2,7 @@
 layout: post
 title:  "BurdaStyle quilted baby coat"
 date:   2017-04-17 00:00:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/burdastyle-1.3.jpg
 ---
 

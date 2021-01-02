@@ -2,7 +2,7 @@
 layout: post
 title:  "Origami crosspost"
 date:   2016-06-21 23:11:12
-categories: frontend development code financial times
+category: frontend development code financial times
 ---
 It's been eight months since I joined the Financial Times to work on their components system, Origami. I'm the tech lead, or platform head, depending on what end of the telescope you're looking down. Is that the right metaphor? Who knows.
 

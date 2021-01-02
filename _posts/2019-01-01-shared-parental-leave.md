@@ -2,7 +2,7 @@
 layout: post
 title:  "Shared parental leave"
 date:   2019-01-01 10:51:00
-categories: shared-parental-leave
+category: shared-parental-leave
 ---
 This year we had a daughter and my husband and I decided to make use of Shared Parental Leave (SPL). This legislation, brought in in 2014, allows two people (in our case the mother and father, but it could be two fathers, adoptive parents, whatever) to share one year's leave between them.
 

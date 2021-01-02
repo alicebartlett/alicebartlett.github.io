@@ -2,7 +2,7 @@
 layout: post
 title:  "Bee print Archer"
 date:   2014-09-25 00:00:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/bees.2.jpg
 ---
 

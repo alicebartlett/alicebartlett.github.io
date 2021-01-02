@@ -2,7 +2,7 @@
 layout: post
 title: "Tottorri cross Bantam"
 date: 2019-05-17
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/tottori-bantam.3.JPG
 ---
 

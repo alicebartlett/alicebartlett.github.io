@@ -2,7 +2,7 @@
 layout: post
 title:  "Cyan Swing Scout"
 date:   2015-03-22 00:00:00
-categories: sewing
+category: sewing
 headerimage: assets/img/sewing/blue-scout.1.jpg
 ---
 
