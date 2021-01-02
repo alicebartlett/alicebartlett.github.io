@@ -2,7 +2,7 @@
 layout: post
 title:  "rip Flickr"
 date:   2019-01-11 22:33:00
-category: [photos, flickr]
+category: "kitchen drawer"
 ---
 Flickr is going to start charging for accounts and deleting photos from free accounts over 1000. I stopped using Flickr a few years ago because it seemed really likely that it was going to go down the shitter in Yahoo!'s custody.
 

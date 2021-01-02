@@ -2,7 +2,7 @@
 layout: post
 title:  "Tampon Club v2"
 date:   2014-11-25 11:36:19
-category: tampon club
+category: "kitchen drawer"
 ---
 It's been about 4 months since I set up what I jokingly named "Tampon Club" in the 6th floor toilets of Aviation House. Some cool things have happened since then&hellip;
 

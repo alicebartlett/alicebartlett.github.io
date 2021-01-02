@@ -2,7 +2,7 @@
 layout: post
 title:  "jQueryUK interview"
 date:   2015-01-25 22:03:34
-category: jqueryUK code work
+category: "kitchen drawer"
 ---
 jQuery UK sent me some questions to answer ahead of my talk at their conference in March. The original answers are [here](http://jqueryuk.com/2015/blog/2015-01-12-speaker-interview-alice-bartlett) complete with a photo of my massive head. I was feeling a bit curmudgeonly when I answered the questions, maybe you can tell.
 

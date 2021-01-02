@@ -2,7 +2,7 @@
 layout: post
 title:  "Five facts about smell writeup"
 date:   2014-06-15 08:32:56
-category: smell
+category: "kitchen drawer"
 ---
 I gave this talk in 5 minutes at LRUG ([video](https://skillsmatter.com/skillscasts/5050-five-facts-about-smell)) and in 10 minutes at GeekyConf ([slides](https://speakerdeck.com/alicebartlett/five-facts-about-smell)). Here&rsquo;s a write-up with a little more detail and a little more science. I am a hobby-fucker[^1] scientist, not a proper one, so I encourage you to go read the sources of this particularly where things get a bit deep at the end.
 
