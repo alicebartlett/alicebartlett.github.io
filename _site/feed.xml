@@ -1,258 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>The internet place for Alice Bartlett</title>
-    <description>The website of Alice Bartlett. Front-end developer and internet person.</description>
-    <link>https://alicebartlett.co.uk/</link>
-    <atom:link href="https://alicebartlett.co.uk/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Jul 2019 21:21:13 +0100</pubDate>
-    <lastBuildDate>Wed, 24 Jul 2019 21:21:13 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
-    
-      <item>
-        <title>Week 46: Tepid nonsense</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;In the muddle of evening driving we did last week I listened to some good podcasts. One was &lt;a href=&quot;https://99percentinvisible.org/episode/built-on-sand/&quot;&gt;this episode of 99% Invisible about sand&lt;/a&gt;. Did you know that sand grains are a different shape if eroded by wind vs water? And the wind type is useless in creating concrete because it’s spherical. Did you know that each year we build 7 New York’s worth of buildings globally? Did you know that sand is a finite commodity and one day we’ll reach peak sand?&lt;/li&gt;
-  &lt;li&gt;There is also more Revisionist History which is my favourite podcast.&lt;/li&gt;
-  &lt;li&gt;That sound? Oh it’s just my teeth grinding as more lukewarm responses about that man’s bad opinion about what good engineers look like flutter across my timeline. Partly this is because twitter keeps promoting tweets other people have favourited to me, and some of you do favourite some very tepid nonsense.&lt;/li&gt;
-  &lt;li&gt;I’ve given up meat. So far it’s fine at home - I stopped preparing meat based meals at home in January and it was pretty easy. At work though, ugh, it sucks. I think I’ll be able to keep it up, but it does require the same kind of will power as keeping secrets and not eating lots of cake, and um. I’m not very good at either of those in fact I would go so far as to say I am actually bad at both of those.&lt;/li&gt;
-  &lt;li&gt;On Thursday I was 29 minutes late to a 30 minute meeting because I was eating biscuits and gossiping. I had actually forgotten the meeting entirely but because it was important and I really should have been there I went for the last one minute to see if there were any actions. 😳&lt;/li&gt;
-  &lt;li&gt;Did I tell you that I deleted my Facebook profile? Yes I did that.&lt;/li&gt;
-  &lt;li&gt;Today we went to the (re)opening of Beckenham Place Park. It’s so nice. It used to be a council funded golf course but nobody every used it so the council have converted it into a massive park complete with a swimming pond!&lt;/li&gt;
-  &lt;li&gt;💥&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 20 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-46</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-46</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 45: One day this will be an otter 🦦</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;This week we went to Dorset with my parents. I found a cuttlefish bone on the beach. Alice Malia has a good instagram line in “sea treasures” which I always like looking at. You can’t see them though because her account is private and you’re not lucky enough to be her friend.&lt;/li&gt;
-  &lt;li&gt;The house we stayed in had a PS4 with Minecraft on it so Lachie and I played a lot of that.&lt;/li&gt;
-  &lt;li&gt;The house we stayed in also had a lot of silverfish, one of which I saw scuttle into my laptop fan vent. I haven’t seen it come out yet 😱&lt;/li&gt;
-  &lt;li&gt;Margaritas are good aren’t they.&lt;/li&gt;
-  &lt;li&gt;I can hear my toddler giggling and saying “oh no!!!” as her daddy swings her around and tickles her.&lt;/li&gt;
-  &lt;li&gt;There’s isn’t currently an emoji for the face Lachie and I do when E does something excessively cute. It’s an extreme scrunching up of the eyes and nose and a pursing of the lips. We’ve got an otter emoji now (&lt;a href=&quot;https://twitter.com/snootgirl/status/1093215152579710976&quot;&gt;one day this will be an otter 🦦&lt;/a&gt;). I think the unicode consortium should tackle this next.&lt;/li&gt;
-  &lt;li&gt;E absolutely loves books (nerd). “Oh No, GEORGE!” is the best one as it gives her many opportunities to say “Oh no GEORGE!”&lt;/li&gt;
-  &lt;li&gt;My house probably has silverfish now doesn’t it.&lt;/li&gt;
-  &lt;li&gt;Jen’s written &lt;a href=&quot;https://medium.com/ft-product-technology/documentation-day-how-the-ft-com-team-improved-our-documentation-to-95-usefulness-in-7-hours-b73d1a7e6f30&quot;&gt;a thing&lt;/a&gt; about how we had a documentation day. I haven’t read it yet because I’ve been on holiday, but I helped a tiny bit with the draft. Can we talk about how much better people at work have gotten about writing about the things they’ve done on the work blog? It’s like, actually good now? Well done people at work.&lt;/li&gt;
-  &lt;li&gt;🍐&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 13 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-45</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-45</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 44: White Frag</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Good morning.&lt;/li&gt;
-  &lt;li&gt;Big week people. &lt;em&gt;Big week&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;The FT’s Chief Commercial Officer spent four days with our team to learn about how Product and Technology works. On Monday he shadowed the team on support duty for a bit, triaging and fixing bugs, came to a planning meeting, and we taught him some conversational topics for impressing his computery friends - Tabs vs Spaces, “bike shedding” and “rubber ducking”.&lt;/li&gt;
-  &lt;li&gt;We shipped the engineering progression beta! I knew this next bit was going to be a slog. The first big - discovery, ideas, &lt;em&gt;anything is possible&lt;/em&gt; always goes quickly with energy and enthusiasm. But getting from alpha to beta involved the less glamorous labour of listening to people, understanding them and improving based on their feedback. I wrote a &lt;a href=&quot;https://medium.com/ft-product-technology/career-progression-framework-update-a2eb23115422&quot;&gt;blog post&lt;/a&gt; about getting from alpha to beta. It’s not very interesting but, as we all know, PUBLISH DON’T SEND.&lt;/li&gt;
-  &lt;li&gt;The screening of &lt;a href=&quot;https://www.youtube.com/watch?v=45ey4jgoxeU&quot;&gt;White Frag&lt;/a&gt; as I have come to call it internally was great. We managed to exceed the expected turnout and had to order in more snacks. We did this largely by asking (white) people 1:1 “are you coming to the screening later? - it’s a very good film”&lt;/li&gt;
-  &lt;li&gt;Some reflections on watching it for the fourth time:
-    &lt;ul&gt;
-      &lt;li&gt;Watching this film at work was absolutely excruciating. Though I had seen the lecture three times already, seeing it sat next to white colleagues that I knew had not considered their own racism in this way, folks who are more important than me, older, wiser, busier, more stressed. Seeing them watch Robin point out and dissect their white fragility and how it was protecting them from seeing or thinking about racism was unbearably awkward.&lt;/li&gt;
-      &lt;li&gt;It was also differently excruciating, and far worse, watching it with my colleagues of colour. Seeing them listen to Robin D’Angelo say things like “I believe there is something profoundly anti-black in our society. Nothing annoys white people more than thinking black people got something over on them that they didn’t deserve” made me feel like I might actually cry. I felt the weight of what I had organised - I had convinced a group of people of colour to come to a room and listen to the many ways in which they were at a disadvantage. Things they already knew and had been dealing with all their lives. These feelings are mine to sit with, I’m not bringing them up because I want any kind of reassurance from anybody. I think they’re useful because they give me a thing to improve on. I should have been direct about checking with my colleagues (who were mostly from the Embrace committee, with whom I had organised the event) that they knew the contents of the lecture ahead of time and were still interested in attending.&lt;/li&gt;
-      &lt;li&gt;After the event I spoke to a few people, the white people were wide eyed, still rolling the lecture around in their heads, turning it over. The people who had seen it before told me on second watching they had gotten more out of  it. It’s very dense so there’s a lot to miss the first time. I heard from some people of colour that they also found the lecture useful as it had given them a language to codify things they knew but hadn’t worked out how to say.&lt;/li&gt;
-      &lt;li&gt;For me, the takeaways remain similar to what &lt;a href=&quot;https://alicebartlett.co.uk/blog/weaknotes-31&quot;&gt;I wrote about before&lt;/a&gt;: this lecture has given me the language to talk about my own racism and white fragility. I’m not afraid of “saying something racist” anymore because I know that fear is stopping me from acting to combat racism. I know that the pro-move is (as with everything) learning how to apologise, repair, and not repeat mistakes.&lt;/li&gt;
-      &lt;li&gt;I don’t waste time feeling guilty about my white privilege because that guilt isn’t doing anything unless I convert it into action. I also don’t tell people I feel bad, because that just puts some emotional labour on them to comfort me which is the absolute opposite of what I want to do.&lt;/li&gt;
-      &lt;li&gt;After I watched the lecture the first time, something I did think about was the fact that Robin D’Angelo is white. Would that lecture have landed with me if she had been a woman of colour? Almost certainly not. I might not even have heard about it. Another thing I considered is the difference between the United States’s history and that of Great Britain. I resolved to address these issues by learning about the UK’s racial history, and reading it as told by people of colour. It took next to zero effort to find &lt;a href=&quot;https://www.audible.co.uk/pd/Why-Im-No-Longer-Talking-to-White-People-About-Race-Audiobook/B06XGLP7NP?source_code=M2M14DFT1BkSH082015011R&amp;amp;ds_rl=1235779&quot;&gt;Reni Eddo-Lodge’s book “Why I am no longer talking to white people about race”&lt;/a&gt; and this &lt;a href=&quot;https://soundcloud.com/user-957591628/32-akala-race-and-class-in-the-ruins-of-empire&quot;&gt;Akala interview with James O’Brien&lt;/a&gt;. Both of these are really useful follow ups to D’Angelo’s lecture, and cover the history of race in Britain (spoiler - it’s also bad)&lt;/li&gt;
-    &lt;/ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-02T14:39:24+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The website of Alice Bartlett</title><subtitle>The home of typing by Alice Bartlett 👩🏻‍💻</subtitle><entry><title type="html">Week 122: Beaknotes 🐦</title><link href="http://localhost:4000/blog/weaknotes-122" rel="alternate" type="text/html" title="Week 122: Beaknotes 🐦" /><published>2021-01-02T00:00:00+00:00</published><updated>2021-01-02T00:00:00+00:00</updated><id>http://localhost:4000/blog/weaknotes-122</id><content type="html" xml:base="http://localhost:4000/blog/weaknotes-122">&lt;ul&gt;
+  &lt;li&gt;Happy New Year to all those that celebrate. On Radio 4 last week there was a woman who was asked if she was glad 2020 was over and very smugly replied that years are just arbitrary concepts and so she didn’t think one ending was important or significant. It annoyed me. I don’t disagree but can we just &lt;em&gt;let the basic people who find comfort in marking the passage of time live?!&lt;/em&gt;. Haven’t they been through enough? Anyway. To all the time truthers out there - I see you, but save it for when we’re all feeling a bit less emotionally worn.&lt;/li&gt;
+  &lt;li&gt;We spent the void between Christmas and New Year, 2020’s gooch if you prefer, on the edge of the Peak District with my in-laws. I spent it reading Monty Don’s new book, looking at the bird table and trying to work out if those are coal tits, blue tits or great tits (stop laughing at the back). I identified a nuthatch. It snowed the second day we were here, so Lachie and I made an igloo which our nearly-three-year-old very wisely refused to go in. We went sledding. We walked to the one place there is to walk to - a coffee shop. It’s is on a road, so definitely accessible via car, but I have no idea how that road connects to the roads here as I have only ever gotten to it over a variety of fields and bridleways. The snow made everything seem otherworldly. I saw a lot of robins sitting on snowy fenceposts, turning each still moment into a British Heart Foundation Christmas card.&lt;/li&gt;
+  &lt;li&gt;Monty Don’s book is a lot like Gardener’s World. Slow, warm, relaxing. Short dispatches from his house near Monmouth. I’m learning a lot about birds -
+    &lt;ol&gt;
+      &lt;li&gt;Robins used to be called ruddocks, and then redbreasts, and then finally robins. Redbreast is a name that predates the arrival oranges, and the concept of “orange”. If we’d had the word “orange” at the time we’d probably have called them “orangebreasts” (or not, because that sounds rubbish). I guess the same goes for red squirrels and people with red hair.&lt;/li&gt;
+      &lt;li&gt;Moles eat worms by biting off their noses and then leaving them, alive but paralysed, in the walls of their tunnels for later.&lt;/li&gt;
+      &lt;li&gt;The only birdsongs I remember from growing up are those of the wood pigeon (coo coooo coo) and chaffinch, which is a tweety up-down thing that sounds like someone excitedly saying “cheep cheep cheep cheep &lt;em&gt;cheep cheep cheep cheep&lt;/em&gt; it’s a sneak preview!”. I’ve never heard the chaffinch sound anywhere else and when I returned home this year I noticed the song was similar but had more trills than I remember. Well, thank you Monty Don for explaining that mystery to me - it’s because chaffinch songs are passed between generations, with each new generation adding its own variations, causing them to change over time.&lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;😓&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 06 Jul 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-44-1</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-44-1</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 43: Noodle</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Scorchio! 🌞&lt;/li&gt;
-  &lt;li&gt;I ran a documentation day at work this week. Probably the best thing about it was getting the team together to work on something as a group. Everybody paired up to tackle one thing but we all sat near each other, shared snacks and tips. It was really fun, and our runbooks are in much better shape because of it.&lt;/li&gt;
-  &lt;li&gt;Because I love making things and finding excuses to make things, I made some trophies for the teams that ended up with the best runbook. It’s difficult to judge how good a runbook is, so I didn’t want to make the prizes good/expensive because it would be difficult to award them completely fairly. I had to noodle around a bit with ideas before I realised these trophies should be characterful books holding pencils that detached so people could bin the trophy but use the pencil. Here is a photo.
-&lt;img src=&quot;/assets/img/trophies.jpg&quot; alt=&quot;Trophies&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;I’m organising a screening of &lt;a href=&quot;https://www.youtube.com/watch?v=45ey4jgoxeU&quot;&gt;this lecture about “white fragility”&lt;/a&gt; with BAME network at work. I’m pretty excited about it, I hope a lot of my white colleagues come along, but who knows what will happen to be honest.&lt;/li&gt;
-  &lt;li&gt;🌵&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 29 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-43</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-43</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 42: Sweet pea</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Day late with the weaknotes this week, I was a bit busy yesterday.&lt;/li&gt;
-  &lt;li&gt;This week I went to a conference that the same number of women speaking as there were men named Patrick. Many of the conference talks were very good and I was glad I went, but yeah. Not a good line up.&lt;/li&gt;
-  &lt;li&gt;It feels bad when you care about doing something difficult well but then still manage to mess it up. Try not to dwell on how bad it feels, or make excuses about how you tried. None of those feelings or excuses are helping you improve the thing you care about.&lt;/li&gt;
-  &lt;li&gt;I am trying to show E how to smell things, but she thinks I am blowing on them. It is very good to see her gently take a sweet pea, bring it up to her nose and softly, so softly, blow on it.&lt;/li&gt;
-  &lt;li&gt;👪&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 23 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-42</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-42</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 41: Biggleywinks</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Shout out to whoever cleared all the tampons out of the work tampon club. I can only assume you really needed 20 tampons in one go, but are planning on replacing them shortly.&lt;/li&gt;
-  &lt;li&gt;I am the top Google result for “hoisted by Jean-luc Picard” &lt;em&gt;and&lt;/em&gt; “chill yoghurt babe&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;”, maybe the algorithms aren’t actually bad.&lt;/li&gt;
-  &lt;li&gt;Boris Johnson is going to be our prime minister. I have made my piece with it.&lt;/li&gt;
-  &lt;li&gt;Hi I listen to audiobooks now. I had been not doing that because it felt like not proper reading. But then I was like “Alice you loser, you’re cheating yourself out of many great ideas because your have inhaled some bollocks about reading with your eyes being the only legitimate form of consuming books. Get a grip.” So now I listen to audio books. I’m about half way through “Why I’m no longer talking to white people about race” by Reni Eddo-Lodge which is good and interesting so far.&lt;/li&gt;
-  &lt;li&gt;I have been making models today with SuperSculpey. It’s good, I think I might be doing a good thing.&lt;/li&gt;
-  &lt;li&gt;Everyone have a little think about biggleywinks.&lt;/li&gt;
-  &lt;li&gt;☠️&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;Lot of bird content this week so we’re going to rebrand as… Beaknotes 🐦&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="weaknotes" /><summary type="html">Happy New Year to all those that celebrate. On Radio 4 last week there was a woman who was asked if she was glad 2020 was over and very smugly replied that years are just arbitrary concepts and so she didn’t think one ending was important or significant. It annoyed me. I don’t disagree but can we just let the basic people who find comfort in marking the passage of time live?!. Haven’t they been through enough? Anyway. To all the time truthers out there - I see you, but save it for when we’re all feeling a bit less emotionally worn. We spent the void between Christmas and New Year, 2020’s gooch if you prefer, on the edge of the Peak District with my in-laws. I spent it reading Monty Don’s new book, looking at the bird table and trying to work out if those are coal tits, blue tits or great tits (stop laughing at the back). I identified a nuthatch. It snowed the second day we were here, so Lachie and I made an igloo which our nearly-three-year-old very wisely refused to go in. We went sledding. We walked to the one place there is to walk to - a coffee shop. It’s is on a road, so definitely accessible via car, but I have no idea how that road connects to the roads here as I have only ever gotten to it over a variety of fields and bridleways. The snow made everything seem otherworldly. I saw a lot of robins sitting on snowy fenceposts, turning each still moment into a British Heart Foundation Christmas card. Monty Don’s book is a lot like Gardener’s World. Slow, warm, relaxing. Short dispatches from his house near Monmouth. I’m learning a lot about birds - Robins used to be called ruddocks, and then redbreasts, and then finally robins. Redbreast is a name that predates the arrival oranges, and the concept of “orange”. If we’d had the word “orange” at the time we’d probably have called them “orangebreasts” (or not, because that sounds rubbish). I guess the same goes for red squirrels and people with red hair. Moles eat worms by biting off their noses and then leaving them, alive but paralysed, in the walls of their tunnels for later. The only birdsongs I remember from growing up are those of the wood pigeon (coo coooo coo) and chaffinch, which is a tweety up-down thing that sounds like someone excitedly saying “cheep cheep cheep cheep cheep cheep cheep cheep it’s a sneak preview!”. I’ve never heard the chaffinch sound anywhere else and when I returned home this year I noticed the song was similar but had more trills than I remember. Well, thank you Monty Don for explaining that mystery to me - it’s because chaffinch songs are passed between generations, with each new generation adding its own variations, causing them to change over time. Lot of bird content this week so we’re going to rebrand as… Beaknotes 🐦</summary></entry><entry><title type="html">Yearnotes 2020</title><link href="http://localhost:4000/blog/yearnotes-2020" rel="alternate" type="text/html" title="Yearnotes 2020" /><published>2021-01-01T00:00:00+00:00</published><updated>2021-01-01T00:00:00+00:00</updated><id>http://localhost:4000/blog/yearnotes-2020</id><content type="html" xml:base="http://localhost:4000/blog/yearnotes-2020">&lt;p&gt;OKAAAAAAAAAY well. Hm. Obviously you all know now the thing I didn’t know when I wrote &lt;a href=&quot;https://alicebartlett.co.uk/blog/yearnotes-2019&quot;&gt;my sixth year of year notes this time last year&lt;/a&gt; which is that a little baby coronavirus in Wuhan was about smash its was through the bodies of millions of people. Killing millions, leaving many millions more with lasting health issues, tanking economies, and just fucking shit up in an unprecedented way.&lt;/p&gt;
 
-&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Credit to &lt;a href=&quot;https://chee.snoot.club/&quot;&gt;Chee&lt;/a&gt; for discovering this &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 15 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-41</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-41</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 40: Strongly pro</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gilest.org/bwrss.html&quot;&gt;Giles has done a good thing&lt;/a&gt;. I’m strongly pro RSS so an RSS only photo feed - even for only a month - is very appealing.&lt;/li&gt;
-  &lt;li&gt;I feel very tired.&lt;/li&gt;
-  &lt;li&gt;That is all.&lt;/li&gt;
-  &lt;li&gt;🍤&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 08 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-40</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-40</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 39: Typing the right things fast</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;I keep meaning to say something about &lt;a href=&quot;https://nordprojects.co/projects/littleprinters/&quot;&gt;the return of Little Printer&lt;/a&gt; but then forgetting. My main thought is that it’s really nice that they’ve revived the impact-y message style - I wrote the original code for that. It was nearly Christmas and Jack had had this idea for a new messaging style that he thought would be cool. I was supposed to be working on something else so after I’d finished the day’s work I started noodling around with it, trying to work out algorithmically how to get the word sizing right, learning about leading and kerning. It was incredibly fun and when I had finished I pushed a release live and sent a message to Jack’s little printer in his house in the new style. Something like “THIS LOOKS PRETTY GOOD I THINK”.&lt;/li&gt;
-  &lt;li&gt;The other Little Printer messaging memory I have is the time somebody down the pub sent “HELLO YOU C**T”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; to Matt Jones’ little printer in the middle of the night. I can’t remember whose friend that was, but I don’t think Matt found it very funny. After that we put some configuration in to stop people messaging you in the middle of the night. A swear filter might also have been a good idea, but these are the kinds of things you only think of after you have kids.&lt;/li&gt;
-  &lt;li&gt;This is making me want to go find my Little Printer.&lt;/li&gt;
-  &lt;li&gt;I just bought &lt;a href=&quot;https://www.amazon.co.jp/dp/4579116879/ref=pe_492632_159100282_TE_item&quot;&gt;Yumiko Higuchi’s new book of embroidery&lt;/a&gt; from Amazon Japan. I know there will be an english language translation of it eventually bit I absolutely cannot wait for that. I know enough embroidery to not need the instructions. Probably.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://russelldavies.typepad.com/planning/2019/05/age-and-trying-not-to.html&quot;&gt;Russell did a good blog post about how you can’t market to old people&lt;/a&gt; and it really Made Me Think.&lt;/li&gt;
-  &lt;li&gt;I’ve done a new layout style for my sewing posts.&lt;/li&gt;
-  &lt;li&gt;I’ve written that talk abstract I was procrastinating from. If anyone wants a talk about Git HMU.&lt;/li&gt;
-  &lt;li&gt;Being a good developer is as much about typing the right things fast as it is about helping others to type the right things fast.&lt;/li&gt;
-  &lt;li&gt;Thanks for the shout out &lt;a href=&quot;https://tomarmitage.com/2019/05/31/week-334/&quot;&gt;Tom&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;This week’s word is kerning&lt;/li&gt;
-  &lt;li&gt;This week’s emoji is 😯&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;So that’s really the main thing that happened this year, which of course, you already knew.&lt;/p&gt;
 
-&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;I have starred this out because I &lt;em&gt;try&lt;/em&gt; not to swear in my weaknotes. Please email me for the unasterisked version of this correspondence. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 01 Jun 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-39</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-39</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 38: This week&#39;s least popular word is &#39;automating&#39;</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Uh, so satisfying being able to type &lt;code class=&quot;highlighter-rouge&quot;&gt;make-week&lt;/code&gt; and just know that my very clever bash script will calculate the date of next Saturday and populate the front matter for my weaknotes. This has given me an idea for automating my post titles too… [some typing later] … OK well if I want to know the least popular word in every weaknote was I’ve now got a script for that… I could write a commit hook that creates the title every time I commit the weaknote. Would that be good? They’d probably be a bit rubbish. Can you tell I’m procrastinating from writing a conference talk?&lt;/li&gt;
-  &lt;li&gt;What if I just wrote a commit hook at appended “This week’s least popular word was &lt;em&gt;whatever&lt;/em&gt;” to the end of the weaknote. Would that be fun. That might be fun. SHUT UP AND WRITE YOUR TALK ABSTRACT AB.&lt;/li&gt;
-  &lt;li&gt;I went to the Alresford watercress festival last weekend. It was good - there were lots of dogs for E to look at and she was just incredibly happy to be there which was nice.&lt;/li&gt;
-  &lt;li&gt;In Alresford I also saw a set of quadruplets, so that’s something.&lt;/li&gt;
-  &lt;li&gt;I just trod in a lot of dog poo. I was thinking about how dog poo is disgusting, but why is that? It’s made up of the same atoms that everything else is made up of, including me, so in some ways aren’t we all dog poo?&lt;/li&gt;
-  &lt;li&gt;More typing happened and now I have some sentiment analysis which generates an emoji with the same sentiment. I’ve looked at the sentiment analysis algorithm and it is… not very smart.&lt;/li&gt;
-  &lt;li&gt;This week’s emoji is 😱&lt;/li&gt;
-  &lt;li&gt;This week’s least popular word is “automating”&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 25 May 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-38</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-38</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-      <item>
-        <title>Week 37: (not a typo)</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;We did a staycation this week, while E still went to nursery. We were meant to get some big DIY jobs done, but of the three Things To Do, all of them were delayed by something further across the Gantt chart.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I don’t normally listen to This American Life, but a friend pointed me to &lt;a href=&quot;https://www.thisamericanlife.org/674/get-a-spine/act-one-3&quot;&gt;this episode&lt;/a&gt; about Dan Harmon’s apology to Mengan Ganz, a writer he sexually harassed over two or three years and it is mind blowing. Dan Harmon was the creator and show runner for Community. Over the course of two years he harassed a woman on his staff that he was attracted to and then, when she rejected him, he belittled and humiliated her repeatedly. In the analysis of the apology, we hear about his previous attempts to apologise, which were rubbish, and we hear from the Megan about the impact being harassed had had on her. Listening to this made me feel slightly sick. I know a lot of men who do or have done varying shades of Dan Harmon. They should all listen to this or at the very least &lt;a href=&quot;https://www.thisamericanlife.org/674/transcript&quot;&gt;read the transcript&lt;/a&gt;.
-&amp;gt; “The trick is if you lie to yourself you can lie to everybody. It’s really easy. And so that’s what I continued to do, telling myself and anybody that threatened to confront me with it that if you thought what I was doing was creepy or flirty or unprofessional then it’s because you were the sexist. You were jealous. I was supporting this person. I’m a mentor, I’m a feminist.”
-&amp;gt; “[After she rejected him] And that was probably the darkest of it all because I drank, I took pills, I crushed on her and resented her for not reciprocating it. And the entire time I was the one writing her pay checks and in control of whether she stayed or went, and whether she felt good about herself or not, and said horrible things. Just treated her cruelly, pointedly. Things that I would never, ever, ever have done if she had been male and if I had never had those feelings for her.”
-&amp;gt; “And I never did it before and I will never do it again. But I certainly wouldn’t have been able to do it if I had any respect for women. On a fundamental level, I was thinking about them as different creatures.”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;This apology is really good because I think Dan Harmon is actually sorry about what he did and he took a big risk to improve the situation. In his apology he describes in a very clear and straightforward way what he did and why it was bad, he doesn’t make any excuses but he also doesn’t wallow in how sorry he is.&lt;/li&gt;
-  &lt;li&gt;It should go without saying, but clearly doesn’t because I keep having to say this to people, the point of doing an apology well is to repair the harm you caused another person. It is to help them feel better and move on. If you don’t think you really caused any harm, and you are not actually sorry, then don’t apologise.&lt;/li&gt;
-  &lt;li&gt;The other thing this made me think of is how annoying being a woman between the ages of 15 and 25 is. When I was younger it was basically impossible to tell which of my male peers were being nice to me because I was a chill yoghurt babe, and who was harbouring a nerd crush on me, which they would reveal to me at some point, in an awkward email, or a weird phone call, tainting every fun memory I had with them in the process. This is kind of the deal for a lot of young women, but it’s approximately 100 times more pronounced if you do a degree in Computer Science where the ratio of men to women is 80:3 (not a typo).&lt;/li&gt;
-  &lt;li&gt;A talk I gave about Git has been circulated widely on twitter again which is giving me some warm feelings.&lt;/li&gt;
-  &lt;li&gt;I am waiting for some babies to be born, it is an exciting time.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 18 May 2019 00:00:00 +0100</pubDate>
-        <link>https://alicebartlett.co.uk/blog/weaknotes-37</link>
-        <guid isPermaLink="true">https://alicebartlett.co.uk/blog/weaknotes-37</guid>
-        
-        
-        <category>weaknotes</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;h2 id=&quot;fambo&quot;&gt;Fambo&lt;/h2&gt;
+&lt;p&gt;The big one hit 2 this year. I feel sad for the things she has missed because of the pandemic, seeing friends, playing with other children, spending time with her grandparents and cousins. She doesn’t mind at all and accepts what is happening freely. The first lockdown - March to June - was incredibly tough. She was at home because nursery closed and Lachie and I were both working full time and looking after her, which we did in shifts (7am-1pm or 1pm-7pm). I was also in my final trimester which made me more tired still. The parks were shut and so we pretty much stayed in the house and didn’t see anyone.
+I did a lot of crying and a lot of running the washing up water slightly too hot so the pain of feeling would be replaced by the pain of my hands burning.&lt;/p&gt;
+
+&lt;p&gt;In June the nursery opened back up and my maternity leave started.&lt;/p&gt;
+
+&lt;p&gt;And then, in July, just after the lockdown eased up, baby C was born. He’s a chucklehead, especially for his big sister. Imagine being born during a pandemic. Unlike the first birth, this one was easy and we were in and out within a few hours.&lt;/p&gt;
+
+&lt;p&gt;Baby C is now 6 months old. He has my dimples.&lt;/p&gt;
+
+&lt;p&gt;Getting to spend so much more time with my immediate family this year has been special.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-weaknotes&quot;&gt;More weaknotes&lt;/h2&gt;
+&lt;p&gt;Despite… all this… I still wrote weaknotes every week, although some of them were pretty grim. In my head only a handful of people read them but then every so often someone surprising will mention they’ve read them and I think “oh christ did I say fuck or bugger or reveal anything too embarrassing recently?”.&lt;/p&gt;
+
+&lt;h2 id=&quot;we-still-vegetarian-over-here&quot;&gt;We still vegetarian over here&lt;/h2&gt;
+&lt;p&gt;Something that made being vegetarian a lot easier was working from home. Since I haven’t been into the office since March (March! Can you even believe it) I don’t have to look at a pulled pork sandwich and then choose the cheese one. It’s only cheese sandwiches.&lt;/p&gt;
+
+&lt;h2 id=&quot;everybody-work-work-work-work-work-work&quot;&gt;Everybody work work work work work work&lt;/h2&gt;
+&lt;p&gt;I was only at work for 6 months this year as I had a baby in July. I think the main thing that happened with work was I got onto a thing called the Next Generation Board. It’s 12 people from around the FT getting together every month or so, working on some self initiated projects, and mentoring the actual board members. I was assigned the editor, Roula Khalaf, to mentor. The project I worked on with 3 other people was defining the FT’s environmental strategy for the next 10 years and getting the board to sign off on it. By the time I left for maternity leave it was going quite well, the strategy was agreed upon and the first step (an audit by the Carbon Trust) was about to begin. It was a fascinating piece of work and I’m looking forward to getting back into it when I return to work in March.
+As for work in Customer Products, the biggest most memorable thing was the mid-march scramble to get everyone out of the office and working from home. I can’t remember &lt;em&gt;anything&lt;/em&gt; that happened January - March. Presumably just doing the crossword with Edds and the gang and eating Japanese Canteen spicy tofu. &lt;a href=&quot;https://medium.com/ft-product-technology/beyond-quizzes-making-and-streaming-a-radio-show-for-your-team-remote-social-1a061bde47f4&quot;&gt;That radio show was great craic too&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;did-we-have-any-time-for-making-things&quot;&gt;Did we have any time for making things?&lt;/h2&gt;
+&lt;p&gt;Not a bumper year for making things, between the pandemic, the pregnancy and subsequent baby, the pre-existing child, the job, there wasn’t a lot of time for craft. The things I did make and have photos of &lt;a href=&quot;https://photos.app.goo.gl/TM9xHBWamiKHf1ax9&quot;&gt;are here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;holidays&quot;&gt;Holidays&lt;/h2&gt;
+&lt;p&gt;One holiday got cancelled, but has been rescheduled for next August (welp). The other, a trip to Norfolk with my parents, happened in September. We had hire bikes, and strapped baby C’s car seat to the back of a bike buggy trailer. Then the six of us pootled along quiet country lanes to various beaches, it was heaven. Take me back to rural Norfolk where the roads are empty and the blackberries are abundant.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-garden&quot;&gt;The garden&lt;/h2&gt;
+&lt;p&gt;Last year I said I was going to try harder this year, and so that’s what I did. The tomatoes were especially good, but I also grew lots of flowers and enough strawberries to feed a toddler. Though the pandemic meant lots of things that would have happened didn’t, it did mean I formed relationships with my neighbours that would never normally have had the time to grow. My row of houses have some quite low back fences, so you can talk to your neighbours but also your neighbour’s neighbours. I had chats, almost daily, with Marlene, Trish, The Other Alice, and Dave and Dangerous Dawn during the March-June lockdown.&lt;/p&gt;
+
+&lt;h2 id=&quot;thassit&quot;&gt;Thassit&lt;/h2&gt;
+&lt;p&gt;And that’s that. My 7th year of Yearnotes. The rest are here if you wanted to remember the beforetimes. (&lt;a href=&quot;/blog/yearnotes-2019&quot;&gt;2019&lt;/a&gt;, &lt;a href=&quot;/blog/yearnotes-2018&quot;&gt;2018&lt;/a&gt;, &lt;a href=&quot;blog/yearnotes-2017&quot;&gt;2017&lt;/a&gt;, &lt;a href=&quot;/blog/yearnotes-2016&quot;&gt;2016&lt;/a&gt;, &lt;a href=&quot;/blog/yearnotes-2015&quot;&gt;2015&lt;/a&gt;, &lt;a href=&quot;/blog/yearnotes-2014&quot;&gt;2014&lt;/a&gt;). In 2021 I hope we’ll move to Brighton but I want to do it so badly, and there are so many parts to it that are outside of my control, that I’m almost afraid to say it out loud. I’m also going to try and regain some core strength this year, which I gave away freely to have babies but now I’m done with that it’s time to take the long view of my corporeal form which I think means do some exercise.&lt;/p&gt;</content><author><name></name></author><category term="[&quot;weaknotes&quot;, &quot;yearnotes&quot;]" /><summary type="html">OKAAAAAAAAAY well. Hm. Obviously you all know now the thing I didn’t know when I wrote my sixth year of year notes this time last year which is that a little baby coronavirus in Wuhan was about smash its was through the bodies of millions of people. Killing millions, leaving many millions more with lasting health issues, tanking economies, and just fucking shit up in an unprecedented way.</summary></entry><entry><title type="html">Week 121: Bisto</title><link href="http://localhost:4000/blog/weaknotes-121" rel="alternate" type="text/html" title="Week 121: Bisto" /><published>2020-12-26T00:00:00+00:00</published><updated>2020-12-26T00:00:00+00:00</updated><id>http://localhost:4000/blog/weaknotes-121</id><content type="html" xml:base="http://localhost:4000/blog/weaknotes-121">&lt;ul&gt;
+  &lt;li&gt;Three of E’s classmates from nursery tested positive for Covid 19 this week so it’s good that we took her out of nursery early.&lt;/li&gt;
+  &lt;li&gt;I’ve found some more composure since last Sunday when I was too upset to bother with weaknotes.&lt;/li&gt;
+  &lt;li&gt;Tomorrow we’re going to our government approved support bubble. &lt;a href=&quot;https://www.ft.com/content/290c234b-e8e3-4abb-9c71-26ada5a633d9&quot;&gt;The cynical leftwing press has speculated&lt;/a&gt; that the only reason families, such as ours, with a child under 1, are allowed a support bubble is because Boris Johnson has a child under one. But I’m sure our Prime Minister would never do something so blatantly self serving.&lt;/li&gt;
+  &lt;li&gt;Christmas day at our house was nice. I made some very good vegetarian food for our lunch - the “Killer Roast Dinner” from Anna Jones. Lachie said it was delicious and then in the very next breath asked if we had any Bisto so he’s murdered now. (We don’t have any Bisto, of course we don’t)&lt;/li&gt;
+  &lt;li&gt;Baby C “ate” his first solid food, a Yorkshire pudding. He was &lt;em&gt;really&lt;/em&gt; into it.&lt;/li&gt;
+  &lt;li&gt;I have a new stitching instagram (&lt;a href=&quot;https://www.instagram.com/alices_stitch_log/&quot;&gt;alices_stitch_log&lt;/a&gt;), primarily because I follow hastags for patterns I’m thinking of making on Instagram to see what other people are doing, but it’s made me want to contribute my own versions too. My main instagram account is private because it has lots of photos of my kids on it and only people I like get to see those 😘&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="weaknotes" /><summary type="html">Three of E’s classmates from nursery tested positive for Covid 19 this week so it’s good that we took her out of nursery early. I’ve found some more composure since last Sunday when I was too upset to bother with weaknotes. Tomorrow we’re going to our government approved support bubble. The cynical leftwing press has speculated that the only reason families, such as ours, with a child under 1, are allowed a support bubble is because Boris Johnson has a child under one. But I’m sure our Prime Minister would never do something so blatantly self serving. Christmas day at our house was nice. I made some very good vegetarian food for our lunch - the “Killer Roast Dinner” from Anna Jones. Lachie said it was delicious and then in the very next breath asked if we had any Bisto so he’s murdered now. (We don’t have any Bisto, of course we don’t) Baby C “ate” his first solid food, a Yorkshire pudding. He was really into it. I have a new stitching instagram (alices_stitch_log), primarily because I follow hastags for patterns I’m thinking of making on Instagram to see what other people are doing, but it’s made me want to contribute my own versions too. My main instagram account is private because it has lots of photos of my kids on it and only people I like get to see those 😘</summary></entry><entry><title type="html">Lullaby Layette from Oliver and S</title><link href="http://localhost:4000/blog/lullaby_layette" rel="alternate" type="text/html" title="Lullaby Layette from Oliver and S" /><published>2020-12-23T00:00:00+00:00</published><updated>2020-12-23T00:00:00+00:00</updated><id>http://localhost:4000/blog/lullaby_layette</id><content type="html" xml:base="http://localhost:4000/blog/lullaby_layette">&lt;p&gt;The other day I threw some clean clothes on my infant son and thought “god - he looks like he’s about to pop to B&amp;amp;Q and then down spoons with his mates to watch the game. He’ll stumble in at 4pm scratching his balls and asking what’s for dinner before falling into a sweaty sleep on the sofa. I want &lt;em&gt;my&lt;/em&gt; son to be a poet, or at least an accountant who has read some poetry”. Why are all affordable baby clothes so aggressively heteronormative? Anyway. That was the prompt I needed to finish this lullaby layette set which I cut a long time ago but didn’t manage to sew up.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/sewing/layette/onesie.jpg&quot; alt=&quot;Onesie&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-onesie&quot;&gt;The Onesie&lt;/h2&gt;
+&lt;p&gt;The onesie is for a baby aged 3-6 months, which my baby was once. It no longer fits him because he is, as I keep telling him, &lt;em&gt;such a big boy now yes he is&lt;/em&gt;. The fabric was from Cloth House, the body is called &lt;a href=&quot;https://www.clothhouse.com/cotton-prints-stripes-checks/japanese-wind&quot;&gt;“Japanese Wind White”&lt;/a&gt;, and the binding is &lt;a href=&quot;https://www.clothhouse.com/cotton-prints-stripes-checks/japanese-wind-navy&quot;&gt;“Japanese Wind Navy”&lt;/a&gt;. Those links don’t work at the moment because the website is “closed for Christmas” (lol ok).&lt;/p&gt;
+
+&lt;p&gt;This was really fun to sew and my son looked extremely cute in it. This onesie works well in summer but looks a bit strange under trousers because it is so puffy around the tum.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/sewing/layette/jacket.jpg&quot; alt=&quot;Jacket&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-jacket&quot;&gt;The Jacket&lt;/h2&gt;
+&lt;p&gt;This jacket is reversible and I am obsessed &lt;em&gt;obsessed&lt;/em&gt; with this &lt;a href=&quot;https://www.clothhouse.com/cotton-prints-stripes-checks/japanese-small-rabbit-blue&quot;&gt;rabbit fabric&lt;/a&gt; which I used as a lining. It’s also from Cloth House. The outer fabric is some leftover &lt;a href=&quot;https://merchantandmills.com/store/cloth/tottorri-cross/&quot;&gt;Japanese seersucker printed with small crosses&lt;/a&gt; which I made a vest out of a while back. Using seersucker has given this jacket a crumpled quality which hopefully means I won’t have to iron it because nobody has time for that.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/sewing/layette/trousers_and_top.jpg&quot; alt=&quot;trousers and top&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-trousers&quot;&gt;The Trousers&lt;/h2&gt;
+&lt;p&gt;These were great. Fun to sew, very sturdy feeling with lots of room for baby to roll and wiggle around in. I made them using some corduroy from Merchant and Mills leftover from a shirt I made a while back. They appear to have sold out of it. Annoyingly I cut one of the pockets upside down so it has the wrong NAP to the other one 🤦🏻‍♀️. He won’t care I guess. He doesn’t even know he has hands.&lt;/p&gt;
+
+&lt;p&gt;I’d like to make these again but also these babies man, they really eat into the sewing time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/sewing/layette/front_view.jpg&quot; alt=&quot;Baby outfit&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="sewing" /><summary type="html">The other day I threw some clean clothes on my infant son and thought “god - he looks like he’s about to pop to B&amp;amp;Q and then down spoons with his mates to watch the game. He’ll stumble in at 4pm scratching his balls and asking what’s for dinner before falling into a sweaty sleep on the sofa. I want my son to be a poet, or at least an accountant who has read some poetry”. Why are all affordable baby clothes so aggressively heteronormative? Anyway. That was the prompt I needed to finish this lullaby layette set which I cut a long time ago but didn’t manage to sew up.</summary></entry><entry><title type="html">Week 120: Gran and papa</title><link href="http://localhost:4000/blog/weaknotes-120" rel="alternate" type="text/html" title="Week 120: Gran and papa" /><published>2020-12-20T00:00:00+00:00</published><updated>2020-12-20T00:00:00+00:00</updated><id>http://localhost:4000/blog/weaknotes-120</id><content type="html" xml:base="http://localhost:4000/blog/weaknotes-120">&lt;ul&gt;
+  &lt;li&gt;I think telling my daughter that actually we aren’t going to see Gran and Papa this Christmas is the saddest I’ve felt.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="weaknotes" /><summary type="html">I think telling my daughter that actually we aren’t going to see Gran and Papa this Christmas is the saddest I’ve felt.</summary></entry><entry><title type="html">Tencel florence</title><link href="http://localhost:4000/blog/tencel-florence" rel="alternate" type="text/html" title="Tencel florence" /><published>2020-12-20T00:00:00+00:00</published><updated>2020-12-20T00:00:00+00:00</updated><id>http://localhost:4000/blog/tencel-florence</id><content type="html" xml:base="http://localhost:4000/blog/tencel-florence">&lt;p&gt;Back in March before… all this… I went to Rye with Nat. It was a lovely day. I was 5 months pregnant and we mostly went to the Merchant and Mills shop and tried to work out how long we could leave it between eating things.&lt;/p&gt;
+
+&lt;p&gt;On that trip I bought some &lt;a href=&quot;https://merchantandmills.com/store/cloth/sustainable/tencel/tencel-twill-aperitivo/&quot;&gt;tencel twill&lt;/a&gt;. It has the most lovely drape. It feels very luxurious.&lt;/p&gt;
+
+&lt;p&gt;I made another Florence top, but of course I was quite pregnant by the time I finished it. So here we are now, in December, I’ve finally gotten around to photographing it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/sewing/florence/florence.2.jpg&quot; alt=&quot;Me with blurry baby&quot; /&gt;
+&lt;img src=&quot;/assets/img/sewing/florence/florence.3.jpg&quot; alt=&quot;Front view&quot; /&gt;
+&lt;img src=&quot;/assets/img/sewing/florence/florence.4.jpg&quot; alt=&quot;Front view thinking about how much of a twat Boris Johnson is&quot; /&gt;
+&lt;img src=&quot;/assets/img/sewing/florence/florence.5.jpg&quot; alt=&quot;Front view me hating taking my own photos&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="sewing" /><summary type="html">Back in March before… all this… I went to Rye with Nat. It was a lovely day. I was 5 months pregnant and we mostly went to the Merchant and Mills shop and tried to work out how long we could leave it between eating things.</summary></entry><entry><title type="html">Week 119: Goofy tooth</title><link href="http://localhost:4000/blog/weaknotes-119" rel="alternate" type="text/html" title="Week 119: Goofy tooth" /><published>2020-12-12T00:00:00+00:00</published><updated>2020-12-12T00:00:00+00:00</updated><id>http://localhost:4000/blog/weaknotes-119</id><content type="html" xml:base="http://localhost:4000/blog/weaknotes-119">&lt;ul&gt;
+  &lt;li&gt;woi oi!&lt;/li&gt;
+  &lt;li&gt;This week I was reminded of the acronym from university: BNOC (pronounced be-nock). Big Name On Campus. In case it isn’t obvious, I was not a BNOC.&lt;/li&gt;
+  &lt;li&gt;C has a little goofy tooth and so has started biting me. It’s very unpleasant but avoidable if I really pay attention to him while feeding him.&lt;/li&gt;
+  &lt;li&gt;We’re selling our house. We’ve had 6 viewings in 3 days and it has been mad stressful keeping the place tidy and getting out of the house for the viewings. I will not be taking further questions at this time.&lt;/li&gt;
+  &lt;li&gt;Don’t know if this is a sign of the times or a sign of early onset dementia, but I have been really enjoying “Spin The Wheel”, a celebrity(!) gameshow(!) on Saturday night(!) presented by Michael Mcintyre(!!!).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ithoughtaboutthatalot.com/how-to-dispose-of-a-body&quot;&gt;This piece about her mother dying&lt;/a&gt; earlier this year by &lt;a href=&quot;http://rebeccahales.co.uk/&quot;&gt;Becky&lt;/a&gt; is extremely tender and funny and wonderfully written.&lt;/li&gt;
+  &lt;li&gt;My 2.5 year old now comes with an 100% Lice Free Guarantee.&lt;/li&gt;
+  &lt;li&gt;I had a Keeping In Touch day on Monday. It was really good. Normally I’d have gone in for this and seen people face to face, but because of… &lt;em&gt;all this&lt;/em&gt; I just popped up to the attic and did zoom calls. And occasionally a baby was brought to me for feeding.&lt;/li&gt;
+  &lt;li&gt;One of the things on the KIT day was some training and on the training the instructor said: You could be sitting looking at a piece of paper with a “9” on it, and I could be sat opposite and say “no that’s a 6” and we’d both be right because we just have different perspectives. I was struggling to keep a straight face to the extent that I nearly had to turn my camera off. Really makes u think.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="weaknotes" /><summary type="html">woi oi! This week I was reminded of the acronym from university: BNOC (pronounced be-nock). Big Name On Campus. In case it isn’t obvious, I was not a BNOC. C has a little goofy tooth and so has started biting me. It’s very unpleasant but avoidable if I really pay attention to him while feeding him. We’re selling our house. We’ve had 6 viewings in 3 days and it has been mad stressful keeping the place tidy and getting out of the house for the viewings. I will not be taking further questions at this time. Don’t know if this is a sign of the times or a sign of early onset dementia, but I have been really enjoying “Spin The Wheel”, a celebrity(!) gameshow(!) on Saturday night(!) presented by Michael Mcintyre(!!!). This piece about her mother dying earlier this year by Becky is extremely tender and funny and wonderfully written. My 2.5 year old now comes with an 100% Lice Free Guarantee. I had a Keeping In Touch day on Monday. It was really good. Normally I’d have gone in for this and seen people face to face, but because of… all this I just popped up to the attic and did zoom calls. And occasionally a baby was brought to me for feeding. One of the things on the KIT day was some training and on the training the instructor said: You could be sitting looking at a piece of paper with a “9” on it, and I could be sat opposite and say “no that’s a 6” and we’d both be right because we just have different perspectives. I was struggling to keep a straight face to the extent that I nearly had to turn my camera off. Really makes u think.</summary></entry><entry><title type="html">Week 118: Gay abandon</title><link href="http://localhost:4000/blog/weaknotes-118" rel="alternate" type="text/html" title="Week 118: Gay abandon" /><published>2020-12-05T00:00:00+00:00</published><updated>2020-12-05T00:00:00+00:00</updated><id>http://localhost:4000/blog/weaknotes-118</id><content type="html" xml:base="http://localhost:4000/blog/weaknotes-118">&lt;ul&gt;
+  &lt;li&gt;Hullo.&lt;/li&gt;
+  &lt;li&gt;We’re going to pop in a cheeky two week isolation before Christmas so we can spend the Christmas week with my in-laws, shaking the shit out of each other’s hands, shouting in unventilated spaces until we’re hoarse and breathing in each other’s mouths with gay abandon. Just like baby Jesus would have wanted.&lt;/li&gt;
+  &lt;li&gt;This is possible because I’m on maternity leave anyway so taking my two year old out of nursery is er… easy peasy.&lt;/li&gt;
+  &lt;li&gt;Speaking of nursery. E’s head has become the home to a single mother and about 20 children again because &lt;em&gt;somebody at nursery&lt;/em&gt; did not delouse themselves thoroughly enough.&lt;/li&gt;
+  &lt;li&gt;I know what you’re thinking - just use the shampoo? No my dudes - the shampoo doesn’t work on the eggs! I swear it used to? Like when we were little? Anyway - those were the good old days before smothering our children’s heads in pesticides was considered a bit reckless.&lt;/li&gt;
+  &lt;li&gt;We went to Southend-on-sea today and it was amazing. I ate some fresh hot doughnuts. They were amazing. Hot, pillowy, sugary, perfect.&lt;/li&gt;
+  &lt;li&gt;Back in February E came home with a card that said “Mummy, I love you from the bottom of my heart to the tips of my toes” with a heart made by her footprints. Sweet, you think, but hang on a second - the bottom of her heart to the tips of her toes? That’s like, 2/3rds of her at best? and most of that is either bowels or legs? THINK IT THROUGH PEOPLE. I still think about it.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="weaknotes" /><summary type="html">Hullo. We’re going to pop in a cheeky two week isolation before Christmas so we can spend the Christmas week with my in-laws, shaking the shit out of each other’s hands, shouting in unventilated spaces until we’re hoarse and breathing in each other’s mouths with gay abandon. Just like baby Jesus would have wanted. This is possible because I’m on maternity leave anyway so taking my two year old out of nursery is er… easy peasy. Speaking of nursery. E’s head has become the home to a single mother and about 20 children again because somebody at nursery did not delouse themselves thoroughly enough. I know what you’re thinking - just use the shampoo? No my dudes - the shampoo doesn’t work on the eggs! I swear it used to? Like when we were little? Anyway - those were the good old days before smothering our children’s heads in pesticides was considered a bit reckless. We went to Southend-on-sea today and it was amazing. I ate some fresh hot doughnuts. They were amazing. Hot, pillowy, sugary, perfect. Back in February E came home with a card that said “Mummy, I love you from the bottom of my heart to the tips of my toes” with a heart made by her footprints. Sweet, you think, but hang on a second - the bottom of her heart to the tips of her toes? That’s like, 2/3rds of her at best? and most of that is either bowels or legs? THINK IT THROUGH PEOPLE. I still think about it.</summary></entry><entry><title type="html">Week 117: Water</title><link href="http://localhost:4000/blog/weaknotes-117" rel="alternate" type="text/html" title="Week 117: Water" /><published>2020-11-29T00:00:00+00:00</published><updated>2020-11-29T00:00:00+00:00</updated><id>http://localhost:4000/blog/weaknotes-117</id><content type="html" xml:base="http://localhost:4000/blog/weaknotes-117">&lt;ul&gt;
+  &lt;li&gt;Stressful week. Trying to remember to drink enough water.&lt;/li&gt;
+  &lt;li&gt;Drinking water, like brushing my teeth very throughly, it is something that calms me down because it is good for me and it doesn’t rub up against any of my ongoing low-level worries - the environment, my health and money. But also, every cell of my human-baby-son must pass through my body first. This chonky boy drinks a lot of milk so I have to produce a lot. Water is the main component of breast milk so I’ve got to drink enough for two.&lt;/li&gt;
+  &lt;li&gt;Also did you know that production of breastmilk has been shown to leech calcium from a mother’s bones, if they were not consuming enough. That’s how serious my body is taking feeding this baby.&lt;/li&gt;
+  &lt;li&gt;Did you know there is a reddit for people who love drinking water. It’s just relatable memes of TFW you wake up in the middle of the night very thirsty and then have a nice glass of water. &lt;a href=&quot;https://www.reddit.com/r/HydroHomies/&quot;&gt;Hydro homies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="weaknotes" /><summary type="html">Stressful week. Trying to remember to drink enough water. Drinking water, like brushing my teeth very throughly, it is something that calms me down because it is good for me and it doesn’t rub up against any of my ongoing low-level worries - the environment, my health and money. But also, every cell of my human-baby-son must pass through my body first. This chonky boy drinks a lot of milk so I have to produce a lot. Water is the main component of breast milk so I’ve got to drink enough for two. Also did you know that production of breastmilk has been shown to leech calcium from a mother’s bones, if they were not consuming enough. That’s how serious my body is taking feeding this baby. Did you know there is a reddit for people who love drinking water. It’s just relatable memes of TFW you wake up in the middle of the night very thirsty and then have a nice glass of water. Hydro homies</summary></entry><entry><title type="html">Week 116: Lefty</title><link href="http://localhost:4000/blog/weaknotes-116" rel="alternate" type="text/html" title="Week 116: Lefty" /><published>2020-11-21T00:00:00+00:00</published><updated>2020-11-21T00:00:00+00:00</updated><id>http://localhost:4000/blog/weaknotes-116</id><content type="html" xml:base="http://localhost:4000/blog/weaknotes-116">&lt;ul&gt;
+  &lt;li&gt;It is a small source of pride that I have a left-handed child. All the left-handed people I can think of are geniuses, so I think the writing is on the wall (albeit a bit smudged).&lt;/li&gt;
+  &lt;li&gt;Really pleased with that joke, could just stop there to be honest.&lt;/li&gt;
+  &lt;li&gt;More often than not lefty sleeps with a pair of trousers on her head. She also sleeps on the floor not in her bed. That’s some genius isht right there, no?&lt;/li&gt;
+  &lt;li&gt;Weeks of picking up mouse poo every damn morning, this week we murdered our first mouse.&lt;/li&gt;
+  &lt;li&gt;I attended some work meetings this week. I logged in to my work email because I needed to ask for my P60, and then one thing led to another… At the time I justified it by saying “I’m going to take a KIT day in a few weeks, so I should be up to speed on some stuff before then”. But of course what was really happening was I was interested and lacked the self discipline to keep a boundary between maternity leave time and work. The problem with doing this is it creates the illusion of me being available when in reality I’m not. &lt;em&gt;Anyway&lt;/em&gt; I have now signed back out of gmail and &lt;em&gt;will not be signing back in&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;So back to singing Moon River to baby C while he goes HAM in his bouncer.&lt;/li&gt;
+  &lt;li&gt;In one of the work meetings I attended someone was smoking a cigarette on the call. Is… that… OK? You’re in your own home so it’s not a problem for others. And yet they were clearly trying to hide it… and it did feel to me very much like the actions of someone who had zero shits left to give. Basically - the question for Ask A Manager is “Now we’re all working from home, is it unprofessional to smoke during meetings”&lt;/li&gt;
+  &lt;li&gt;I made some Christmas decorations with E a few weeks ago, this week I jiffy bagged them and set off to post them to four friends and relatives. On the way to the post box I put some clothes in the clothes bank. When I arrived at the post box two of the sets of decorations were missing. I don’t even know which two because I posted the two that were there before realising I had lost half the cargo. I retraced my steps but didn’t find anything. So - maybe someone found them and posted them, maybe someone found them and threw them in the bin, maybe I put them in the clothes bank. I’ll keep you all updated. [Update: Both sets of grandparents have received their decorations]&lt;/li&gt;
+  &lt;li&gt;Last week I was so anxious that I wrote (but then deleted because it was too boring): “Can’t tell if everything is awful or I’m just about to get my period back”. Anyway this week, much to my surprise I did indeed have a very small period. The first in about a year. Pretty satisfied that I managed to identify the source of that tightness in the chest despite it being so long.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="weaknotes" /><summary type="html">It is a small source of pride that I have a left-handed child. All the left-handed people I can think of are geniuses, so I think the writing is on the wall (albeit a bit smudged). Really pleased with that joke, could just stop there to be honest. More often than not lefty sleeps with a pair of trousers on her head. She also sleeps on the floor not in her bed. That’s some genius isht right there, no? Weeks of picking up mouse poo every damn morning, this week we murdered our first mouse. I attended some work meetings this week. I logged in to my work email because I needed to ask for my P60, and then one thing led to another… At the time I justified it by saying “I’m going to take a KIT day in a few weeks, so I should be up to speed on some stuff before then”. But of course what was really happening was I was interested and lacked the self discipline to keep a boundary between maternity leave time and work. The problem with doing this is it creates the illusion of me being available when in reality I’m not. Anyway I have now signed back out of gmail and will not be signing back in. So back to singing Moon River to baby C while he goes HAM in his bouncer. In one of the work meetings I attended someone was smoking a cigarette on the call. Is… that… OK? You’re in your own home so it’s not a problem for others. And yet they were clearly trying to hide it… and it did feel to me very much like the actions of someone who had zero shits left to give. Basically - the question for Ask A Manager is “Now we’re all working from home, is it unprofessional to smoke during meetings” I made some Christmas decorations with E a few weeks ago, this week I jiffy bagged them and set off to post them to four friends and relatives. On the way to the post box I put some clothes in the clothes bank. When I arrived at the post box two of the sets of decorations were missing. I don’t even know which two because I posted the two that were there before realising I had lost half the cargo. I retraced my steps but didn’t find anything. So - maybe someone found them and posted them, maybe someone found them and threw them in the bin, maybe I put them in the clothes bank. I’ll keep you all updated. [Update: Both sets of grandparents have received their decorations] Last week I was so anxious that I wrote (but then deleted because it was too boring): “Can’t tell if everything is awful or I’m just about to get my period back”. Anyway this week, much to my surprise I did indeed have a very small period. The first in about a year. Pretty satisfied that I managed to identify the source of that tightness in the chest despite it being so long.</summary></entry></feed>
