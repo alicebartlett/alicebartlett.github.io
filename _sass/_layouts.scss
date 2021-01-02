@@ -1,7 +1,7 @@
 
 header {
   padding: $gutter $gutter/3 $gutter*2;
-  background-color: white;
+  background-color: $white;
   .with-header-image & {
     display: none;
   }

@@ -19,9 +19,6 @@ layout: home
               <time>{{ post.date | date: "%-d %b %Y" }}</time>
             </div>
             <div class="post-metadata">
-              {% if post.categories[0] == "sewing" or post.categories[0] == "weaknotes" %}
-                <span class="category">{{post.categories[0]}}</span>
-              {% endif %}
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </div>
           </li>

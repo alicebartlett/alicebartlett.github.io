@@ -12,13 +12,17 @@ layout: default
         <div class='section'>
           <div class='post-meta {% if page.headerimage %} with-header-image {% endif %}'>
             <h1>{{ page.title }}</h1>
-            <span class='post-date'>{{ page.date | date: "%b %-d, %Y" }}</post-span>
+            <span class='post-date'>{{ page.date | date: "%b %-d, %Y" }}</span>
           </div>
           {{ content }}
         </div>
       </div>
     </div>
-    <p class="rss-subscribe">Did you like this? Are you still using RSS? Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">here!</a></p>
+  </div>
+  <div class="rss-subscribe">
+    <div class="inner">
+      <p class="rss-subscribe">Did you like this? Are you still using RSS? Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">here!</a></p>
+    </div>
   </div>
   <div class='blog-nav'>
     <div class='inner'>
