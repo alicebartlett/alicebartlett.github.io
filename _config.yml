@@ -12,6 +12,9 @@ markdown: kramdown
 
 permalink: /blog/:title
 
+plugins:
+  - jekyll-feed
+
 feed:
   categories:
     - sewing
