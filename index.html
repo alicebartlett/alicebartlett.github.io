@@ -14,7 +14,7 @@ layout: home
         <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
         <ul class="date-list">
-          {% for post in site.posts limit: 15 %}
+          {% for post in site.posts limit: 5 %}
           <li>
             <div class='post-date'>
               <time>{{ post.date | date: "%-d %b %Y" }}</time>
@@ -30,7 +30,7 @@ layout: home
       <div class='section'>
       <h2>Talks</h2>
         <ul class='date-list'>
-          {% for talk in site.data.talks limit: 10%}
+          {% for talk in site.data.talks limit: 5%}
             <li>
               <div class='post-date'>
                 <time>{{ talk["event_date"] }}</time>
