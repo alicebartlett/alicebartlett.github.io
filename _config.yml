@@ -13,7 +13,7 @@ markdown: kramdown
 permalink: /blog/:title
 
 feed:
-  category:
+  categories:
     - sewing
     - weaknotes
     - yearnotes
