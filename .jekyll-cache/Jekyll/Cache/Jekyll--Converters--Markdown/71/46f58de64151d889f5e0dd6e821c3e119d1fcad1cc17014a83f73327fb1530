@@ -1,0 +1,11 @@
+I"�<ul>
+  <li>Uh, so satisfying being able to type <code class="language-plaintext highlighter-rouge">make-week</code> and just know that my very clever bash script will calculate the date of next Saturday and populate the front matter for my weaknotes. This has given me an idea for automating my post titles too… [some typing later] … OK well if I want to know the least popular word in every weaknote was I’ve now got a script for that… I could write a commit hook that creates the title every time I commit the weaknote. Would that be good? They’d probably be a bit rubbish. Can you tell I’m procrastinating from writing a conference talk?</li>
+  <li>What if I just wrote a commit hook at appended “This week’s least popular word was <em>whatever</em>” to the end of the weaknote. Would that be fun. That might be fun. SHUT UP AND WRITE YOUR TALK ABSTRACT AB.</li>
+  <li>I went to the Alresford watercress festival last weekend. It was good - there were lots of dogs for E to look at and she was just incredibly happy to be there which was nice.</li>
+  <li>In Alresford I also saw a set of quadruplets, so that’s something.</li>
+  <li>I just trod in a lot of dog poo. I was thinking about how dog poo is disgusting, but why is that? It’s made up of the same atoms that everything else is made up of, including me, so in some ways aren’t we all dog poo?</li>
+  <li>More typing happened and now I have some sentiment analysis which generates an emoji with the same sentiment. I’ve looked at the sentiment analysis algorithm and it is… not very smart.</li>
+  <li>This week’s emoji is 😱</li>
+  <li>This week’s least popular word is “automating”</li>
+</ul>
+:ET
