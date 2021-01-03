@@ -3,6 +3,7 @@ layout: post
 title:  "White Archer"
 date:   2014-01-12 00:00:00
 category: sewing
+tags: ["tops", "cloth house", "grainline studio"]
 ---
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
 

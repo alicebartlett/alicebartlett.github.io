@@ -4,6 +4,7 @@ title:  "Chroma key cigarette pants"
 date:   2019-03-03 21:57:00
 category: sewing
 headerimage: assets/img/sewing/chroma-key-trousers-4.jpg
+tags: ["fabric godmother", "sew over it", "trousers"]
 ---
 
 A few weeks ago I did the [cigarette pants class](https://sewoverit.co.uk/cigarette-pants/) at Sew Over It.

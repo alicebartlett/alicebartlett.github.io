@@ -3,6 +3,8 @@ layout: post
 title:  "Kindle case"
 date:   2014-08-25 00:00:00
 category: sewing
+tags: ["not clothes", "african wax print"]
+
 ---
 
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._

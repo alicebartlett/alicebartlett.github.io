@@ -3,6 +3,8 @@ layout: post
 title:  "Very Easy Very Vogue 7074"
 date:   2014-05-18 00:00:00
 category: sewing
+tags: ["african wax print", "trousers"]
+
 ---
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
 

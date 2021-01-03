@@ -4,6 +4,7 @@ title: "Tencel florence"
 date: 2020-12-20
 category: sewing
 headerimage: assets/img/sewing/florence/florence.header.jpg
+tags: ["merchant and mills", "florence", "tops"]
 ---
 
 Back in March before... all this... I went to Rye with Nat. It was a lovely day. I was 5 months pregnant and we mostly went to the Merchant and Mills shop and tried to work out how long we could leave it between eating things.

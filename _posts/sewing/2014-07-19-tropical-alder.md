@@ -3,6 +3,8 @@ layout: post
 title:  "Tropical Alder"
 date:   2014-07-19 00:00:00
 category: sewing
+tags: ["grainline", "alder", "dresses"]
+
 ---
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
 

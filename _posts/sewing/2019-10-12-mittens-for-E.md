@@ -4,6 +4,8 @@ title: "Mittens for E"
 date: 2019-10-12
 category: sewing
 headerimage: assets/img/sewing/baby-mitten.5.jpg
+tags: ["knitting", "mittens", "babies"]
+
 ---
 
 Following on from the mittens I made for myself, I made some for E. It remains to be seen how much she'll wear them but so far she is a big fan of taking them on and off.

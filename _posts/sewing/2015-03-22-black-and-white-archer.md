@@ -3,6 +3,8 @@ layout: post
 title:  "Black and white chambray archer"
 date:   2015-03-22 00:00:00
 category: sewing
+tags: ["grainline", "tops", "ray stitch"]
+
 ---
 
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._

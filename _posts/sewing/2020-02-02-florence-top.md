@@ -4,6 +4,8 @@ title: "Florence top"
 date: 2020-02-02
 category: sewing
 headerimage: assets/img/sewing/florence.header.jpg
+tags: ["florence", "merchant and mills", "tops"]
+
 ---
 
 ![Me wearing Florence top - side view](/assets/img/sewing/florence.3.jpg)

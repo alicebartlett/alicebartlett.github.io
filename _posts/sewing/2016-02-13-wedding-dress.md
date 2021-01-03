@@ -3,6 +3,8 @@ layout: post
 title:  "Wedding Camber Dress"
 date:   2016-02-13 00:00:00
 category: sewing
+tags: ["fabric godmother", "dresses", "merchant and mills"]
+
 ---
 
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._

@@ -3,6 +3,8 @@ layout: post
 title:  "Brown Archer"
 date:   2014-05-12 00:00:00
 category: sewing
+tags: ["grainline", "tops", "archer", "ray stitch"]
+
 ---
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
 

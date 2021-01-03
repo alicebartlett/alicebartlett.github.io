@@ -3,6 +3,8 @@ layout: post
 title:  "Black and white scout"
 date:   2014-02-16 00:00:00
 category: sewing
+tags: ["grainline", "tops", "scout"]
+
 ---
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
 

@@ -4,6 +4,7 @@ title:  "BurdaStyle quilted baby coat"
 date:   2017-04-17 00:00:00
 category: sewing
 headerimage: assets/img/sewing/burdastyle-1.3.jpg
+tags: ["burda style", "coats", "ray stitch", "macculoch and wallis", "babies"]
 ---
 
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
