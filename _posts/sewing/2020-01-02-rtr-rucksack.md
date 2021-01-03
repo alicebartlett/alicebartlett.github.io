@@ -4,7 +4,7 @@ title: "The Right To Roam rucksack"
 date: 2020-01-12
 category: sewing
 headerimage: assets/img/sewing/bag.header.jpg
-tags: ["merchant and mills", "bag"]
+tags: ["merchant and mills", "bag", "not clothes"]
 
 ---
 
