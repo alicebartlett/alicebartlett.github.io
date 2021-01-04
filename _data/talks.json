@@ -2,7 +2,7 @@
   {
     "event_title":"FFConf 2019",
     "event_url":"https://2019.ffconf.org/",
-    "event_date":"09 Nov 2019",
+    "event_date":"9 Nov 2019",
     "talk_title":"Getting more from Git",
     "slides_url":"https://speakerdeck.com/alicebartlett/getting-more-from-git",
     "video_url":"https://www.youtube.com/watch?v=FQ4IdcrOUz0"
@@ -39,13 +39,13 @@
   {
     "event_title":"Design Exchange Nottingham",
     "event_url":"http://dxnevent.com/",
-    "event_date":"09 Nov 2016",
+    "event_date":"9 Nov 2016",
     "talk_title":"Can't you make it more like Bootstrap?"
   },
   {
     "event_title":"UX Brighton",
     "event_url":"http://uxbrighton.org.uk/",
-    "event_date":"04 Nov 2016",
+    "event_date":"4 Nov 2016",
     "talk_title":"Git for Humans",
     "slides_url":"https://speakerdeck.com/alicebartlett/git-for-humans",
     "video_url":"https://www.youtube.com/watch?time_continue=3&v=eWxxfttcMts"
@@ -53,7 +53,7 @@
   {
     "event_title":"Cascadia 2016",
     "event_url":"http://2016.cascadiafest.org/",
-    "event_date":"03 Aug 2016",
+    "event_date":"3 Aug 2016",
     "talk_title":"Can't you make it more like Bootstrap?",
     "slides_url":"https://speakerdeck.com/alicebartlett/cant-you-make-it-more-like-bootstrap-cascadia-conf",
     "video_url":"https://www.youtube.com/watch?v=LAVNOQroZYA"
@@ -62,7 +62,7 @@
   {
     "event_title":"MK Geek Night",
     "event_url":"https://mkgeeknight.co.uk/",
-    "event_date":"09 Jun 2016",
+    "event_date":"9 Jun 2016",
     "talk_title":"Can't you make it more like Bootstrap?"
   },
   {
@@ -95,7 +95,7 @@
   {
     "event_title":"Fronteers 2015",
     "event_url":"https://fronteers.nl/congres/2015",
-    "event_date":"08 Oct 2015",
+    "event_date":"8 Oct 2015",
     "talk_title":"What is the business case for accessibility?",
     "video_url":"https://fronteers.nl/congres/2015/sessions/what-is-the-business-case-for-accessibility-alice-bartlett"
   },
@@ -134,7 +134,7 @@
   {
     "event_title":"jQuery UK 2015",
     "event_url":"http://jqueryuk.com/2015/",
-    "event_date":"06 Mar 2015",
+    "event_date":"6 Mar 2015",
     "talk_title":"Dump your select tags",
     "slides_url":"https://speakerdeck.com/alicebartlett/burn-your-selects",
     "video_url":"http://jqueryuk.com/2015/videos.php?s=bin-your-"
@@ -148,7 +148,7 @@
   {
     "event_title":"Epic FEL",
     "event_url":"http://epic.frontendlondon.co.uk/",
-    "event_date":"04 Oct 2014",
+    "event_date":"4 Oct 2014",
     "talk_title":"Dump your select tags",
     "video_url":"https://www.youtube.com/watch?v=CUkMCQR4TpY"
   },
@@ -198,12 +198,11 @@
     "event_url":"http://www.eventbrite.com/e/recombine-dinners-tickets-6899076323",
     "event_date":"18 Jul 2013",
     "talk_title":"Three people it's lucky I met."
-
   },
   {
     "event_title":"HowTheLightsGetIn 2013",
     "event_url":"http://howthelightgetsin.org/",
-    "event_date":"02 Jun 2013",
+    "event_date":"2 Jun 2013",
     "talk_description":"Panel: Luddites and Fools",
     "video_url":"http://iai.tv/video/luddites-and-fools"
   },
