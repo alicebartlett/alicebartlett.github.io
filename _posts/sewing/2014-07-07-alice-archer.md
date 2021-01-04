@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Archer for Alice"
+title:  "Archer For Alice"
 date:   2014-07-07 00:00:00
 category: sewing
 tags: ["grainline", "tops", "cloth house"]
+thumbnail: assets/img/sewing/alice/thumb.jpg
+
 ---
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
 
@@ -17,5 +19,5 @@ Pattern: This is my third [Archer](https://grainlinestudio.com/shop/women/archer
 
 Fabric: Alice chose this fabric, we bought it on a joint shopping trip to Cloth House on Berwick St. The Buttons are also from Cloth House. The fabric was really easy to work with, and I even french seamed the whole thing so there are no bare fraying edges.
 
-![Alice in her Archer](/assets/img/sewing/alice.1.jpg)
-![Alice in her Archer 2](/assets/img/sewing/alice.2.jpg)
+![Alice in her Archer](/assets/img/sewing/alice/alice.1.jpg)
+![Alice in her Archer 2](/assets/img/sewing/alice/alice.2.jpg)

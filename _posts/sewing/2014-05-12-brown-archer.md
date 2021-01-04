@@ -4,6 +4,7 @@ title:  "Brown Archer"
 date:   2014-05-12 00:00:00
 category: sewing
 tags: ["grainline", "tops", "archer", "ray stitch"]
+thumbnail: assets/img/sewing/brown_archer/thumb.jpg
 
 ---
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
@@ -14,6 +15,6 @@ Fabric: [http://www.raystitch.co.uk/fabric/heavier-weight-fabrics-wool-canvas-ve
 
 Pattern: [https://grainlinestudio.com/shop/women/archer-button-up-shirt-pdf/](https://grainlinestudio.com/shop/women/archer-button-up-shirt-pdf/). Even though I had already made this pattern I still went right back to the sew along (https://grainlinestudio.com/archer-sewalong/)
 
-![Brown Archer 1](/assets/img/sewing/brown-archer.1.jpg)
-![Brown Archer 2](/assets/img/sewing/brown-archer.2.jpg)
-![Brown Archer 3](/assets/img/sewing/brown-archer.3.jpg)
+![Brown Archer 1](/assets/img/sewing/brown_archer/brown-archer.1.jpg)
+![Brown Archer 2](/assets/img/sewing/brown_archer/brown-archer.2.jpg)
+![Brown Archer 3](/assets/img/sewing/brown_archer/brown-archer.3.jpg)

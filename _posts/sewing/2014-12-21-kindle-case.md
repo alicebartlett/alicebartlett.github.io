@@ -3,8 +3,9 @@ layout: post
 title:  "Quilted Kindle Case"
 date:   2014-12-21 00:00:00
 category: sewing
-headerimage: assets/img/sewing/kindle2.3.jpg
-tags: ["not clothes", "liberty"]
+headerimage: assets/img/sewing/kindle-2/kindle2.3.jpg
+tags: ["not clothes", "liberty", "kindle"]
+thumbnail: assets/img/sewing/kindle-2/thumb.jpg
 
 ---
 
@@ -20,8 +21,8 @@ The exterior is made from old quilting scraps from a quilt I still haven’t fin
 
 I’m so pleased with the end result. Thank you Hannah and Liberty for the fabric!
 
-![Kindle 1](/assets/img/sewing/kindle2.1.jpg)
-![Kindle 2](/assets/img/sewing/kindle2.2.jpg)
-![Kindle 3](/assets/img/sewing/kindle2.3.jpg)
-![Kindle 4](/assets/img/sewing/kindle2.4.jpg)
-![Kindle 5](/assets/img/sewing/kindle2.5.jpg)
+![Kindle 1](/assets/img/sewing/kindle-2/kindle2.1.jpg)
+![Kindle 2](/assets/img/sewing/kindle-2/kindle2.2.jpg)
+![Kindle 3](/assets/img/sewing/kindle-2/kindle2.3.jpg)
+![Kindle 4](/assets/img/sewing/kindle-2/kindle2.4.jpg)
+![Kindle 5](/assets/img/sewing/kindle-2/kindle2.5.jpg)

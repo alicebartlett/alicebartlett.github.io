@@ -85,6 +85,11 @@ img {
     float: left;
     clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
     background-color: $yellow;
+    @include media(mobile) {
+      width:100%;
+      clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+
+    }
   }
   .post-title, .post-date, .post-tags {
     width: 80%;

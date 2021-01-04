@@ -4,6 +4,7 @@ title:  "Very Easy Very Vogue 7074"
 date:   2014-05-18 00:00:00
 category: sewing
 tags: ["african wax print", "trousers"]
+thumbnail: assets/img/sewing/very_easy_very_vogue/thumb.jpg
 
 ---
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
@@ -16,5 +17,5 @@ Fabric: I bought this from Goldhawk road, I can’t even remember which shop, ex
 
 Pattern: If you search for Very Easy Very Vogue 7074 you will be able to find this to buy “vintage”. I got it from my mum’s sewing box which is why it looks so 80’s. Did you know shorts are just hacked off trousers? Anyway, I made the trouser pattern in a 14 and then cut the trouser legs off at a length I liked.
 
-![Very Easy Very Vogue 7074](/assets/img/sewing/very-easy-very-vogue.1.jpg)
-![Very Easy Very Vogue 7074](/assets/img/sewing/very-easy-very-vogue.2.jpg)
+![Very Easy Very Vogue 7074](/assets/img/sewing/very_easy_very_vogue/very-easy-very-vogue.1.jpg)
+![Very Easy Very Vogue 7074](/assets/img/sewing/very_easy_very_vogue/very-easy-very-vogue.2.jpg)

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Kindle case"
+title:  "Kindle Case"
 date:   2014-08-25 00:00:00
 category: sewing
-tags: ["not clothes", "african wax print"]
+tags: ["not clothes", "african wax print", "kindle"]
+thumbnail: assets/img/sewing/kindle-1/thumb.jpg
 
 ---
 
@@ -15,6 +16,6 @@ Anyway, in order to cheer me the hell up, I made a quilted kindle case out of sc
 
 I love quilted things. When you make a quilt you take three materials and turn them into a single new type of material, with new qualities to work with. It’s really satisfying.
 
-![Kindle 1](/assets/img/sewing/kindle1.1.jpg)
-![Kindle 2](/assets/img/sewing/kindle1.2.jpg)
-![Kindle 3](/assets/img/sewing/kindle1.3.jpg)
+![Kindle 1](/assets/img/sewing/kindle-1/kindle1.1.jpg)
+![Kindle 2](/assets/img/sewing/kindle-1/kindle1.2.jpg)
+![Kindle 3](/assets/img/sewing/kindle-1/kindle1.3.jpg)

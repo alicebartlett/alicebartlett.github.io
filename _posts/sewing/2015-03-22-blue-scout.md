@@ -3,8 +3,9 @@ layout: post
 title:  "Cyan Swing Scout"
 date:   2015-03-22 00:00:00
 category: sewing
-headerimage: assets/img/sewing/blue-scout.1.jpg
-tags: ["grainline", "tops", "ray stitch"]
+headerimage: assets/img/sewing/blue-scout/blue-scout.1.jpg
+tags: ["grainline", "tops", "ray stitch", "scout"]
+thumbnail: assets/img/sewing/blue-scout/thumb.jpg
 
 ---
 
@@ -20,6 +21,6 @@ I also embroidered some goo coming out of the pocket. I wish the goo was a littl
 
 For christmas Lachie bought me an introduction to embroidery class from http://raystitch.co.uk/classes.html, it was really fun, mostly because I got to hang out with a bunch of women who all like sewing
 
-![Scout 1](/assets/img/sewing/blue-scout.1.jpg)
-![Scout 2](/assets/img/sewing/blue-scout.2.jpg)
-![Scout 3](/assets/img/sewing/blue-scout.3.jpg)
+![Scout 1](/assets/img/sewing/blue-scout/blue-scout.1.jpg)
+![Scout 2](/assets/img/sewing/blue-scout/blue-scout.2.jpg)
+![Scout 3](/assets/img/sewing/blue-scout/blue-scout.3.jpg)

@@ -3,8 +3,9 @@ layout: post
 title:  "Simple Sews Classic Trouser"
 date:   2015-03-22 00:00:00
 category: sewing
-headerimage: assets/img/sewing/tropical-trews.1.jpg
+headerimage: assets/img/sewing/tropical-trews/tropical-trews.1.jpg
 tags: ["simple sews", "minerva crafts", "trousers"]
+thumbnail: assets/img/sewing/tropical-trews/thumb.jpg
 
 ---
 
@@ -27,6 +28,6 @@ The fabric is from Minerva Crafts, and I bought it at the same time as the tropi
 Though these trousers fit me pretty well, the crazy print is distracting from a few fit problems in the crotch area (there appears to be some excess fabric), which would be much more noticeable in a plain fabric. Not every day is a jazzy-pant day, so I’m probably going to do some iterating on the fit of these for the next pair of trousers I make.
 
 
-![Tropical trews 1](/assets/img/sewing/tropical-trews.1.jpg)
-![Tropical trews 2](/assets/img/sewing/tropical-trews.2.jpg)
-![Tropical trews 3](/assets/img/sewing/tropical-trews.3.jpg)
+![Tropical trews 1](/assets/img/sewing/tropical-trews/tropical-trews.1.jpg)
+![Tropical trews 2](/assets/img/sewing/tropical-trews/tropical-trews.2.jpg)
+![Tropical trews 3](/assets/img/sewing/tropical-trews/tropical-trews.3.jpg)

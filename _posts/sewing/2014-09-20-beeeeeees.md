@@ -3,8 +3,9 @@ layout: post
 title:  "Bee print Archer"
 date:   2014-09-25 00:00:00
 category: sewing
-headerimage: assets/img/sewing/bees.2.jpg
+headerimage: assets/img/sewing//bees/bees.2.jpg
 tags: ["grainline", "tops", "mcculloch and wallis"]
+thumbnail: assets/img/sewing/bees/thumb.jpg
 
 ---
 
@@ -16,6 +17,6 @@ For my good friend Helen’s birthday I made her a shirt. It’s an Archer, of c
 
 Helen chose the bee print while she was in London and I think it is SO CUTE. The fabric is from McCulloch and Wallis.
 
-![Beeeees!](/assets/img/sewing/bees.1.jpg)
-![Beeeees!](/assets/img/sewing/bees.2.jpg)
-![Beeeees!](/assets/img/sewing/bees.3.jpg)
+![Beeeees!](/assets/img/sewing/bees/bees.1.jpg)
+![Beeeees!](/assets/img/sewing/bees/bees.2.jpg)
+![Beeeees!](/assets/img/sewing/bees/bees.3.jpg)

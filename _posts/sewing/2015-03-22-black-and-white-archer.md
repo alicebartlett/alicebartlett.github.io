@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Black and white chambray archer"
+title:  "Black and White Chambray Archer"
 date:   2015-03-22 00:00:00
 category: sewing
-tags: ["grainline", "tops", "ray stitch"]
+tags: ["grainline", "tops", "ray stitch", "archer"]
+thumbnail: assets/img/sewing/bw-archer/thumb.jpg
 
 ---
 
@@ -24,8 +25,8 @@ Little “blog” gang sign there for everyone reading this in 2005.
 The fabric is from http://raystitch.co.uk/. The buttons are from Kleins in Soho. The pattern is “Archer” from http://shop.grainlinestudio.com/products/archer-button-up-shirt. This is the 5th Archer I’ve made, but the third that’s for me.
 
 
-![Kindle 1](/assets/img/sewing/bw-archer.1.jpg)
-![Kindle 2](/assets/img/sewing/bw-archer.2.jpg)
-![Kindle 3](/assets/img/sewing/bw-archer.3.jpg)
-![Kindle 4](/assets/img/sewing/bw-archer.4.jpg)
-![Kindle 5](/assets/img/sewing/bw-archer.5.jpg)
+![Kindle 1](/assets/img/sewing/bw-archer/bw-archer.1.jpg)
+![Kindle 2](/assets/img/sewing/bw-archer/bw-archer.2.jpg)
+![Kindle 3](/assets/img/sewing/bw-archer/bw-archer.3.jpg)
+![Kindle 4](/assets/img/sewing/bw-archer/bw-archer.4.jpg)
+![Kindle 5](/assets/img/sewing/bw-archer/bw-archer.5.jpg)
