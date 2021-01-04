@@ -40,6 +40,9 @@ a {
     content: '☜ ';
     color: darken($link, 15%);
   }
+  @include media(mobile) {
+    font-size: 13px;
+  }
 }
 
 
@@ -86,20 +89,25 @@ img {
     clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
     background-color: $yellow;
     @include media(mobile) {
-      width:100%;
-      clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
-
+      width: 30%;
     }
   }
   .post-title, .post-date, .post-tags {
     width: 80%;
     display: inline-block;
+    @include media(mobile) {
+      width: 60%;
+    }
   }
 
   .post-title {
     font-family: 'Roboto Slab';
     font-size: $base-font-size*1.5;
     margin-bottom: 7px;
+    @include media(mobile) {
+      font-size: $base-font-size;
+      line-height: 1.1em;
+    }
   }
 }
 
