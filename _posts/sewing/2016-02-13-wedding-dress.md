@@ -4,6 +4,7 @@ title:  "Wedding Camber Dress"
 date:   2016-02-13 00:00:00
 category: sewing
 tags: ["fabric godmother", "dresses", "merchant and mills"]
+thumbnail: assets/img/sewing/wedding_dress/thumb.jpg
 
 ---
 
@@ -21,7 +22,7 @@ I love the camber neck-line so much but it doesn’t work for me without alterat
 
 Anyway! There we go, a wedding dress.
 
-![Wedding camber](/assets/img/sewing/wedding.1.jpg)
-![Wedding camber](/assets/img/sewing/wedding.2.jpg)
-![Wedding camber](/assets/img/sewing/wedding.3.jpg)
-![Wedding camber](/assets/img/sewing/wedding.4.jpg)
+![Wedding camber](/assets/img/sewing/wedding_dress/wedding.1.jpg)
+![Wedding camber](/assets/img/sewing/wedding_dress/wedding.2.jpg)
+![Wedding camber](/assets/img/sewing/wedding_dress/wedding.3.jpg)
+![Wedding camber](/assets/img/sewing/wedding_dress/wedding.4.jpg)

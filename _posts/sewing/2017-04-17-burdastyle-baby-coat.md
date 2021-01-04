@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "BurdaStyle quilted baby coat"
+title:  "BurdaStyle Quilted Baby Coat"
 date:   2017-04-17 00:00:00
 category: sewing
-headerimage: assets/img/sewing/burdastyle-1.3.jpg
+headerimage: assets/img/sewing/burda-style-baby/burdastyle-1.3.jpg
 tags: ["burda style", "coats", "ray stitch", "macculoch and wallis", "babies"]
+thumbnail: assets/img/sewing//burda-style-baby/thumb.jpg
+
 ---
 
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
@@ -21,7 +23,7 @@ The pattern was very straightforward. The only changes I made were switching out
 
 I’m sure I’ll be making more of these in the future.
 
-![Burda Style](/assets/img/sewing/burdastyle-1.1.jpg)
-![Burda Style](/assets/img/sewing/burdastyle-1.2.jpg)
-![Burda Style](/assets/img/sewing/burdastyle-1.3.jpg)
-![Burda Style](/assets/img/sewing/burdastyle-1.4.jpg)
+![Burda Style](/assets/img/sewing/burda-style-baby/burdastyle-1.1.jpg)
+![Burda Style](/assets/img/sewing/burda-style-baby/burdastyle-1.2.jpg)
+![Burda Style](/assets/img/sewing/burda-style-baby/burdastyle-1.3.jpg)
+![Burda Style](/assets/img/sewing/burda-style-baby/burdastyle-1.4.jpg)

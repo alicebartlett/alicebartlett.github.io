@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Sew Ultimate tropical trousers"
+title:  "Sew Ultimate Tropical Trousers"
 date:   2016-05-16 00:00:00
 category: sewing
-headerimage: assets/img/sewing/tropical-ultimate.2.jpg
+headerimage: assets/img/sewing/tropical-ultimate/tropical-ultimate.2.jpg
 tags: ["sew over it", "trousers"]
+thumbnail: assets/img/sewing/tropical-ultimate/thumb.jpg
 
 ---
 
@@ -20,8 +21,8 @@ I’ll definitely be making more pairs of trousers now. These are made from a me
 
 If you’re thinking of taking a Sew Over It ultimate trouser class, I would definitely recommend it. Everyone in yesterday’s class left with a pair of trousers that looked great on them. 🍑
 
-![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate.1.jpg)
-![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate.2.jpg)
-![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate.3.jpg)
-![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate.4.jpg)
-![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate.5.jpg)
+![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate/tropical-ultimate.1.jpg)
+![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate/tropical-ultimate.2.jpg)
+![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate/tropical-ultimate.3.jpg)
+![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate/tropical-ultimate.4.jpg)
+![tropical ultimate trouser](/assets/img/sewing/tropical-ultimate/tropical-ultimate.5.jpg)

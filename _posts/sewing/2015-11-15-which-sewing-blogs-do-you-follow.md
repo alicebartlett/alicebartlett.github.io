@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "which sewing blogs do you follow?"
+title:  "Which Sewing Blogs Do You Follow?"
 date:   2015-11-15 00:00:00
 category: sewing
 ---

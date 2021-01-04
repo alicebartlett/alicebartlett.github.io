@@ -6,7 +6,7 @@ category: sewing
 headerimage: assets/img/sewing/layette/layette_header.jpg
 image: /assets/img/sewing/layette/jacket.jpg
 tags: ["babies", "cloth house", "merchant and mills", "oliver and s", "lullaby layette"]
-
+thumbnail: assets/img/sewing/layette/thumb.jpg
 ---
 
 The other day I threw some clean clothes on my infant son and thought "god - he looks like he's about to pop to B&Q and then down spoons with his mates to watch the game. He'll stumble in at 4pm scratching his balls and asking what's for dinner before falling into a sweaty sleep on the sofa. I want *my* son to be a poet, or at least an accountant who has read some poetry". Why are all affordable baby clothes so aggressively heteronormative? Anyway. That was the prompt I needed to finish this lullaby layette set which I cut a long time ago but didn't manage to sew up.

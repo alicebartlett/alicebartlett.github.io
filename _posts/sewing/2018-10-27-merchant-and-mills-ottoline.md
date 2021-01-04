@@ -4,6 +4,8 @@ title:  "Merchant and Mills Ottoline"
 date:   2018-10-27 00:00:00
 category: sewing
 tags: ["merchant and mills", "coats"]
+thumbnail: assets/img/sewing/ottoline/thumb.jpg
+
 ---
 _[Note] Hello - this is an old post that I’ve moved over from my Tumblr. I’ve just copied the words and pictures across._
 
@@ -13,5 +15,5 @@ I had a baby back in January and while that was happening there didn’t seem to
 
 Anyway. Things have settled down sufficiently for me to be able to make a jacket with the confidence that it will fit for a while. This is the [Ottoline](https://merchantandmills.com/store/patterns/the-ottoline/) from Merchant and Mills. I made it in their [“Best Navy Twill”](https://merchantandmills.com/store/cloth/best-navy-twill/). It sewed up really quickly and had some nice touches (the side vents in particular were fun to sew and had clear instructions). Sometimes M&M patterns seem to run large, but this is a 12 and it fits me fine.
 
-![Ottoline!](/assets/img/sewing/ottoline.1.jpg)
-![Ottoline!](/assets/img/sewing/ottoline.2.jpg)
+![Ottoline!](/assets/img/sewing/ottoline/ottoline.1.jpg)
+![Ottoline!](/assets/img/sewing/ottoline/ottoline.2.jpg)

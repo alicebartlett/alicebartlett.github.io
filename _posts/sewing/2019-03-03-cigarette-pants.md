@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Chroma key cigarette pants"
+title:  "Chroma Key Cigarette Pants"
 date:   2019-03-03 21:57:00
 category: sewing
-headerimage: assets/img/sewing/chroma-key-trousers-4.jpg
+headerimage: assets/img/sewing/chroma-key-trousers/chroma-key-trousers-4.jpg
 tags: ["fabric godmother", "sew over it", "trousers"]
+thumbnail: assets/img/sewing/chroma-key-trousers/thumb.jpg
+
 ---
 
 A few weeks ago I did the [cigarette pants class](https://sewoverit.co.uk/cigarette-pants/) at Sew Over It.
@@ -17,7 +19,7 @@ This crepe has a bit too much drape for these trousers so it was a a fight to ge
 
 Julie Johnson taught the class. She's amazing. Really good at helping with pattern adjustments and knows absolutely loads about sewing. This is the second class I've done with her, she's magic.
 
-![TN31](/assets/img/sewing/chroma-key-trousers-1.jpg)
-![TN31](/assets/img/sewing/chroma-key-trousers-2.jpg)
-![TN31](/assets/img/sewing/chroma-key-trousers-3.jpg)
-![TN31](/assets/img/sewing/chroma-key-trousers-4.jpg)
+![TN31](/assets/img/sewing/chroma-key-trousers/chroma-key-trousers-1.jpg)
+![TN31](/assets/img/sewing/chroma-key-trousers/chroma-key-trousers-2.jpg)
+![TN31](/assets/img/sewing/chroma-key-trousers/chroma-key-trousers-3.jpg)
+![TN31](/assets/img/sewing/chroma-key-trousers/chroma-key-trousers-4.jpg)
