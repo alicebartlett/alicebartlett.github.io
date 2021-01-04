@@ -4,6 +4,8 @@ title:  "Tropical Alder"
 date:   2014-07-19 00:00:00
 category: sewing
 tags: ["grainline", "alder", "dresses"]
+thumbnail: assets/img/sewing/alder/thumb.jpg
+headerimage: assets/img/sewing/alder/header.jpg
 
 ---
 _[Note] Hello - this is an old post that I've moved over from my Tumblr. I've just copied the words and pictures across._
@@ -20,7 +22,8 @@ The buttons are from The Cloth House on Berwick St. They are clearly really chea
 
 I’m very excited to see some other Alder shirt-dresses make it into the wild, I already have my second one planned.
 
-![Alder 1](/assets/img/sewing/alder.1.jpg)
-![Alder 2](/assets/img/sewing/alder.2.jpg)
-![Alder 3](/assets/img/sewing/alder.3.jpg)
-![Alder 4](/assets/img/sewing/alder.4.jpg)
+![Animated GIF of me spinning in my living room](/assets/img/sewing/alder/alder.gif)
+![Front view of me wearing shirtdress](/assets/img/sewing/alder/alder.2.jpg)
+![Side view of me wearing shirtdress](/assets/img/sewing/alder/alder.3.jpg)
+![Back view by Bow Canal](/assets/img/sewing/alder/alder.4.jpg)
+![Me holding a French Stick wearing the Alder](/assets/img/sewing/alder/alder.1.jpg)
