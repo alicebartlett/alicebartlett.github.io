@@ -3,8 +3,9 @@ layout: post
 title:  "White Camber top"
 date:   2015-03-22 00:00:00
 category: sewing
-headerimage: assets/img/sewing/white-camber.6.jpg
+headerimage: assets/img/sewing/white_camber/white-camber.6.jpg
 tags: ["merchant and mills", "tops"]
+thumbnail: assets/img/sewing/white_camber/thumb.jpg
 
 ---
 
@@ -18,9 +19,9 @@ I cut a size 12, which is smaller than I’d normally cut, but Merchant and Mill
 ## Fabric
 The material is this [criss-cross handloom cotton](https://merchantandmills.com/products/cotton/handloom-criss-cross-cotton/), also from Merchant and Mills. I think it’s quite lovely. I’m not normally someone who can wear white without immediately spilling something on myself, so this is a bold and unprecedented sartorial move for me. Yeah you heard me.
 
-![White camber 1](/assets/img/sewing/white-camber.1.jpg)
-![White camber 1](/assets/img/sewing/white-camber.2.jpg)
-![White camber 1](/assets/img/sewing/white-camber.3.jpg)
-![White camber 1](/assets/img/sewing/white-camber.4.jpg)
-![White camber 1](/assets/img/sewing/white-camber.5.jpg)
-![White camber 1](/assets/img/sewing/white-camber.6.jpg)
+![White camber 1](/assets/img/sewing/white_camber/white-camber.1.jpg)
+![White camber 1](/assets/img/sewing/white_camber/white-camber.2.jpg)
+![White camber 1](/assets/img/sewing/white_camber/white-camber.3.jpg)
+![White camber 1](/assets/img/sewing/white_camber/white-camber.4.jpg)
+![White camber 1](/assets/img/sewing/white_camber/white-camber.5.jpg)
+![White camber 1](/assets/img/sewing/white_camber/white-camber.6.jpg)

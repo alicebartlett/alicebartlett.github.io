@@ -10,15 +10,27 @@ title: Sewing posts
       <h1>Sewing posts</h1>
       <div class="section">
         <p>I sew things and then I photograph them and put them here</p>
-        <ul class="date-list">
+        <ul class="date-list image-date-list">
           {% for post in site.categories.sewing %}
           <li>
-            <div class='post-date'>
-              <time>{{ post.date | date: "%-d %b %Y" }}</time>
-            </div>
-            <div class="post-metadata">
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </div>
+            <a class='clickable-list-item' href="{{ post.url | prepend: site.baseurl }}">
+              <div class="post-image" style="background-image: url('{{ site.baseurl }}/{{post.thumbnail}}')"></div>
+
+              <div class="post-title">
+                {{ post.title }}
+              </div>
+
+              <div class='post-date'>
+                <time>{{ post.date | date: "%-d %b %Y" }}</time>
+              </div>
+
+              <div class="post-tags">
+                {% for tag in post.tags %}
+                  {% assign tag_slug = tag | slugify: "raw" %}
+                    <span class="post-tag">#{{ tag }}</span>
+                  {% endfor %}
+              </div>
+            </a>
           </li>
           {% endfor %}
         </ul>

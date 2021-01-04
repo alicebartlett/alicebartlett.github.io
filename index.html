@@ -11,10 +11,13 @@ layout: home
       </div>
       <div class='section'>
         <h2 class='straplined'>Writing</h2>
+        <p>Right now, I'm blogging every week under `weaknotes`. They are where I put things I would have put on Twitter before I stopped writing things on Twitter. You can see my <a href="/blog/weaknotes">weaknotes archive here</a>.</p>
+        <p>I also sew my own clothes. <a href="/blog/sewing">My sewing blog is here</a>.
+        <p>If you want to see a list of every post I've ever written, that's going to take you a while but <a href="/blog/">it's all here</a>.
         <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+        <h3>Ten most recent posts</h3>
         <ul class="date-list">
-          {% for post in site.posts limit: 5 %}
+          {% for post in site.posts limit: 10 %}
           <li>
             <div class='post-date'>
               <time>{{ post.date | date: "%-d %b %Y" }}</time>

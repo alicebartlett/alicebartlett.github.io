@@ -21,3 +21,8 @@ feed:
     - weaknotes
     - yearnotes
     - kitchen-drawer
+
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/
