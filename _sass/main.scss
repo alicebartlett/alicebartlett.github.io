@@ -20,7 +20,7 @@ a {
   color:$link;
   text-decoration:none;
   &:visited {
-    color: darken($link, 15%);
+    color: $link-visited;
   }
   &:hover, &:focus {
     text-decoration:underline;
