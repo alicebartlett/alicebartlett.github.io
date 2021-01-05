@@ -4,7 +4,7 @@ title: "Tencel Florence"
 date: 2020-12-20
 category: sewing
 headerimage: assets/img/sewing/florence/florence.header.jpg
-tags: ["merchant and mills", "florence", "tops"]
+tags: ["merchant-and-mills", "tops"]
 thumbnail: assets/img/sewing/florence/thumb.jpg
 
 ---

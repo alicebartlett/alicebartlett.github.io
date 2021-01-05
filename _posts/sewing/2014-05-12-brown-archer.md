@@ -3,7 +3,7 @@ layout: post
 title:  "Brown Archer"
 date:   2014-05-12 00:00:00
 category: sewing
-tags: ["grainline", "tops", "archer", "ray stitch"]
+tags: ["grainline", "tops"]
 thumbnail: assets/img/sewing/brown_archer/thumb.jpg
 
 ---

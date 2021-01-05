@@ -4,7 +4,7 @@ title: "Tottorri Cross Kalle"
 date: 2019-05-17
 category: sewing
 headerimage: assets/img/sewing/tottori-kalle/tottori-kalle.1.jpg
-tags: ["tops", "merchant and mills", "kalle", "closet core files"]
+tags: ["tops", "closet-core-files"]
 thumbnail: assets/img/sewing/tottori-kalle/thumb.jpg
 
 ---

@@ -4,7 +4,7 @@ title:  "Hot Water Bottle Cover"
 date:   2017-02-26 00:00:00
 category: sewing
 headerimage: assets/img/sewing/hot-water-bottle-cover/hot-water-bottle-cover.1.jpg
-tags: ["embroidery", "not clothes", "yumiko higuich"]
+tags: ["not clothes", "yumiko higuich"]
 thumbnail: assets/img/sewing/hot-water-bottle-cover/thumb.jpg
 
 ---

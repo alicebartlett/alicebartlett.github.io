@@ -4,7 +4,7 @@ title:  "Chroma Key Cigarette Pants"
 date:   2019-03-03 21:57:00
 category: sewing
 headerimage: assets/img/sewing/chroma-key-trousers/chroma-key-trousers-4.jpg
-tags: ["fabric godmother", "sew over it", "trousers"]
+tags: ["sew-over-it", "trousers"]
 thumbnail: assets/img/sewing/chroma-key-trousers/thumb.jpg
 
 ---

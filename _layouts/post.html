@@ -13,6 +13,15 @@ layout: default
           <div class='post-meta {% if page.headerimage %} with-header-image {% endif %}'>
             <h1>{{ page.title }}</h1>
             <span class='post-date'>{{ page.date | date: "%b %-d, %Y" }}</span>
+            {% for tag in page.tags %}
+              {% assign tag_slug = tag | slugify: "raw" %}
+              <a class="tag-link"
+                href={{ site.baseurl | append: "/blog/tags/" | append: tag_slug | append: "/" }}
+                rel="category tag">
+                #{{ tag }}
+              </a>
+            {% endfor %}
+
           </div>
           {{ content }}
         </div>

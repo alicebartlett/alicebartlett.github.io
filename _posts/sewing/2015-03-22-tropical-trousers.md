@@ -4,7 +4,7 @@ title:  "Simple Sews Classic Trouser"
 date:   2015-03-22 00:00:00
 category: sewing
 headerimage: assets/img/sewing/tropical-trews/tropical-trews.1.jpg
-tags: ["simple sews", "minerva crafts", "trousers"]
+tags: ["simple-sews", "trousers"]
 thumbnail: assets/img/sewing/tropical-trews/thumb.jpg
 
 ---

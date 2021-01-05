@@ -3,7 +3,7 @@ layout: post
 title:  "Kindle Case"
 date:   2014-08-25 00:00:00
 category: sewing
-tags: ["not clothes", "african wax print", "kindle"]
+tags: ["not-clothes", "kindle"]
 thumbnail: assets/img/sewing/kindle-1/thumb.jpg
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Wedding Camber Dress"
 date:   2016-02-13 00:00:00
 category: sewing
-tags: ["fabric godmother", "dresses", "merchant and mills"]
+tags: ["dresses", "merchant and mills"]
 thumbnail: assets/img/sewing/wedding_dress/thumb.jpg
 
 ---

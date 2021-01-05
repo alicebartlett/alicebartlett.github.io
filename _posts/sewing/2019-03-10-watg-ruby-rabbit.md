@@ -4,7 +4,7 @@ title:  "Wool and The Gang Ruby Rabbit"
 date:   2019-03-10 20:26:00
 category: sewing
 headerimage: assets/img/sewing/ruby-rabbit/ruby-rabbit-1.jpg
-tags: ["knitting", "wool and the gang", "babies", "crochet", "not clothes"]
+tags: ["knitting", "wool-and-the-gang", "babies", "crochet", "not-clothes"]
 thumbnail: assets/img/sewing/ruby-rabbit/thumb.jpg
 
 ---

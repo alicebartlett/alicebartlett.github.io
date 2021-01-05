@@ -3,7 +3,7 @@ layout: post
 title:  "Black and White Chambray Archer"
 date:   2015-03-22 00:00:00
 category: sewing
-tags: ["grainline", "tops", "ray stitch", "archer"]
+tags: ["grainline", "tops"]
 thumbnail: assets/img/sewing/bw-archer/thumb.jpg
 
 ---

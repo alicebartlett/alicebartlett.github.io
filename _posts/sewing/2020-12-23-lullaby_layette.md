@@ -5,7 +5,7 @@ date: 2020-12-23
 category: sewing
 headerimage: assets/img/sewing/layette/layette_header.jpg
 image: /assets/img/sewing/layette/jacket.jpg
-tags: ["babies", "cloth house", "merchant and mills", "oliver and s", "lullaby layette"]
+tags: ["babies", "oliver-and-s"]
 thumbnail: assets/img/sewing/layette/thumb.jpg
 ---
 

@@ -4,7 +4,7 @@ title:  "White Camber top"
 date:   2015-03-22 00:00:00
 category: sewing
 headerimage: assets/img/sewing/white_camber/white-camber.6.jpg
-tags: ["merchant and mills", "tops"]
+tags: ["merchant-and-mills", "tops"]
 thumbnail: assets/img/sewing/white_camber/thumb.jpg
 
 ---

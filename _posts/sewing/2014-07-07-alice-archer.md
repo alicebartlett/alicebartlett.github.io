@@ -3,7 +3,7 @@ layout: post
 title:  "Archer For Alice"
 date:   2014-07-07 00:00:00
 category: sewing
-tags: ["grainline", "tops", "cloth house"]
+tags: ["grainline", "tops"]
 thumbnail: assets/img/sewing/alice/thumb.jpg
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Tropical Alder"
 date:   2014-07-19 00:00:00
 category: sewing
-tags: ["grainline", "alder", "dresses"]
+tags: ["grainline", "dresses"]
 thumbnail: assets/img/sewing/alder/thumb.jpg
 headerimage: assets/img/sewing/alder/header.jpg
 

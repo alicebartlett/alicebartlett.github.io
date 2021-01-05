@@ -4,7 +4,7 @@ title:  "Quilted Kindle Case"
 date:   2014-12-21 00:00:00
 category: sewing
 headerimage: assets/img/sewing/kindle-2/kindle2.3.jpg
-tags: ["not clothes", "liberty", "kindle"]
+tags: ["not-clothes", "kindle"]
 thumbnail: assets/img/sewing/kindle-2/thumb.jpg
 
 ---

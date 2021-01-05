@@ -4,7 +4,7 @@ title: "Florence Top"
 date: 2020-02-02
 category: sewing
 headerimage: assets/img/sewing/green-florence/florence.header.jpg
-tags: ["florence", "merchant and mills", "tops"]
+tags: ["merchant-and-mills", "tops"]
 thumbnail: assets/img/sewing/green-florence/thumb.jpg
 
 ---

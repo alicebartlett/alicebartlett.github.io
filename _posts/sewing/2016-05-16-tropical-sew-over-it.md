@@ -4,7 +4,7 @@ title:  "Sew Ultimate Tropical Trousers"
 date:   2016-05-16 00:00:00
 category: sewing
 headerimage: assets/img/sewing/tropical-ultimate/tropical-ultimate.2.jpg
-tags: ["sew over it", "trousers"]
+tags: ["sew-over-it", "trousers"]
 thumbnail: assets/img/sewing/tropical-ultimate/thumb.jpg
 
 ---

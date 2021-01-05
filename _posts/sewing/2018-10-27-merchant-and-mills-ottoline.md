@@ -3,7 +3,7 @@ layout: post
 title:  "Merchant and Mills Ottoline"
 date:   2018-10-27 00:00:00
 category: sewing
-tags: ["merchant and mills", "coats"]
+tags: ["merchant-and-mills", "coats"]
 thumbnail: assets/img/sewing/ottoline/thumb.jpg
 
 ---

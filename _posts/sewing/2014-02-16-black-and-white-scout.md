@@ -3,7 +3,7 @@ layout: post
 title:  "Black and White Scout"
 date:   2014-02-16 00:00:00
 category: sewing
-tags: ["grainline", "tops", "scout"]
+tags: ["grainline", "tops"]
 thumbnail: assets/img/sewing/black_and_white_scout/thumb.jpg
 
 ---

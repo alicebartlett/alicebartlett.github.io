@@ -4,7 +4,7 @@ title: "Tottorri Cross Bantam"
 date: 2019-05-17
 category: sewing
 headerimage: assets/img/sewing/tottori-bantam/tottori-bantam.3.JPG
-tags: ["tops", "merchant and mills", "bantam"]
+tags: ["tops", "merchant-and-mills"]
 thumbnail: assets/img/sewing/tottori-bantam/thumb.jpg
 
 ---

@@ -4,7 +4,7 @@ title:  "Cyan Swing Scout"
 date:   2015-03-22 00:00:00
 category: sewing
 headerimage: assets/img/sewing/blue-scout/blue-scout.1.jpg
-tags: ["grainline", "tops", "ray stitch", "scout"]
+tags: ["grainline", "tops"]
 thumbnail: assets/img/sewing/blue-scout/thumb.jpg
 
 ---

@@ -4,7 +4,7 @@ title:  "Bird Shirt"
 date:   2019-03-31 15:01:00
 category: sewing
 headerimage: assets/img/sewing/bird-shirt/bird-shirt-6.jpg
-tags: ["tops", "kalle", "closet core files", "fashion formula"]
+tags: ["tops", "closet-core-files"]
 thumbnail: assets/img/sewing/bird-shirt/thumb.jpg
 
 ---

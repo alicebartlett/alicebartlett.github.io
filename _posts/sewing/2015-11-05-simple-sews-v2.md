@@ -3,7 +3,7 @@ layout: post
 title:  "Simple Sews Classic Trouser v2"
 date:   2015-11-05 00:00:00
 category: sewing
-tags: ["simple sews", "trousers"]
+tags: ["simple-sews", "trousers"]
 thumbnail: assets/img/sewing/simple-sews-v2/thumb.jpg
 
 ---

@@ -4,7 +4,7 @@ title:  "Bee print Archer"
 date:   2014-09-25 00:00:00
 category: sewing
 headerimage: assets/img/sewing//bees/bees.2.jpg
-tags: ["grainline", "tops", "mcculloch and wallis"]
+tags: ["grainline", "tops"]
 thumbnail: assets/img/sewing/bees/thumb.jpg
 
 ---
