@@ -4,7 +4,7 @@ title:  "BurdaStyle Quilted Baby Coat"
 date:   2017-04-17 00:00:00
 category: sewing
 headerimage: assets/img/sewing/burda-style-baby/burdastyle-1.3.jpg
-tags: ["burda-style", "coats", "babies"]
+tags: ["coats", "babies"]
 thumbnail: assets/img/sewing//burda-style-baby/thumb.jpg
 
 ---
