@@ -18,6 +18,12 @@
     }
   }
 
+
+  .section {
+    background-color: $white;
+    padding-right: $gutter;
+  }
+
   h3 {
     padding-top: $gutter*1.5;
     padding-bottom: $gutter*0.5;
