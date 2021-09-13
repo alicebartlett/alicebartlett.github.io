@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eve trousers in Jacob Check"
-date: 2021-09-14
+date: 2021-09-13
 category: sewing
 headerimage: assets/img/sewing/eve-jacob/eve-jacob-header.jpg
 image: /assets/img/sewing/eve-jacob/tippy-toes.jpeg
@@ -27,5 +27,7 @@ The trousers are very comfortable now that I've flat felled the inner leg. That 
 ![Side](/assets/img/sewing/eve-jacob/sassy.jpeg)
 
 This linen is [Jacob's Check](https://merchantandmills.com/store/cloth/sustainable/linen-sustainable/jacobs-check/). When I washed it, it went extremely wibbly-wobbly and to my shame I couldn't be bothered to iron it out so everything is a bit wonky.
+
+I lengthened them by an inch which I'm pleased I did as they'd be a bit small for me otherwise.
 
 I'm going to make a denim pair next probably.
