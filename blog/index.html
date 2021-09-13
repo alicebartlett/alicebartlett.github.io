@@ -17,7 +17,7 @@ title: Blog Posts
           {% for post in site.posts %}
           <li>
             <div class='post-date'>
-              <time>{{ post.date | date: "%-d %B %Y" }}</time>
+              <time>{{ post.date | date: "%-d %b %Y" }}</time>
             </div>
             <div class="post-metadata">
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
