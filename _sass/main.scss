@@ -51,6 +51,10 @@ img {
   margin: 0;
 }
 
+iframe {
+  width: 100%;
+}
+
 .header-title {
   @include media(mobile) {
     font-size: 12px;
