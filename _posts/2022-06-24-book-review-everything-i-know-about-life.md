@@ -5,7 +5,7 @@ date: 2022-XX-XX
 category: [kitchen-drawer]
 ---
 
-My review of Giles' book was _so_ successful that at least one colleague went out and bought it. So let's go round again, this time with Russell's book: Everything I Know about Life I Learned from PowerPoint.
+My [review of Giles' book](/blog/book-review-the-agile-comms-handbook-by-giles-turnbull) was _so_ successful that at least one colleague went out and bought it. So let's go round again, this time with [Russell's book: Everything I Know about Life I Learned from PowerPoint](http://www.russelldavies.com/powerpoint).
 
 ![The subject of this review, Everything I Know about Life I Learned from PowerPoint](/assets/img/powerpoint_review/IMG_6325.jpeg)
 
@@ -18,11 +18,11 @@ The book opens with a demonstration of Russell’s qualification to write this b
 
 > First, almost everyone can be a great presenter. You just need to talk about something you care or know about, and you need to do it to a supportive audience.
  
- Put as much of yourself into your presentation as you can. That’s what connects. That’s why people watch. Otherwise they might as well just read your notes.
+> Put as much of yourself into your presentation as you can. That’s what connects. That’s why people watch. Otherwise they might as well just read your notes.
 
 Now, you may be thinking ‘I don’t think it’s appropriate to put myself into this presentation on our OKR progress for Q3’. Well you’re wrong my love. Of course, the presentation should contain the facts you want me to understand, but I’m only going to understand them if I am paying attention, and I’m more likely to pay attention if you’re being interesting, and you can be interesting by just being you.
 
-Russell also makes a connection between people he has seen be disdainful of powerpoint (civil servants, politicians, journalists, academics) and their strengths (giving speeches and arguing in long form writing). I think this is particularly interesting because I, uh, work with a lot of journalists…
+Russell also makes a connection between people who don't like powerpoint (civil servants, politicians, journalists, academics) and their strengths (giving speeches and arguing in long form writing). I think this is particularly interesting because I, uh, work with a lot of journalists…
 
 > They didn’t understand why people couldn’t just deliver a speech instead, or just write an elegantly crafted paper or article
 
@@ -42,7 +42,7 @@ This section covers how PowerPoint got to be so ubiquitous. It has a review of t
 A slide from an NSA deck leaked by Edward Snowden. The slide shows how US security services had infiltrated big tech networks. At the infiltration point there is an arrow with the label ‘SSL added and removed here! :-)’
 
 ![A slide used in a jury trial, it has the words GUILTY written accross the defendents face. Incredible.](/assets/img/powerpoint_review/IMG_6327.jpeg)
-This is a slide used by the prosecution in a jury trial. The jury declared a guilty verdict that was later overturned because the slide was found to be ‘a calculated device employed by the prosecutor to manipulate the jury’s reasoned deliberation and impair their fact-finding function.
+This is a slide used by the prosecution in a jury trial. The jury declared a guilty verdict that was later overturned because the slide was found to be ‘a calculated device employed by the prosecutor to manipulate the jury’s reasoned deliberation and impair their fact-finding function'.
 
 It also includes a closer look at what Robert Gaskin did when he invented PowerPoint. Did you know that the technical team that built it was 46% women? Because Robert consciously tried to hire people from non-typical backgrounds. He did this in 1987, when the average make-up of software engineering teams at other companies was 10% women. Fuck yeah Robert Gaskin!
 
@@ -73,11 +73,9 @@ And the final part of this book is about presenting. What’s cool about this se
 ![The page saying "talk to everyone in the room"](/assets/img/powerpoint_review/IMG_6332.jpeg)
 For example, he gives three ways to have a good ending:
 
-Finish earlier than expected.
-
-Sum up with a fast paced video of all the slides you’ve already shown. If you’ve designed your slides following earlier advice, showing them quickly along with some jaunty music will remind the audience all the ground you’ve covered
-
-Get your audience to clap. This is something Russell was fanatical about at GDS. We would clap everyone on and off. I loved it. As a presenter it made me feel welcomed, and as an audience member I felt like I was helping the presenter feel recognised and appreciated. If people clap it makes them think they enjoyed something. It’s really easy to trick people into clapping too, just start yourself.
+* Finish earlier than expected.
+* Sum up with a fast paced video of all the slides you’ve already shown. If you’ve designed your slides following earlier advice, showing them quickly along with some jaunty music will remind the audience all the ground you’ve covered
+* Get your audience to clap. This is something Russell was fanatical about at GDS. We would clap everyone on and off. I loved it. As a presenter it made me feel welcomed, and as an audience member I felt like I was helping the presenter feel recognised and appreciated. If people clap it makes them think they enjoyed something. It’s really easy to trick people into clapping too, just start yourself.
 
 ![A page saying "the end" with tips on how to end a presentation](/assets/img/powerpoint_review/IMG_6333.jpeg)
  
