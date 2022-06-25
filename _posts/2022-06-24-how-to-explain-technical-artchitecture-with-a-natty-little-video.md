@@ -15,7 +15,7 @@ Here is an example:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LSS9UWEYJys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## What this format is good for?
+## What is this format good for?
 In [Giles Turnbull’s Agile comms handbook](https://agilecommshandbook.com/) he talks about the three layers of comms, and these videos are in the context layer.
 
 ### These are scrappy, and that’s good
@@ -36,5 +36,3 @@ Then I used iMovie to narrate over the top of the captured video. I also found i
 When I tested playing a video and audio in Google Meet I got an echo on the audio so for any actual meetings in which these are presented I’ve disabled the audio function.
 
 These videos take a lot of inspiration from Vi Hart’s maths explainers from… oh god eleven years ago. I met Vi once at a conference and I asked her to say “snake snake snake” and she did it, which was very cool of her and very goofy of me to ask.
-
- 
