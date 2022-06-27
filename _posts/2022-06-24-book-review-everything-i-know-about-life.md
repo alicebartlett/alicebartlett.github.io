@@ -22,7 +22,7 @@ The book opens with a demonstration of Russell’s qualification to write this b
 
 Now, you may be thinking ‘I don’t think it’s appropriate to put myself into this presentation on our OKR progress for Q3’. Well you’re wrong my love. Of course, the presentation should contain the facts you want me to understand, but I’m only going to understand them if I am paying attention, and I’m more likely to pay attention if you’re being interesting, and you can be interesting by just being you.
 
-Russell also makes a connection between people who don't like powerpoint (civil servants, politicians, journalists, academics) and their strengths (giving speeches and arguing in long form writing). I think this is particularly interesting because I, uh, work with a lot of journalists…
+Russell also makes a connection between people who don't like PowerPoint (civil servants, politicians, journalists, academics) and their strengths (giving speeches and arguing in long form writing). I think this is particularly interesting because I, uh, work with a lot of journalists…
 
 > They didn’t understand why people couldn’t just deliver a speech instead, or just write an elegantly crafted paper or article
 
@@ -64,7 +64,7 @@ On the power of dividing presentations into three parts:
 There is heaps of advice on writing clearly so people understand you, and you understand yourself. When I’m not sure about something I tend to try and hide it behind more complicated words, but when I force myself to explain something in plain non-jargon language, that’s when I realise I don’t fully understand the idea and I have to go away and do some reading.
 
 ![Ryhme advice](/assets/img/powerpoint_review/IMG_6330.jpeg)
-As you would expect from a writer, Russell also has great advice about making your words interesting. Just because they are clear doesn’t mean you can’t be fun with alliteration, beefy verbs, rhymes.
+As you would expect from a writer, Russell also has great advice about making your words interesting. Just because they are clear doesn’t mean you can’t be fun with alliteration, beefy verbs, rhymes etc.
 
 ![Advice to people needing to present about a moon landing](/assets/img/powerpoint_review/IMG_6331.jpeg)
 
