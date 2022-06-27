@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: Everything I Know about Life I Learned from PowerPoint"
-date: 2022-XX-XX
+date: 2022-06-27
 category: [kitchen-drawer]
 ---
 
