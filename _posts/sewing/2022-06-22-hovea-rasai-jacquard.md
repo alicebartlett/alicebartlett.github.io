@@ -3,9 +3,9 @@ layout: post
 title: "A Hovea in Rasai Jacquard"
 date: 2023-01-22
 category: sewing
-headerimage: /assets/img/sewing/hovea/inside.jpeg
+headerimage: assets/img/sewing/hovea/inside.jpeg
 image: assets/img/sewing/hovea/filename.jpg
-tags: ["jackets", "merchant-and-mills", "megan-neilsen"]
+tags: ["coats", "merchant-and-mills", "megan-neilsen"]
 thumbnail: assets/img/sewing/hovea/thumb.jpg
 ---
 Programming note: if you're seeing this and thinking "hey this isn't a weaknote! I hate it!" that's fine. You could probably subscribe to the RSS feed of [_just weaknotes_ over here](https://alicebartlett.co.uk/feed/weaknotes.xml).
