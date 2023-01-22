@@ -5,13 +5,13 @@ date: 2023-01-22
 category: sewing
 headerimage: assets/img/sewing/hovea/inside.jpeg
 image: assets/img/sewing/hovea/filename.jpg
-tags: ["coats", "merchant-and-mills", "megan-neilsen"]
+tags: ["coats", "merchant-and-mills", "megan-nielsen"]
 thumbnail: assets/img/sewing/hovea/thumb.jpg
 ---
 Programming note: if you're seeing this and thinking "hey this isn't a weaknote! I hate it!" that's fine. You could probably subscribe to the RSS feed of [_just weaknotes_ over here](https://alicebartlett.co.uk/feed/weaknotes.xml).
 Also. I originally wrote this in June last year and then failed to publish it because I wanted some extra photos, that I then never managed to take. Anyway. Here it is. With me in June. I still wear this jacket a lot. it's been great.
 
-This is the [Megan Neilsen Hovea jacket](https://megannielsen.com/products/hovea-jacket-coat-pattern) in [Merchant and Mills Rasai Jacquard](https://merchantandmills.com/store/cloth/cotton/quilted-cotton/rasai-jacquard-square/). I think I was influenced on instagram into making this tbh. It worked out because I have worn it a lot, nearly constantly since I finished it few months ago.
+This is the [Megan Nielsen Hovea jacket](https://megannielsen.com/products/hovea-jacket-coat-pattern) in [Merchant and Mills Rasai Jacquard](https://merchantandmills.com/store/cloth/cotton/quilted-cotton/rasai-jacquard-square/). I think I was influenced on instagram into making this tbh. It worked out because I have worn it a lot, nearly constantly since I finished it few months ago.
 
 ## I have a couple of notes on the pattern
 
