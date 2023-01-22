@@ -3,9 +3,9 @@ layout: post
 title: "A Hovea in Rasai Jacquard"
 date: 2023-01-22
 category: sewing
-headerimage: assets/img/sewing/hovea/hovea_header.jpg
+headerimage: /assets/img/sewing/hovea/inside.jpeg
 image: assets/img/sewing/hovea/filename.jpg
-tags: ["trousers", "merchant-and-mills", "megan-neilsen"]
+tags: ["jackets", "merchant-and-mills", "megan-neilsen"]
 thumbnail: assets/img/sewing/hovea/thumb.jpg
 ---
 Programming note: if you're seeing this and thinking "hey this isn't a weaknote! I hate it!" that's fine. You could probably subscribe to the RSS feed of [_just weaknotes_ over here](https://alicebartlett.co.uk/feed/weaknotes.xml).
@@ -26,7 +26,7 @@ I finished the internal seams by hand to get a neat finish on the bias binding. 
 Another thing that took ages was creating the bias binding for the exterior edge. This is because I had to deconstruct the jacquard to give me a single layer of fabric.
 The jacquard is really nice. It is two layers of cotton with some threads running through the centre.
 
-![Side](/assets/img/sewing/hovea/side_view.jpeg)
-![Back](/assets/img/sewing/hovea/back-view.jpeg)
-![Front](/assets/img/sewing/hovea/front-view.jpeg)
+![Side](/assets/img/sewing/hovea/side.jpeg)
+![Back](/assets/img/sewing/hovea/back.jpeg)
+![Front](/assets/img/sewing/hovea/front.jpeg)
 ![Inner seam](/assets/img/sewing/hovea/inside.jpeg)
