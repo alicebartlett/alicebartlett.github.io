@@ -3,10 +3,10 @@ layout: post
 title: "Jaquard fielder"
 date: 2023-02-25
 category: sewing
-headerimage: assets/img/sewing/fielder-top/close-up.jpeg
-image: assets/img/sewing/fielder-top/close-up.jpg
+headerimage: assets/img/sewing/fielder-top/side.jpeg
+image: assets/img/sewing/fielder-top/side.jpg
 tags: ["tops", "merchant-and-mills"]
-thumbnail: assets/img/sewing/fielder-top/thumb.jpeg
+thumbnail: assets/img/sewing/fielder-top/thumbnail.jpeg
 ---
 
 I had enough [jaquard](https://merchantandmills.com/uk/rasai-jacquard-square) left over from the [hovea](https://alicebartlett.co.uk/blog/hovea-rasai-jacquard) to make a little [fielder t-shirt](https://merchantandmills.com/uk/the-fielder-top). It's got that sporty unexpected ribbed neckline I'm obsessed with. Like your regular t-shirts only _elevated, darling_.
