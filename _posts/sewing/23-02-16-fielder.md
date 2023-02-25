@@ -20,7 +20,7 @@ I used the lilac dip rib, which obviously goes perfectly as it is designed to to
 
 I'm not 100% happy with the fit of this across the shoulders. It could do with being a cm wider. Unclear if that's my sloppy sewing or the pattern.
 
-![side view of me in my jaquard t-shirt](/assets/img/sewing/fielder-top/side.jpeg)
+![side view of me in my jaquard t-shirt](/assets/img/sewing/fielder-top/close-up.jpeg)
 
 Obviously it looks very fun with its little matchy jacket. Well done me.
 
