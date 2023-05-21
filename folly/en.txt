@@ -40784,7 +40784,7 @@ laboring 49
 accorded 49
 celluloid 49
 meai 49
-embarassing 49
+embarrassing 49
 discriminating 49
 revelry 49
 obstructed 49
@@ -41920,7 +41920,7 @@ impostors 47
 halliburton 47
 bisbee 47
 northumberland 47
-embarassed 47
+embarrassed 47
 campfires 47
 carthage 47
 fusiliers 47
@@ -46206,7 +46206,7 @@ scavenging 39
 smears 39
 hewn 39
 thereto 39
-beleive 39
+believe39
 discriminated 39
 griddle 39
 dispatching 39
@@ -72523,7 +72523,7 @@ sabby 17
 offensively 17
 backflres 17
 annina 17
-embarass 17
+embarrass 17
 cythera 17
 salvageable 17
 queenstown 17
@@ -85381,7 +85381,7 @@ xlx 12
 shunning 12
 ioosen 12
 commision 12
-embarassment 12
+embarrassment 12
 flfth 12
 spicing 12
 thoughtlessly 12
@@ -104808,7 +104808,7 @@ disentangle 8
 osada 8
 morl 8
 alleghenies 8
-vomitting 8
+vomiting 8
 diverging 8
 nuits 8
 gondi 8
@@ -121552,7 +121552,7 @@ rebell 6
 carkeys 6
 castiglioncello 6
 marmi 6
-probaby 6
+probably 6
 frenzled 6
 usualy 6
 shcherba 6
@@ -129235,7 +129235,7 @@ oou 5
 brl 5
 gennevilliers 5
 koresh 5
-activites 5
+activities 5
 gibe 5
 everying 5
 couldtake 5
@@ -174979,7 +174979,7 @@ taparica 3
 bundys 3
 dailian 3
 zhongcheng 3
-forhead 3
+forehead 3
 buxomly 3
 squit 3
 brainbox 3
@@ -178186,7 +178186,7 @@ ginelli 3
 breathalyzed 3
 tadzu 3
 spurton 3
-peanutty 3
+peanuty 3
 fishbait 3
 assassimon 3
 expialidocious 3
@@ -185657,7 +185657,7 @@ carenza 3
 buffoni 3
 amiguinho 3
 besteira 3
-disembarassed 3
+disembarrassed 3
 innesford 3
 vhl 3
 wex 3
@@ -198938,7 +198938,7 @@ conformement 2
 malibú 2
 bartolemo 2
 afganistan 2
-toungue 2
+tongue 2
 cestio 2
 inteligencia 2
 fricandó 2
@@ -237939,7 +237939,7 @@ kriuchok 2
 detka 2
 babulya 2
 tolstyak 2
-disbeleive 2
+disbelieve2
 ukleika 2
 strateg 2
 niukh 2
