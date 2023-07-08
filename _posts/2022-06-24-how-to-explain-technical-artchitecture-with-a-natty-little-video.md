@@ -7,7 +7,7 @@ category: [kitchen-drawer]
 
  Me again. For one of the projects I'm currently overseeing at work I made a couple of videos to explain our current architecture.
 
-I did this because I needed to explain a bit about it at out big team meeting (the one with product managers, delivery managers, peopel outside of Customer Products etc etc), but when I simply drew the diagrams and photographed them there was too much information to show on one slide and get people to look at.
+I did this because I needed to explain a bit about it at out big team meeting (the one with product managers, delivery managers, people outside of Customer Products etc etc), but when I simply drew the diagrams and photographed them there was too much information to show on one slide and get people to look at.
 
 It made me realise that much of the value in drawing a diagram is the actual act of drawing it. So instead of popping the finished sketch on a slide I tried to capture the act of drawing it instead.
 
@@ -29,7 +29,7 @@ Another feature of these diagrams is that they are hard to edit. This is really 
 We have a lot of “living documents” at the FT, detailed Miros, or Lucids, or UMLs, which are out of date and nobody knows if they are allowed to update them, or how out of date they are. This kind of impossible to edit sketch is very appealing. The format is aligned with the intent of the content. “Here is a sketch, don’t take it too seriously, if you find it in 2 years stuff might have changed”.
 
 ## Hold tight for the science bit
-If you’ve read this far and think you’d like to give this a go - here are some details on how I did it. I have a tripod, and I used my iPhone’s time-lapse function to capture me drawing the diagram. It did take me a couple of goes to draw the diagrams in a way I was happy with.
+If you’ve read this far and think you’d like to give this a go - here are some details on how I did it. I have a tripod, and I used my iPhone’s to capture me drawing and then fiddled with the speed in iMovie. It did take me a couple of goes to draw the diagrams in a way I was happy with.
 
 Then I used iMovie to narrate over the top of the captured video. I also found it helpful to add in a title card, mainly so I could see in the movie thumbnail what the video was going to be of. I hardly ever use iMovie, which is free with my Mac, and doing this was pretty easy.
 
