@@ -4,7 +4,7 @@ title: "Barboursaurus Jacket"
 date: 2025-01-02
 category: sewing
 headerimage: assets/img/sewing/barboursaurus/header.jpeg
-image: assets/img/sewing/barboursaurus/main.jpg
+image: assets/img/sewing/barboursaurus/coat_5.jpg
 tags: ["sewing", "childrens", "merchant-and-mills"]
 thumbnail: assets/img/sewing/barboursaurus/thumb.jpeg
 ---
