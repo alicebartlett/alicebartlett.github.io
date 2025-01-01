@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Barboursaurus Jacket"
-date: 2025-01-02
+date: 2025-01-01
 category: sewing
 headerimage: assets/img/sewing/barboursaurus/header.jpeg
 image: assets/img/sewing/barboursaurus/coat_5.jpg
