@@ -5,7 +5,7 @@ date: 2025-01-01
 category: sewing
 headerimage: assets/img/sewing/barboursaurus/header.jpeg
 image: assets/img/sewing/barboursaurus/coat_5.jpg
-tags: ["sewing", "childrens", "merchant-and-mills"]
+tags: ["coats", "babies", "merchant-and-mills"]
 thumbnail: assets/img/sewing/barboursaurus/thumb.jpeg
 ---
 
@@ -25,8 +25,10 @@ C loves the coat - it has plenty of room for his toy cars in both pockets.
 
 Because I've reused the fabric, it has a lovely patina to it.
 
-![Me in the original green dry oilskin coat, looking very young](/assets/img/sewing/barboursaurus/me_in_jan.jpeg)
-![Me in the original coat](/assets/img/sewing/barboursaurus/coat_1.jpeg)
+![Me in the original green dry oilskin coat, looking very young](/assets/img/sewing/barboursaurus/me_jan2019.jpeg)
+![Me in the original coat](/assets/img/sewing/barboursaurus/me_by_cliffs.jpeg)
+![Chaz in his coat](/assets/img/sewing/barboursaurus/coat_1.jpeg)
+
 ![Chaz in his coat](/assets/img/sewing/barboursaurus/coat_2.jpeg)
 ![Chaz in his coat](/assets/img/sewing/barboursaurus/coat_3.jpeg)
 ![Chaz in his coat](/assets/img/sewing/barboursaurus/coat_4.jpeg)
