@@ -102,8 +102,7 @@
     "event_url":"http://lrug.org",
     "event_date":"12 Oct 2015",
     "talk_title":"Fixing a performance issue with the mustache gem",
-    "slides_url":"https://speakerdeck.com/evilstreak/fixing-a-performance-issue-with-the-mustache-gem",
-    "video_url":"https://skillsmatter.com/skillscasts/6598-debugging-and-fixing-performance-issues-with-the-mustache-gem-and-partials"
+    "slides_url":"https://speakerdeck.com/evilstreak/fixing-a-performance-issue-with-the-mustache-gem"
   },
   {
     "event_title":"Fronteers 2015",
