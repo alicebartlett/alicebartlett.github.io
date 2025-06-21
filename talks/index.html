@@ -18,14 +18,12 @@ title: Talks
                   <div class='post-metadata-words'>
                     <span>
                       {% if talk["event_url"] %}
-                      <span>
-                        {% if talk["talk_title_url"] %}
-                          <a href="{{ talk["event_url"] }}">{{ talk["event_title"] }}</a>
-                        {% else %}
-                          {{ talk["event_title"] }}
-                        {% endif %}
-                      </span>
+                        <a href='{{ talk["event_url"] }}'>{{ talk["event_title"] }}</a>
+                      {% else %}
+                        {{ talk["event_title"] }}
                       {% endif %}
+
+                    </span>
                     {% if talk["talk_title"] %}
                       <span>{{ talk["talk_title"] }}</span>
                     {% endif %}
