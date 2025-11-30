@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Week 378: Seal"
+date: 2025-11-30
+category: weaknotes
+---
+* The space between the last job and the next job.
+* Last week was great.
+* I painted the yellow bits of my skirting boards.
+* In a last ditch attempt to get the curtains in my office to move properly along the pole, not catching because the pole and the rings are somehow not compatible, I lubed it up with a silicone spray. "This will never work" I thought to myself. _But it bloody did_. I've been not drawing the curtains in that room despite the sun shining directly into my eyes during September for four years when the solution was in the garage all along.
+* On Tuesday I walked from Brighton to Newhaven along the seafront or atop the cliffs. In Newhaven there is a great cafe called Mamoosh that serves very fresh pitta, falafel, etc. On the weekends there is also a brewery open. The walk is 13k. I saw a seal. The bus back takes about 40 minutes and the buses are every 15 minutes more or less. I'm telling you all this because this is really the perfect day out and it's short enough to do in winter without being in the dark.
+* On Wednesday I went to London to return my laptop and pass. I did a bit of minimum viable mudlarking on the thames, picking up four pieces of pipe. I saw George in the lobby and walked him to Leon, before continuing on to meet Tom at Dauns. 
+* Behind Tom at Dauns was a man who is either famous or worked in the same office as me at some point in the past. I still can't work out which.
+* After giving Tom a tiny letterpress card that says "you're the best" which I've had in my house for at least 5 years while I deliberate on who is actually the best, I went on to Loop in Islington.
+* At the bottom of the escalator in Angel I remembered how I once saw my friend Sally coming down some escalators in London as I was going up. And then at the top of the escalators I saw Anne going the other way and yelled "anne! ANNE!" and exchanged some waves.
+*  After Loop I went to Ottolenghi and saw a definitely famous-from-instagram person. I bet Ottolenghi in Islington is just rammed with famous people 24/7.
+* On thursday I mended a load of clothing. Patched the knee of wee man's school trousers. Finally sewed the last button on a coat I made a month ago and have been wearing without the correct number of buttons since then.
+* Saturday was the school Christmas fair. The high point of which was looking at the giant sign in the hall that says "WE ALL HAVE THE RIGHT TO EAT IN A CALM AND PEACEFUL DINING HALL" and trying to work out if the giant professionally shot photos around the sign were of children at the school. Some aspects of the room were similar but there were lots of differences too, including that what was visible through the windows seemed dramatically different. One of E's friends told her the photos were of children in the primary school up the road. E and I discussed this for at lest 20 minutes before I decided it was time to "take our questions to the very top". So we went and found the head teacher.
+* Sometimes I pointlessly think about what it would be like to know everything in the world. You'd probably die of shock if you woke up one day and found you knew everything don't you think? I think it would actually ruin your life. But you would know how the universe began, and if Britney is OK, and, well... every fact in between.
+* [Chaz eating his porridge] "Some magic is real you know mam", [Me eating my toast] "Is it? like what?" [Chaz with a nonchalant shrug] "Buttercups".
