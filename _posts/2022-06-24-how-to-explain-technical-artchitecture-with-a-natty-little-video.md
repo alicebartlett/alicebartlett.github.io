@@ -7,7 +7,7 @@ category: [kitchen-drawer]
 
  Me again. For one of the projects I'm currently overseeing at work I made a couple of videos to explain our current architecture.
 
-I did this because I needed to explain a bit about it at out big team meeting (the one with product managers, delivery managers, people outside of Customer Products etc etc), but when I simply drew the diagrams and photographed them there was too much information to show on one slide and get people to look at.
+I did this because I needed to explain a bit about it at our big team meeting (the one with product managers, delivery managers, people outside of Customer Products etc etc), but when I simply drew the diagrams and photographed them there was too much information to show on one slide and get people to look at.
 
 It made me realise that much of the value in drawing a diagram is the actual act of drawing it. So instead of popping the finished sketch on a slide I tried to capture the act of drawing it instead.
 
@@ -19,7 +19,7 @@ Here is an example:
 In [Giles Turnbull’s Agile comms handbook](https://agilecommshandbook.com/) he talks about the three layers of comms, and these videos are in the context layer.
 
 ### These are scrappy, and that’s good
-Anybody with a deep familiarity with the system is going to find a bunch of problems with these diagrams. They don’t contain all the detail; I’ve missed off everything to do with authentication, cacheing, logging, and some other content APIs.
+Anybody with a deep familiarity with the system is going to find a bunch of problems with these diagrams. They don’t contain all the detail; I’ve missed off everything to do with authentication, caching, logging, and some other content APIs.
 
 Those diagrams also exist but they are the detail layer, not the context layer, where we give people “just enough” information to see if they want to know more or if they have what they need and can go on with their life.
 

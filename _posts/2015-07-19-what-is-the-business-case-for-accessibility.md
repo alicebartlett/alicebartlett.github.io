@@ -107,7 +107,7 @@ BUT
 
 If you're building your website from scratch right now why _wouldn't_ you make it accessible. Building accessible websites has never been easier! Make it part of what your definition of "good" is. As a front-end developer, add it to the list of ways you know you did your job well. Sneak accessibility in if you have to.
 
-Karl Groves (again) sums up this approach in his post [how expensive is web accessiblity?](http://www.karlgroves.com/2011/11/30/how-expensive-is-accessibility/):
+Karl Groves (again) sums up this approach in his post [how expensive is web accessibility?](http://www.karlgroves.com/2011/11/30/how-expensive-is-accessibility/):
 
 > When [accessibility] becomes part of how you do things, of course it is free.
 

@@ -5,7 +5,7 @@ date: 2024-12-13
 category: 
 ---
 
-Hello, ages ago I started thinking about PTA fundraising, and how if you go to a school where the parents all have a lot of spare cash, and worked in professions where the experiences are transferrable into running a fundraising organisation, then your PTA would be able to raise loads of money and you'd probably have some extra nice stuff, like a freshly tarmacked playground, and an actor coming into your yr 5 class pretending to be a viking.
+Hello, ages ago I started thinking about PTA fundraising, and how if you go to a school where the parents all have a lot of spare cash, and worked in professions where the experiences are transferable into running a fundraising organisation, then your PTA would be able to raise loads of money and you'd probably have some extra nice stuff, like a freshly tarmacked playground, and an actor coming into your yr 5 class pretending to be a viking.
 
 And if you lived in an area where everyone has less money, or is working multiple jobs, then you'd have a less well funded PTA, if you had one at all.
 
