@@ -1,0 +1,36 @@
+# Words to ignore for spell-checking (house style and accepted terms)
+# One word per line. Lines starting with # are comments.
+
+obvi
+ded
+gooch
+loadsa
+wanged
+fam
+Famly
+famly
+dgaf
+weaknotes
+Baddlands
+sprogs
+jibbits
+vinted
+Hove
+Wee
+wee
+welp
+Welp
+noice
+fave
+COO
+coo
+Hart
+Ned
+Noth
+repot
+repotted
+shat
+loafing
+newyorker
+dum
+

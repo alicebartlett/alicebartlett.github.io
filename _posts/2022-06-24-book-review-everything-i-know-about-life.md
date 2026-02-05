@@ -41,7 +41,7 @@ This section covers how PowerPoint got to be so ubiquitous. It has a review of t
 ![Leaked NSA slide](/assets/img/powerpoint_review/IMG_6326.jpeg)
 A slide from an NSA deck leaked by Edward Snowden. The slide shows how US security services had infiltrated big tech networks. At the infiltration point there is an arrow with the label ‘SSL added and removed here! :-)’
 
-![A slide used in a jury trial, it has the words GUILTY written accross the defendents face. Incredible.](/assets/img/powerpoint_review/IMG_6327.jpeg)
+![A slide used in a jury trial, it has the words GUILTY written across the defendants face. Incredible.](/assets/img/powerpoint_review/IMG_6327.jpeg)
 This is a slide used by the prosecution in a jury trial. The jury declared a guilty verdict that was later overturned because the slide was found to be ‘a calculated device employed by the prosecutor to manipulate the jury’s reasoned deliberation and impair their fact-finding function'.
 
 It also includes a closer look at what Robert Gaskin did when he invented PowerPoint. Did you know that the technical team that built it was 46% women? Because Robert consciously tried to hire people from non-typical backgrounds. He did this in 1987, when the average make-up of software engineering teams at other companies was 10% women. Fuck yeah Robert Gaskin!

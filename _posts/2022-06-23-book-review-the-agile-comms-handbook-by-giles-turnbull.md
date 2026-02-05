@@ -22,7 +22,7 @@ It has some powerful ideas I think we (at the FT) should really seriously listen
 
 An early idea that Giles introduces is the three layer cake of comms.
 
-On the top is the “lure” - this is a tweet length summation of whats going on. It invites people to read more, but allows them to determine if they’re actually going to find the "reading more bit" interesting or useful. It should grab people’s attention because people are busy!
+On the top is the “lure” - this is a tweet length summation of what's going on. It invites people to read more, but allows them to determine if they’re actually going to find the "reading more bit" interesting or useful. It should grab people’s attention because people are busy!
 
 Next on the cake is the “context” layer. This might be a blog post, or the body of an email. It tells people enough, but not so much that they don't have time to read it all.
 

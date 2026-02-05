@@ -15,7 +15,7 @@ I'm going to have to really smash though this blog post because my daughter is d
 
 This shirt pattern is really nice - 2 collar options, 3 placket options, 2 back pleat options and 3 length options means that for 1 pattern there are actually 36 different shirts you could possibly make.
 
-I went for the standard collar, hidden placket, box pleat, crop shirt version. Isn't she dreamy? I love a hidden placket - that's where theres a bit of fabric that covers the buttons so you can't see them.
+I went for the standard collar, hidden placket, box pleat, crop shirt version. Isn't she dreamy? I love a hidden placket - that's where there's a bit of fabric that covers the buttons so you can't see them.
 
 Another nice thing about this pattern is that it has kimono sleeves - so no setting required. I hate setting sleeves!
 
