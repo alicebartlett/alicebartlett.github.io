@@ -1,0 +1,50 @@
+#!/bin/bash
+
+# make-week: Create the next weaknote file for the upcoming Sunday
+
+set -e
+
+# Get the directory where the script lives (project root)
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR"
+
+# Find the next Sunday
+# %u: 1=Monday, 7=Sunday
+dow=$(date +%u)
+if [ "$dow" -eq 7 ]; then
+  # Today is Sunday, get next week's Sunday
+  days_until_sunday=7
+else
+  days_until_sunday=$((7 - dow))
+fi
+
+# Portable date: macOS uses -v, Linux uses -d
+if date -v+1d &>/dev/null; then
+  next_sunday=$(date -v+${days_until_sunday}d +%Y-%m-%d)
+else
+  next_sunday=$(date -d "+${days_until_sunday} days" +%Y-%m-%d)
+fi
+
+# Find the highest weaknote number and add 1
+last_num=$(ls _posts/weaknotes/*-weaknotes-*.md 2>/dev/null | grep -oE 'weaknotes-[0-9]+' | sort -t'-' -k2 -n | tail -1 | grep -oE '[0-9]+')
+next_num=$((${last_num:-0} + 1))
+
+filename="_posts/weaknotes/${next_sunday}-weaknotes-${next_num}.md"
+
+if [ -f "$filename" ]; then
+  echo "File already exists: $filename" >&2
+  exit 1
+fi
+
+cat > "$filename" << EOF
+---
+layout: post
+title: "Week ${next_num}: "
+date: ${next_sunday}
+category: weaknotes
+---
+* 
+
+EOF
+
+echo "Created $filename"
