@@ -26,7 +26,7 @@ else
 fi
 
 # Find the highest weaknote number and add 1
-last_num=$(ls _posts/weaknotes/*-weaknotes-*.md 2>/dev/null | grep -oE 'weaknotes-[0-9]+' | sort -t'-' -k2 -n | tail -1 | grep -oE '[0-9]+')
+last_num=$(find _posts/weaknotes -name '*-weaknotes-*.md' 2>/dev/null | grep -oE 'weaknotes-[0-9]+' | sort -t'-' -k2 -n | tail -1 | grep -oE '[0-9]+')
 next_num=$((${last_num:-0} + 1))
 
 filename="_posts/weaknotes/${next_sunday}-weaknotes-${next_num}.md"
