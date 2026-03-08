@@ -6,26 +6,33 @@ layout: default
     <div class="header-image" style="background-image: url('{{ site.baseurl }}/{{page.headerimage}}');">
     </div>
   {% endif %}
-  <div class='inner'>
-    <div class='content'>
-      <div class='post'>
-        <div class='section'>
-          <div class='post-meta {% if page.headerimage %} with-header-image {% endif %}'>
-            <h1>{{ page.title }}</h1>
-            <span class='post-date'>{{ page.date | date: "%B %-d, %Y" }}</span>
-            {% for tag in page.tags %}
-              {% assign tag_slug = tag | slugify: "raw" %}
-              <a class="tag-link"
-                href={{ site.baseurl | append: "/blog/tags/" | append: tag_slug }}
-                rel="category tag">
-                #{{ tag }}
-              </a>
-            {% endfor %}
+  <div class='inner {% if page.category == "weaknotes" %}post-with-sidebar{% endif %}'>
+    <div class='post-layout-wrapper'>
+      <div class='content post-main-content'>
+        <div class='post'>
+          <div class='section'>
+            <div class='post-meta {% if page.headerimage %} with-header-image {% endif %}'>
+              <h1>{{ page.title }}</h1>
+              <span class='post-date'>{{ page.date | date: "%B %-d, %Y" }}</span>
+              {% for tag in page.tags %}
+                {% assign tag_slug = tag | slugify: "raw" %}
+                <a class="tag-link"
+                  href={{ site.baseurl | append: "/blog/tags/" | append: tag_slug }}
+                  rel="category tag">
+                  #{{ tag }}
+                </a>
+              {% endfor %}
 
+            </div>
+            {{ content }}
           </div>
-          {{ content }}
         </div>
       </div>
+      
+      {% if page.category == "weaknotes" %}
+        {% include sidebar.html %}
+      {% endif %}
+      
     </div>
   </div>
   <div class="rss-subscribe">

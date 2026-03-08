@@ -1,0 +1,123 @@
+/* Sidebar styles for blog posts */
+
+.post-with-sidebar {
+  max-width: 1200px;
+}
+
+.post-layout-wrapper {
+  display: flex;
+  gap: $gutter * 2;
+  
+  @include media(mobile) {
+    flex-direction: column;
+    gap: $gutter;
+  }
+}
+
+.post-main-content {
+  flex: 1 1 70%;
+  min-width: 0; /* prevents flex item from overflowing */
+}
+
+.post-sidebar {
+  flex: 0 0 30%;
+  
+  @include media(mobile) {
+    flex: 1 1 auto;
+    order: 2; /* Move sidebar below content on mobile */
+  }
+}
+
+.sidebar-inner {
+  background-color: $white;
+  padding: 0 $gutter;
+  
+  h3 {
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 1.2em;
+    margin-bottom: $gutter/2;
+    border-bottom: 3px solid $yellow;
+    padding-bottom: $gutter/4;
+  }
+}
+
+.sidebar-bio {
+  margin-bottom: $gutter * 2;
+  
+  p {
+    font-size: 0.95em;
+    line-height: 1.5em;
+    color: #333;
+  }
+}
+
+.sidebar-on-this-day {
+  
+  .on-this-day-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .on-this-day-item {
+    margin: 0 0 $gutter 0;
+    padding: 0;
+    
+    &:before {
+      display: none; /* Override the default bullet style */
+    }
+  }
+  
+  .on-this-day-year {
+    display: inline;
+    color: inherit;
+    font-size: 0.85em;
+    font-weight: bold;
+    margin-right: 8px;
+    border-bottom: 3px solid $yellow;
+    padding-bottom: 1px;
+  }
+  
+  .on-this-day-future {
+    border-bottom-color: #6db3f2; /* Blue underline for future posts */
+  }
+  
+  .on-this-day-excerpt {
+    font-size: 0.85em;
+    color: #666;
+    margin-top: 4px;
+    margin-bottom: 0;
+    line-height: 1.4em;
+  }
+  
+  .on-this-day-empty {
+    font-size: 0.9em;
+    color: #999;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+    
+    &:before {
+      display: none;
+    }
+  }
+  
+  a {
+    font-size: 0.95em;
+    line-height: 1.4em;
+  }
+}
+
+/* Mobile: Convert sidebar to collapsed links */
+@include media(mobile) {
+  .sidebar-on-this-day {
+    .on-this-day-excerpt {
+      display: none; /* Hide excerpts on mobile */
+    }
+    
+    .on-this-day-item {
+      margin-bottom: $gutter/2;
+    }
+  }
+}
