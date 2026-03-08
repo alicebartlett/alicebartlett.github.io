@@ -1,0 +1,36 @@
+# Title exemptions - titles that should NOT be normalized
+# Format: Week N: Exact title text
+# One per line, case-sensitive
+
+# Special formatting/emoticons
+Week 36: t('_'t)
+Week 69: - nice
+Week 75: 𝔞𝔭𝔭𝔰 𝔰𝔱𝔯𝔞𝔱𝔢𝔤𝔶
+Week 122: Beaknotes 🐦
+Week 129: ¯\_(ツ)_/¯
+
+# Intentional all-caps/styling
+Week 99: PRAY 4 THE HAIRCUT PPL
+Week 51: Hotel, motel, Holiday Inn
+Week 60: Well done Squirrels
+Week 61: The Sugababes are reforming
+Week 64: Welcome to Lenin's Communist School
+Week 66: HOW DARE YOU
+Week 72: The Arch Bishop of Canterbury naked
+Week 90: Can You Fill Me In
+Week 110: TV? Snap snap snap
+Week 115: Ned Flanders opens the Leftorium
+Week 141: Brakes Coppice
+Week 143: Accidental Partridge
+Week 172: Postictal State
+Week 195: I AM A HOOT
+Week 205: Pragmatic Book Club
+Week 236: Cats? Magpies? Foxes?
+Week 251: DETAILS MATTER, PEOPLE
+Week 252: StaffPlus
+Week 266: Mary and Murray
+Week 278: What Nancy
+Week 292: Muscle Tom
+Week 315: I Am Not A Statistician
+Week 323: Smooth and Crunchy
+Week 329: Alan Munch
