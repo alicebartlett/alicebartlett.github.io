@@ -196,3 +196,38 @@ footer {
     }
   }
 }
+
+
+@media print {
+
+  body {
+    margin: 0;
+
+    color: #000;
+    background-color: #fff;
+    font-size: 12pt;
+    font-family: Georgia;
+
+    .post .post-meta {
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    }
+
+    h1, h2 {
+      font-family: Georgia;
+      font-size: 14pt;
+    }
+
+    .blog-nav, .post-sidebar, .rss-subscribe, footer, header {
+      display: none;
+    }
+
+    .container {
+      border: 0;
+    }
+
+
+  }
+
+}
