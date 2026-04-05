@@ -211,7 +211,7 @@ footer {
     .post .post-meta {
       border-bottom: 0px;
       padding-bottom: 10px;
-      margin-bottom: 30px;
+      margin-bottom: 20px;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -237,9 +237,6 @@ footer {
       filter: grayscale(100%) contrast(1.1);
     }
 
-    section.post {
-      break-before: page;
-    }
 
     @page {
       @bottom-center {
