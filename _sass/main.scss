@@ -231,6 +231,24 @@ footer {
       content: " (" attr(href) ") ";
     }
 
+    img {
+      max-width: 100%;
+      max-height: 50vh;
+      break-inside: avoid;
+      filter: grayscale(100%) contrast(1.1);
+    }
+
+    section.post {
+      break-before: page;
+    }
+
+    @page {
+      @bottom-center {
+        content: counter(page);
+        font-size: 10pt;
+        font-family: serif;
+      }
+    }
   }
 
 }
