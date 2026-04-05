@@ -214,7 +214,7 @@ footer {
       margin-bottom: 30px;
     }
 
-    h1, h2 {
+    h1, h2, h3, h4, h5, h6 {
       font-family: Georgia;
       font-size: 16pt;
     }
@@ -226,7 +226,7 @@ footer {
     .container {
       border: 0;
     }
-    
+
     a:after {
       content: " (" attr(href) ") ";
     }
