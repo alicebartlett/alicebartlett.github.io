@@ -198,6 +198,33 @@ footer {
 }
 
 
+.envelope-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: $gutter/3;
+  padding-bottom: $gutter*2;
+
+  @include media(mobile) {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  }
+}
+
+.envelope-item {
+  margin: 0;
+
+  img {
+    width: 100%;
+    display: block;
+    margin: 0;
+  }
+
+  figcaption {
+    font-size: $base-font-size * 0.7;
+    padding-top: $gutter/6;
+    line-height: 1.2;
+  }
+}
+
 @media print {
 
   body {

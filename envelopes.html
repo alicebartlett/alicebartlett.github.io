@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: /envelopes
+title: Envelope privacy patterns
+---
+<div class="container">
+  <div class="inner">
+    <div class="content">
+      <h1>Envelope privacy patterns</h1>
+      <p>I collect envelope privacy patterns. Many of these are modern and from the UK but it's quite easy to source ones from the 1970s, sold by people selling to stamp collectors. If you've got an old envelope with a new pattern, send it over!</p>
+      <div class="envelope-grid">
+        {% for envelope in site.data.envelopes %}
+          <figure class="envelope-item">
+            <img src="/assets/img/envelopes/{{ envelope.filename }}" alt="Envelope privacy pattern">
+            <figcaption>
+              {% if envelope.country != "" %}{{ envelope.country }}{% endif %}{% if envelope.country != "" and envelope.year %}, {% endif %}{% if envelope.year %}{{ envelope.year }}{% endif %}
+            </figcaption>
+          </figure>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
