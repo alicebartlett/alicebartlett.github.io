@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Week 407: Soho-mayo"
+date: 2026-06-21
+category: weaknotes
+---
+* In case you haven't gotten the news already from (tom)[https://tomstu.art/] - it's warm. I like it but he doesn't and annually I say "lovely weather" on my blog and he describes the tyranny of the oppressive heat on his. This is called free speech.
+* The queue for the Soho mayonnaise (soho-mayo?) pop-up was round the block. I sent a video to Lachie because he hates mayo. He'd probably dislike it a normal amount were it not so prevalent in cheap sandwiches.
+* Speaking of cheap sandwiches, I tried to grab lunch with a colleague, who was going to Tesco for a meal deal, but when I got there I thought, actually, I can't ruin my lunch with this. I will take the rinsing for being posh and enjoy a nice sammo from over the road.
+* The kids are eating the peas, fresh from the pod, every day. They love the peas. I love them loving the peas.
+* No tomatoes yet, can't wait.
+* I'm going to Saltdean Lido this week. I've booked tickets. You can't stop me.
+* Please don't "use AI to polish" your blog posts. It makes them sound like every other blog post on the internet and therefore makes them very boring to read. I like your idiosyncratic little voice ok? Your silly little grammars. You're the only you there is.
